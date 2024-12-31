@@ -1,4 +1,6 @@
-# [Slides](https://github.com/andrewtavis/slides)
+<div align="center">
+  <a href="https://github.com/andrewtavis/slides"><img src="https://raw.githubusercontent.com/andrewtavis/slides/main/.github/resources/SlidesLogoGitHubBanner.png" width=1024 alt="Slides logo"></a>
+</div>
 
 [![issues](https://img.shields.io/github/issues/andrewtavis/slides?label=%20&logo=github)](https://github.com/andrewtavis/slides/issues)
 [![license](https://img.shields.io/github/license/andrewtavis/slides.svg?label=%20)](LICENSE.txt)
