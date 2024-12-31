@@ -8,11 +8,11 @@
 
 This repo contains various presentations for open-source software related topics. The slides are created using [Slidev](https://github.com/slidevjs/slidev).
 
-Suggestions for how to improve the content of these slides are more than welcome! Edits will mainly be made in the corresponding `slides.md` file for each presentation. Please see the [contributing guide](CONTRIBUTING.md) if you'd like to help ✨
+Suggestions for how to improve the content of these slides are more than welcome! ✨ Edits will mainly be made in the corresponding `slides.md` file for each presentation. Please see the [contributing guide](CONTRIBUTING.md) if you'd like to help.
 
 ## **Contents**
 
-- [OSS Maintenance](https://github.com/andrewtavis/slides/oss_maintenance)
+- [OSS Maintenance](https://github.com/andrewtavis/slides/tree/main/oss_maintenance)
   - Tips and lessons learned on maintaining open-source software
 
 ## Building Slides
