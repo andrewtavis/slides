@@ -19,13 +19,11 @@ Suggestions for how to improve the content of these slides are more than welcome
 
 ## Building Slides
 
-First clone this repository:
+First clone this repository or your fork:
 
 ```bash
 git clone https://github.com/andrewtavis/slides.git
-
-# Or clone your fork:
-git clone https://github.com/<your-username>/slides.git
+# git clone https://github.com/<your-username>/slides.git
 ```
 
 Then navigate to the slides you'd like to run and execute the `run dev` command for your package manager of choice:
