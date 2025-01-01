@@ -14,8 +14,10 @@ Suggestions for how to improve the content of these slides are more than welcome
 
 ## **Contents**
 
+- [OSS Community Building](https://github.com/andrewtavis/slides/tree/main/oss_community_building)
+  - How to build efficient and fun communities
 - [OSS Maintenance](https://github.com/andrewtavis/slides/tree/main/oss_maintenance)
-  - Tips and lessons learned on maintaining open-source software
+  - Tips for maintaining open-source software
 
 ## Building Slides
 
