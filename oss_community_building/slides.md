@@ -20,7 +20,6 @@ Slide notes.
 
 ---
 class: text-left
-transition: slide-left
 hideInToc: true
 ---
 
@@ -45,7 +44,6 @@ hideInToc: true
 
 ---
 class: text-left
-transition: slide-left
 hideInToc: true
 ---
 
@@ -55,7 +53,6 @@ hideInToc: true
 
 ---
 class: text-left
-transition: slide-left
 hideInToc: false
 ---
 
@@ -79,7 +76,6 @@ hideInToc: false
 
 ---
 class: text-left
-transition: slide-left
 hideInToc: false
 ---
 
@@ -103,7 +99,6 @@ hideInToc: false
 
 ---
 class: text-left
-transition: slide-left
 hideInToc: false
 ---
 
@@ -120,7 +115,7 @@ hideInToc: false
 
 ## Internships
 
-> Advertise your participation in your documentation!
+> Advertise internship participation in your documentation!
 
 - [Outreachy](https://www.outreachy.org/) ([Software Freedom Conservancy](https://sfconservancy.org/))
 - [Google Summer of Code](https://summerofcode.withgoogle.com/)
@@ -128,7 +123,6 @@ hideInToc: false
 
 ---
 class: text-left
-transition: slide-left
 hideInToc: false
 ---
 
@@ -141,8 +135,8 @@ hideInToc: false
 ## Students
 
 - Many students need to contribute to open-source for classes
-- If they are working on a school project, always ask them what the deadline is
 - Positive interactions with one student can lead to others from the same school joining
+- If they are working on a school project, always ask them what the deadline is
 
 ## Professionals
 
@@ -151,7 +145,6 @@ hideInToc: false
 
 ---
 class: text-left
-transition: slide-left
 hideInToc: false
 ---
 
@@ -164,48 +157,16 @@ hideInToc: false
 - Mentorship and working towards internships (Outreachy, GSoC, LFX)
   - They need to earn the internship over new applicants (ex: review other contributions)
 
-## Professionals
-
-- Help them find work via recommendations and connecting them to your network
-
-## All
+## All contributors
 
 - CV, resume and application checks
+- Help them find work via recommendations and connecting them to your network
 - Let their interests drive their contributions (especially if you're not paying them)
+- Provide triage rights, then organization membership, then write access, etc
 - Share ownership (of part of the code, of a project, of the organization)
 
 ---
 class: text-left
-transition: slide-left
-hideInToc: false
----
-
-# Code repository roles
-
-## Contributor
-
-- Read (0: can clone project and open issues **\*Is OSS**)
-- Triage (1: can manage issues and contributions)
-  - ~3-6 months of regular contributions and good communication (advertise this in documentation)
-
-## Reviewer
-
-- Promote triage level reviewers to organization members
-- Write (2: can directly commit to the project **\*2FA**)
-
-## Maintainer
-
-- Maintain (3: can control some project settings **\*2FA**)
-- Admin (4: can control all project settings - i.e. delete it **\*2FA**)
-
-<!--
-- There being read rights means the project is open-source.
-- The roles marked with 2FA need to have two factor authentication on their devices.
--->
-
----
-class: text-left
-transition: slide-left
 hideInToc: false
 ---
 
@@ -228,8 +189,7 @@ hideInToc: false
 
 ---
 class: text-left
-transition: slide-left
-hideInToc: true
+hideInToc: false
 ---
 
 # Dev sync example
@@ -254,14 +214,13 @@ Here's the recap for today/yesterday/Saturday's dev sync 🧑‍💻♻️
 
 ...
 
-The next dev sync will be [Saturday the DAY of MONTH at 16:00 UTC](ZONESTAMP_URL_FOR_NEXT_SYNC).
+The next dev sync will be...
 
 Nice outro 😊
 ```
 
 ---
 class: text-left
-transition: slide-left
 hideInToc: false
 ---
 
@@ -281,7 +240,6 @@ hideInToc: false
 
 ---
 class: text-left
-transition: slide-left
 hideInToc: false
 ---
 
@@ -290,7 +248,7 @@ hideInToc: false
 - Going above and beyond with community support builds comradery that will extend beyond yourself
 - With the above in mind, please watch out for burnout
   - Take care of yourself, have a life, set boundaries and respect when people need to step away
-- Include the community by saying "we" instead of "I" wherever possible
+- Include the community wherever possible by saying "we" instead of "I"
 - Keep your communication positive! (but be mindful of cultural interpretations)
 
   - :) 😊 😀 👏 🚀 ✨ ⭐ 🌟 💫 🤩 😍 🥳 🙌 🎉 ❤️ 🧡 💛 💚 💙 🩵 💜 🩷 🤎
@@ -300,7 +258,6 @@ hideInToc: false
 
 ---
 class: text-left
-transition: slide-left
 hideInToc: true
 ---
 
