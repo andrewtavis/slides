@@ -1,0 +1,44 @@
+.slidev-layout {
+  h1 {
+    --uno: text-slate-600;
+  }
+
+  a {
+    --uno: text-slate-600 dark-hover-text-slate-600;
+  }
+
+  a {
+    border-bottom: none;
+  }
+
+  blockquote {
+    --uno: rounded-none border-l-2 border-l-slate-600 m-2;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  ul,
+  p,
+  div,
+  code {
+    --uno: select-text;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .slidev-layout {
+    h1 {
+      --uno: text-slate-400;
+    }
+
+    a {
+      --uno: text-slate-400 hover-text-slate-400;
+    }
+
+    blockquote {
+      --uno: rounded-none border-l-2 border-l-slate-400 m-2;
+    }
+  }
+}
