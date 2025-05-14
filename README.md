@@ -37,14 +37,19 @@ npm install
 pnpm install
 ```
 
-Build and open your slides of choice by navigating to its directory and executing the `run dev` command for your package manager:
+Build and open your slides of choice by navigating to its directory, linking it to the shared dependencies and executing the `run dev` command for your package manager:
 
 ```bash
 cd SLIDES_OF_CHOICE
 
 # Based on your package manager:
+yarn install
 yarn run dev
+
+npm install
 npm run dev
+
+pnpm install
 pnpm run dev
 ```
 
