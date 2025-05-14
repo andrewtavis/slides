@@ -51,12 +51,12 @@ hideInToc: true
 
 # Open-source roles
 
-## Contributor (and above)
+## Contributor _(and above)_
 
 - Writes code for the issues they're assigned
 - Communicates with community on their issues
 
-## Reviewer (and above)
+## Reviewer _(and above)_
 
 - Reviews code contributions from others
 - Assigns issues to contributors and supports them (triage)
