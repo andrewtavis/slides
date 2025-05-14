@@ -4,4 +4,4 @@ My experiences building engaged and fun communities around open-source projects.
 
 ### Presentations
 
-- 2025/05/15: tech from below
+- [2025/05/15: tech from below](https://techfrombelow.de/2025-05-15/)
