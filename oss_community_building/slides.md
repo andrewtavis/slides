@@ -53,7 +53,6 @@ hideInToc: true
 
 ---
 class: text-left
-hideInToc: false
 ---
 
 # Open-source roles
@@ -76,7 +75,6 @@ hideInToc: false
 
 ---
 class: text-left
-hideInToc: false
 ---
 
 # Preparing your project
@@ -99,7 +97,6 @@ hideInToc: false
 
 ---
 class: text-left
-hideInToc: false
 ---
 
 # Finding contributors
@@ -123,7 +120,6 @@ hideInToc: false
 
 ---
 class: text-left
-hideInToc: false
 ---
 
 # Who you'll find
@@ -145,7 +141,6 @@ hideInToc: false
 
 ---
 class: text-left
-hideInToc: false
 ---
 
 # Supporting your community
@@ -157,7 +152,7 @@ hideInToc: false
 - Mentorship and working towards internships (Outreachy, GSoC, LFX)
   - They need to earn the internship over new applicants (ex: review other contributions)
 
-## All contributors
+## All community members
 
 - CV, resume and application checks
 - Help them find work via recommendations and connecting them to your network
@@ -167,7 +162,6 @@ hideInToc: false
 
 ---
 class: text-left
-hideInToc: false
 ---
 
 # Rituals
@@ -189,7 +183,6 @@ hideInToc: false
 
 ---
 class: text-left
-hideInToc: false
 ---
 
 # Dev sync example
@@ -200,8 +193,8 @@ Your Project Dev Sync YYYY/MM/DD
 Participants Section (please list yourself if you'd like to)
 
 Topics
-  Recap done by: NAME
   All: Introductions 👋
+  Recap done by: NAME
   All: Does anyone want a calendar invite to the dev sync?
   All: Go through the project board: LINK_TO_PROJECT_BOARD
   Name: Topic of discussion
@@ -221,7 +214,6 @@ Nice outro 😊
 
 ---
 class: text-left
-hideInToc: false
 ---
 
 # Ritual workflows
@@ -240,7 +232,6 @@ hideInToc: false
 
 ---
 class: text-left
-hideInToc: false
 ---
 
 # Important points
@@ -253,6 +244,7 @@ hideInToc: false
 
   - :) 😊 😀 👏 🚀 ✨ ⭐ 🌟 💫 🤩 😍 🥳 🙌 🎉 ❤️ 🧡 💛 💚 💙 🩵 💜 🩷 🤎
 
+- Try to bring in PRs/MRs, and discuss in the community what qualifies as a good contribution
 - Don't "lgtm": Contextualize the contribution, thank them and say you're looking forward to the next time!
 - Enjoy the friendships you'll make ❤️
 
