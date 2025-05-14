@@ -27,11 +27,11 @@ hideInToc: true
 - Data Analyst focussed on Wikidata and other Linked Open Data products at Wikimedia Deutschland
 - Initiator and maintainer of a few open-source, user-facing applications
 
-## [activist.org](https://github.com/activist-org)
+## [activist.org](https://github.com/activist-org) _(~150 contributors)_
 
 - Platform for political activism (organizations, working groups, events, link dump resources and more)
 
-## [Scribe](https://github.com/scribe-org)
+## [Scribe](https://github.com/scribe-org) _(~100 contributors)_
 
 - Wikidata based language tools (keyboards that help second language learners, data processing tools)
 
