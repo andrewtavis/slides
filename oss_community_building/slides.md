@@ -19,7 +19,6 @@ Slide notes.
 -->
 
 ---
-class: text-left
 hideInToc: true
 ---
 
@@ -43,7 +42,6 @@ hideInToc: true
 > Thanks to all of the amazing people in the above communities! ❤️
 
 ---
-class: text-left
 hideInToc: true
 ---
 
@@ -51,8 +49,6 @@ hideInToc: true
 
 <Toc minDepth="1" maxDepth="1" />
 
----
-class: text-left
 ---
 
 # Open-source roles
@@ -74,8 +70,6 @@ class: text-left
 - Facilitates community discussions (brings in reviewers and other maintainers)
 
 ---
-class: text-left
----
 
 # Preparing your project
 
@@ -95,8 +89,6 @@ class: text-left
 - Code of Conduct: [Contributor Covenant](https://www.contributor-covenant.org/) or similar
 - Other: Style guide, security file, privacy policy, 3rd party software notice, localization guide, etc
 
----
-class: text-left
 ---
 
 # Finding contributors
@@ -119,8 +111,6 @@ class: text-left
 - [Linux Foundation Mentorship Program (LFX)](https://lfx.linuxfoundation.org/tools/mentorship/)
 
 ---
-class: text-left
----
 
 # Who you'll find
 
@@ -139,8 +129,6 @@ class: text-left
 - Often times switching careers or in-between jobs
 - Ask experienced professionals to critique and write issues
 
----
-class: text-left
 ---
 
 # Supporting your community
@@ -161,8 +149,6 @@ class: text-left
 - Share ownership (of part of the code, of a project, of the organization)
 
 ---
-class: text-left
----
 
 # Rituals
 
@@ -181,8 +167,6 @@ class: text-left
 - Deployment calls 🚀
   - Great opportunity to celebrate and teach community members
 
----
-class: text-left
 ---
 
 # Dev sync example
@@ -213,10 +197,8 @@ Nice outro 😊
 ```
 
 ---
-class: text-left
----
 
-# Ritual workflows
+# Ritual automation
 
 - There's a lot of work involved in keeping to your rituals, so try to automate what you can
 - [Dev sync reminder message](https://github.com/scribe-org/Organization/blob/main/.github/workflows/matrix_dev_sync_reminder.yml)
@@ -230,8 +212,6 @@ class: text-left
   - Filter out organization members so the focus is on people new to the community
   - Use this as a reminder to share things about your contributors on social media
 
----
-class: text-left
 ---
 
 # Important points
@@ -249,7 +229,6 @@ class: text-left
 - Enjoy the friendships you'll make ❤️
 
 ---
-class: text-left
 hideInToc: true
 ---
 
