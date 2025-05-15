@@ -73,10 +73,26 @@ hideInToc: true
 
 ## Tools
 
-- [GitHub](https://github.com/) or [GitLab](https://about.gitlab.com/) (code) + \[insert email/calendar app\] + [Matrix](https://matrix.org/) (communication) + [Weblate](https://weblate.org/en/) (localization)
-  - People are confused by Matrix federation, so suggest they use [Element](https://element.io/) in your documentation
+- Codebase: [GitHub](https://github.com/) or [GitLab](https://about.gitlab.com/)
+- Office: \[insert email/calendar app\] ([Proton](https://proton.me/))
+- Communication: [Matrix](https://matrix.org/) or [Zulip](https://zulip.com/)
+  - Bring your account vs. no account required
+  - People are confused by Matrix federation
+  - Suggest [Element](https://element.io/) or another client in your documentation
 
-## Documentation
+## Other teams
+
+- Localization: [Weblate](https://weblate.org/en/)
+- Design: [Open Source Design](https://opensourcedesign.net/)
+  - Fill out the [job form](https://opensourcedesign.net/jobs/job-form/) to work with their community
+
+---
+hideInToc: true
+---
+
+# Preparing your project (2)
+
+## Initial documentation
 
 > Borrow liberally from other open-source projects
 
@@ -85,7 +101,11 @@ hideInToc: true
 - License: For both the code and the content
 - Contributing guide: More advanced setup, all testing procedures, learning resources, etc
 - Code of Conduct: [Contributor Covenant](https://www.contributor-covenant.org/) or similar
-- Other: Style guide, security file, privacy policy, 3rd party software notice, localization guide, etc
+
+## Added later
+
+- Other files: Style guide, security file, privacy policy, 3rd party software notice, localization guide, etc
+- Contribution checks: Code linting, formatting checks, testing and code coverage reports
 
 ---
 
