@@ -160,6 +160,7 @@ hideInToc: true
 
 ## All community members
 
+- Check that their Git email matches their account to make sure they get the contribution
 - CV, resume and application checks
 - Job recommendations and connecting them to your network
 - Let their interests drive their contributions (especially if you're not paying them)
