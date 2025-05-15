@@ -214,15 +214,18 @@ Nice outro 😊
 
 # Important points
 
+## Self care
+
 - Going above and beyond with community support builds comradery that will extend beyond yourself
 - With the above in mind, please watch out for burnout
   - Take care of yourself, have a life, set boundaries and respect when people need to step away
+
+## Community
+
 - Include the community wherever possible by saying "we" instead of "I"
-- Keep your communication positive! (but be mindful of cultural interpretations)
-
-  - :) 😊 😀 👏 🚀 ✨ ⭐ 🌟 💫 🤩 😍 🥳 🙌 🎉 ❤️ 🧡 💛 💚 💙 🩵 💜 🩷 🤎
-
-- Try to bring in contributions and discuss in the community how hard it should be to contribute
+- Keep your communication positive! (and be mindful of cultural interpretations)
+- Discuss with community how hard it should be to contribute (tests, `pre-commit`, when to close a PR/MR)
+- Try to bring in contributions, check in if there's been no activity and say "Hope all's well!"
 - Don't "lgtm": Contextualize the contribution, thank them and say you're looking forward to the next time!
 - Enjoy the friendships you'll make ❤️
 
