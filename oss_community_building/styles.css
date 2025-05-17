@@ -26,6 +26,10 @@
   code {
     --uno: select-text;
   }
+
+  #progress {
+    --uno: absolute bottom-0 left-0 h-1 bg-slate-600;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
@@ -40,6 +44,10 @@
 
     blockquote {
       --uno: rounded-none border-l-2 border-l-slate-400 m-2;
+    }
+
+    #progress {
+      --uno: bg-slate-400;
     }
   }
 }

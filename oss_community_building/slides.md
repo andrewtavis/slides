@@ -20,14 +20,20 @@ My experiences building engaged and fun communities around open-source projects
 hideInToc: true
 ---
 
+# Contents
+
+<Toc minDepth="1" maxDepth="1" />
+
+---
+
 # About me
 
 ## Andrew / Andy
 
 - Data Analyst focussed on Wikidata and other Linked Open Data products at Wikimedia Deutschland
-- Initiator and maintainer of a few open-source applications
+- Initiator and maintainer of a few open-source communities
 
-## [activist.org](https://github.com/activist-org) _(~160 contributors)_
+## [activist](https://github.com/activist-org) _(~160 contributors)_
 
 - Platform for political activism (organizations, working groups, events, link dump resources and more)
 
@@ -39,13 +45,7 @@ hideInToc: true
 
 > Thanks to all of the amazing people in these communities! ❤️
 
----
-hideInToc: true
----
-
-# Contents
-
-<Toc minDepth="1" maxDepth="1" />
+<div id="progress" class="w-1/12"/>
 
 ---
 
@@ -64,19 +64,23 @@ hideInToc: true
 
 ## Maintainer
 
-- Prioritizes issues and guides projects via their roadmaps
+- Prioritizes issues and guides projects via roadmaps
 - Facilitates community discussions (brings in reviewers and other maintainers)
 
+<div id="progress" class="w-2/12"/>
+
+---
+title: Preparing your project
 ---
 
-# Preparing your project
+# Preparing your project (1)
 
 ## Tools
 
 - Codebase: [GitHub](https://github.com/) or [GitLab](https://about.gitlab.com/)
 - Office: \[insert email/calendar app\] ([Proton](https://proton.me/))
 - Communication: [Matrix](https://matrix.org/) or [Zulip](https://zulip.com/)
-  - Bring your account vs. no account required
+  - Bring your account vs. no account required for public rooms
   - People are confused by Matrix federation
   - Suggest [Element](https://element.io/) or another client in your documentation
 
@@ -85,6 +89,8 @@ hideInToc: true
 - Localization: [Weblate](https://weblate.org/en/)
 - Design: [Open Source Design](https://opensourcedesign.net/)
   - Fill out the [job form](https://opensourcedesign.net/jobs/job-form/) to work with their community
+
+<div id="progress" class="w-3/12"/>
 
 ---
 hideInToc: true
@@ -98,7 +104,7 @@ hideInToc: true
 
 - Readme: Project description, everything to start developing, logo at the top
   - Logos: A PNG banner with the project name over a color is more inviting than just text
-- License: For both the code and the content
+- License: For both the code and the content (and license headers for files)
 - Contributing guide: More advanced setup, all testing procedures, learning resources, etc
 - Code of Conduct: [Contributor Covenant](https://www.contributor-covenant.org/) or similar
 
@@ -106,6 +112,8 @@ hideInToc: true
 
 - Other files: Style guide, security file, privacy policy, 3rd party software notice, localization guide, etc
 - Contribution checks: Code linting, formatting checks, testing and code coverage reports
+
+<div id="progress" class="w-4/12"/>
 
 ---
 
@@ -128,6 +136,8 @@ hideInToc: true
 - [Google Summer of Code](https://summerofcode.withgoogle.com/)
 - [Linux Foundation Mentorship Program (LFX)](https://lfx.linuxfoundation.org/tools/mentorship/)
 
+<div id="progress" class="w-5/12"/>
+
 ---
 
 # Who you'll find
@@ -147,6 +157,8 @@ hideInToc: true
 - Often times switching careers or in-between jobs
 - Ask experienced professionals to critique the project and write issues
 
+<div id="progress" class="w-6/12"/>
+
 ---
 
 # Supporting your community
@@ -160,12 +172,14 @@ hideInToc: true
 
 ## All community members
 
-- Check that their Git email matches their account to make sure they get the contribution
+- Check that their Git email matches their account to make sure they get contributions
 - CV, resume and application checks
 - Job recommendations and connecting them to your network
 - Let their interests drive their contributions (especially if you're not paying them)
 - Promote them via repository triage rights, organization membership, write access (**\*2FA**), etc
 - Share ownership (of part of the code, of a project, of the organization)
+
+<div id="progress" class="w-7/12"/>
 
 ---
 
@@ -185,6 +199,8 @@ hideInToc: true
   - Generally attended by core contributors and those wanting to contribute more
 - Deployment calls 🚀
   - Great opportunity to celebrate and teach community members
+
+<div id="progress" class="w-8/12"/>
 
 ---
 
@@ -215,6 +231,8 @@ The next dev sync will be ...
 Nice outro 😊
 ```
 
+<div id="progress" class="w-9/12"/>
+
 ---
 
 # Ritual automation
@@ -231,6 +249,8 @@ Nice outro 😊
   - Filter out organization members so the focus is on people new to the community
   - Use this as a reminder to share things about your contributors on social media
 
+<div id="progress" class="w-10/12"/>
+
 ---
 
 # Important points
@@ -245,10 +265,13 @@ Nice outro 😊
 
 - Include the community wherever possible by saying "we" instead of "I"
 - Keep your communication positive! (and be mindful of cultural interpretations)
+- Prompt communication when you assign an issue and thank them for opening PRs/MRs
 - Discuss with community how hard it should be to contribute (tests, `pre-commit`, when to close a PR/MR)
 - Try to bring in contributions, check in if there's been no activity and say "Hope all's well!"
 - Don't "lgtm": Contextualize the contribution, thank them and say you're looking forward to the next time!
 - Enjoy the friendships you'll make ❤️
+
+<div id="progress" class="w-11/12"/>
 
 ---
 hideInToc: true
@@ -273,3 +296,5 @@ hideInToc: true
     <p>Slides Content</p>
   </div>
 </div>
+
+<div id="progress" class="w-12/12"/>
