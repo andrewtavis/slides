@@ -31,7 +31,7 @@ hideInToc: true
 ## Andrew / Andy
 
 - Data Analyst focussed on Wikidata and other Linked Open Data products at Wikimedia Deutschland
-- Initiator and maintainer of a few open-source communities
+- An initiator and maintainer of a few open-source communities
 
 ## [activist](https://github.com/activist-org) _(~160 contributors)_
 
