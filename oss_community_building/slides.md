@@ -142,10 +142,6 @@ hideInToc: true
 
 # Who you'll find
 
-> Either of the following groups can contribute long term
-
-> Schedule calls motivated contributors to onboard, explain the project and pair code ☎️
-
 ## Students
 
 - Many students need to contribute to open-source for classes
@@ -156,6 +152,11 @@ hideInToc: true
 
 - Often times switching careers or in-between jobs
 - Ask experienced professionals to critique the project and write issues
+
+## Early interactions
+
+- Schedule calls motivated contributors to onboard, explain the project and pair code ☎️
+- Note first, continued and return contributions to projects
 
 <div id="progress" class="w-6/12"/>
 
