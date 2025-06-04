@@ -172,7 +172,7 @@ hideInToc: true
 
 ## All community members
 
-- Check that their Git email matches their account to make sure they get contributions
+- Check that their Git email matches their account on first PR to make sure they get contributions
 - CV, resume and application checks
 - Job recommendations and connecting them to your network
 - Let their interests drive their contributions (especially if you're not paying them)
