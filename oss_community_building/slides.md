@@ -144,9 +144,8 @@ hideInToc: true
 
 ## Students
 
-- Many students need to contribute to open-source for classes
+- Many students need to contribute to open-source for classes (ask what the deadline is)
 - Positive interactions with one student can lead to others from the same school joining
-- If they are working on a school project, always ask them what the deadline is
 
 ## Professionals
 
@@ -156,7 +155,8 @@ hideInToc: true
 ## Early interactions
 
 - Schedule calls motivated contributors to onboard, explain the project and pair code ☎️
-- Note first, continued and return contributions to projects
+- Note first, continued and returning contributions to projects
+- Bring contributions of passable quality in and show appreciation for effort (thank them for PRs/MRs)
 
 <div id="progress" class="w-6/12"/>
 
@@ -266,9 +266,8 @@ Nice outro 😊
 
 - Include the community wherever possible by saying "we" instead of "I"
 - Keep your communication positive! (and be mindful of cultural interpretations)
-- Prompt communication when you assign an issue and thank them for opening PRs/MRs
 - Discuss with community how hard it should be to contribute (tests, `pre-commit`, when to close a PR/MR)
-- Try to bring in contributions, check in if there's been no activity and say "Hope all's well!"
+- Check in if there's been no activity and say "Hope all's well!"
 - Don't "lgtm": Contextualize the contribution, thank them and say you're looking forward to the next time!
 - Enjoy the friendships you'll make ❤️
 
