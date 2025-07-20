@@ -88,7 +88,7 @@ title: Preparing your project
 
 - Localization: [Weblate](https://weblate.org/en/)
 - Design: [Open Source Design](https://opensourcedesign.net/)
-  - Fill out the [job form](https://opensourcedesign.net/jobs/job-form/) to work with their community
+  - Fill out the [job form](https://opensourcedesign.net/jobs/job-form/) to work with their community!
 
 <div id="progress" class="w-3/12"/>
 
