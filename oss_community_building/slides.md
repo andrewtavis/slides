@@ -178,7 +178,7 @@ hideInToc: true
 - Job recommendations and connecting them to your network
 - Let their interests drive their contributions (especially if you're not paying them)
 - Promote them via repository triage rights, organization membership, write access (**\*2FA**), etc
-- Share ownership (of part of the code, of a project, of the organization)
+- SCARF: Status, Certainty (roadmap), Autonomy, Relatedness and Fairness (transparency and governance)
 
 <div id="progress" class="w-7/12"/>
 
