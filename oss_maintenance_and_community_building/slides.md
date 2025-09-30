@@ -1,8 +1,8 @@
 ---
 theme: default
-title: OSS Community Building
+title: OSS Maintenance and Community Building
 info: |
-  ## OSS Community Building Presentation
+  ## OSS Maintenance and Community Building Presentation
   My experiences building engaged and fun communities around open-source projects.
 class: text-center
 transition: none
@@ -10,7 +10,7 @@ mdc: true
 hideInToc: true
 ---
 
-# OSS Community Building
+# OSS Maintenance<br/>and Community Building
 
 <div class="pt-3">
 My experiences building engaged and fun communities around open-source projects
@@ -33,11 +33,11 @@ hideInToc: true
 - Data Analyst focussed on Wikidata and other Linked Open Data products at Wikimedia Deutschland
 - An initiator and maintainer of a few open-source communities
 
-## [activist](https://github.com/activist-org) _(~160 contributors)_
+## [activist](https://github.com/activist-org) _(~190 contributors)_
 
 - Platform for political activism (organizations, working groups, events, link dump resources and more)
 
-## [Scribe](https://github.com/scribe-org) _(~100 contributors)_
+## [Scribe](https://github.com/scribe-org) _(~130 contributors)_
 
 - Wikidata based language tools (keyboards that help second language learners, data processing tools)
 
@@ -77,7 +77,7 @@ title: Preparing your project
 
 ## Tools
 
-- Codebase: [GitHub](https://github.com/) or [GitLab](https://about.gitlab.com/)
+- Codebase: [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/), etc
 - Office: \[insert email/calendar app\] ([Proton](https://proton.me/))
 - Communication: [Matrix](https://matrix.org/) or [Zulip](https://zulip.com/)
   - Bring your account vs. no account required for public rooms
@@ -124,7 +124,7 @@ hideInToc: true
 ## Issue aggregators
 
 - Issues and projects searchable on websites (sometimes sent via email)
-- [Up For Grabs](https://up-for-grabs.net/#/), [First Contributions](https://firstcontributions.github.io/), [CodeTriage](https://www.codetriage.com/)
+- [First Contributions](https://firstcontributions.github.io/), [Up For Grabs](https://up-for-grabs.net/#/), [CodeTriage](https://www.codetriage.com/)
   - Label issues `good-first-issue` and/or `help-wanted`
 - Seasonal contribution events like [Hacktoberfest 🎃](https://hacktoberfest.com/) and [24 Pull Requests 🎁](https://24pullrequests.com/)
 
@@ -154,8 +154,8 @@ hideInToc: true
 
 ## Early interactions
 
-- Schedule calls motivated contributors to onboard, explain the project and pair code ☎️
-- Note first, continued and returning contributions to projects
+- Schedule calls with motivated contributors to onboard, explain the project and pair code ☎️
+- Praise first, continued and returning contributions to projects
 - Bring contributions of passable quality in and show appreciation for effort (thank them for PRs/MRs)
 
 <div id="progress" class="w-6/12"/>
@@ -174,7 +174,7 @@ hideInToc: true
 ## All community members
 
 - Check that their Git email matches their account on first PR to make sure they get contributions
-- CV, resume and application checks
+- CV, resume, cover letter and application checks
 - Job recommendations and connecting them to your network
 - Let their interests drive their contributions (especially if you're not paying them)
 - Promote them via repository triage rights, organization membership, write access (**\*2FA**), etc

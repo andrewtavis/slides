@@ -15,3 +15,6 @@ package-lock.json
 .vite-inspect
 .remote-assets
 components.d.ts
+
+# Environment files
+venv

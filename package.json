@@ -13,7 +13,7 @@
     "prettier-plugin-slidev": "1.0.5"
   },
   "workspaces": [
-    "oss_community_building"
+    "oss_maintenance_and_community_building"
   ],
   "packageManager": "yarn@4.9.1"
 }

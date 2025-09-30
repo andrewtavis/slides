@@ -14,8 +14,8 @@ Suggestions for how to improve the content of these slides are more than welcome
 
 ## **Contents**
 
-- [OSS Community Building](https://github.com/andrewtavis/slides/tree/main/oss_community_building)
-  - Build engaged and fun communities around open-source projects
+- [OSS Maintenance and Community Building](https://github.com/andrewtavis/slides/tree/main/oss_maintenance_and_community_building)
+  - My experiences building engaged and fun communities around open-source projects
 
 ## Building Slides
 
@@ -26,7 +26,7 @@ git clone https://github.com/andrewtavis/slides.git
 # git clone https://github.com/<your-username>/slides.git
 ```
 
-Navigate to the project and install the dependencies for all presentations:
+Navigate to the `slides` project and install the dependencies for all presentations:
 
 ```bash
 cd slides
