@@ -3,17 +3,16 @@
   "type": "module",
   "private": true,
   "dependencies": {
-    "@slidev/cli": "51.6.0",
-    "@slidev/theme-default": "^0.25.0",
-    "vue": "3.5.13"
+    "@slidev/cli": "52.2.4",
+    "@slidev/theme-default": "0.25.0",
+    "vue": "3.5.22"
   },
   "devDependencies": {
-    "playwright-chromium": "1.52.0",
-    "prettier": "3.5.3",
+    "prettier": "3.6.2",
     "prettier-plugin-slidev": "1.0.5"
   },
   "workspaces": [
     "oss_maintenance_and_community_building"
   ],
-  "packageManager": "yarn@4.9.1"
+  "packageManager": "yarn@4.10.3"
 }
