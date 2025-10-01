@@ -43,7 +43,7 @@ hideInToc: true
 
 <br/>
 
-> Thanks to all of the amazing people in these communities! ❤️
+> Thanks to all of the amazing people in these communities! ❤️💙
 
 <div id="progress" class="w-1/12"/>
 
@@ -239,7 +239,7 @@ Nice outro 😊
 # Ritual automation
 
 - There's a lot of work involved in keeping to your rituals, so try to automate what you can
-- [Dev sync reminder message](https://github.com/scribe-org/Organization/blob/main/.github/workflows/matrix_dev_sync_reminder.yml)
+- [Dev sync reminder message 🧑‍💻♻️](https://github.com/scribe-org/Organization/blob/main/.github/workflows/matrix_dev_sync_reminder.yml)
   - Sent each Wednesday before a dev sync
   - Fully explain it as this is more for new people (others have calendar invites)
   - Time and date in UTC with a [ZoneStamp](https://zonestamp.toolforge.org/)
@@ -264,11 +264,11 @@ Nice outro 😊
 
 ## Community
 
-- Include the community wherever possible by saying "we" instead of "I"
-- Keep your communication positive! (and be mindful of cultural interpretations)
-- Discuss with community how hard it should be to contribute (tests, `pre-commit`, when to close a PR/MR)
-- Check in if there's been no activity and say "Hope all's well!"
+- Communicate in a culturally sensitive, positive way and include the community ("we" instead of "I")
+- Discuss with the community how hard contributions should be (tests, `pre-commit`, when to close PR/MR)
+- Flag elements of contributions that "reduce their quality" (they do want to help, but used too much AI)
 - Don't "lgtm": Contextualize the contribution, thank them and say you're looking forward to the next time!
+- Check in if there's been no activity and say "Hope all's well!"
 - Enjoy the friendships you'll make ❤️
 
 <div id="progress" class="w-11/12"/>
