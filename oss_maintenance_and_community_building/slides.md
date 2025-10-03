@@ -292,7 +292,7 @@ hideInToc: true
     <p>GitHub:scribe-org</p>
   </div>
   <div class="flex flex-col items-center">
-    <img src="@images/oss_community_building_qr_code.png" class="h-64" alt="QR code to a markdown file for the slides"/>
+    <img src="@images/oss_maintenance_and_community_building_qr_code.png" class="h-64" alt="QR code to a markdown file for the slides"/>
     <p>Slides Content</p>
   </div>
 </div>
