@@ -155,8 +155,8 @@ hideInToc: true
 ## Early interactions
 
 - Schedule calls with motivated contributors to onboard, explain the project and pair code ☎️
-- Praise first, continued and returning contributions to projects
-- Bring contributions of passable quality in and show appreciation for effort (thank them for PRs/MRs)
+- Appreciate interest and effort when assigning issues or reacting to new PRs/MRs
+- Praise first, continued and returning contributions to projects (bring code in if "passable")
 
 <div id="progress" class="w-6/12"/>
 
