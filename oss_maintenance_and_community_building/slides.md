@@ -100,11 +100,11 @@ hideInToc: true
 
 ## Initial documentation
 
-> Borrow liberally from other open-source projects
+> Borrow liberally from other appropriately licensed open-source projects
 
 - Readme: Project description, everything to start developing, logo at the top
   - Logos: A PNG banner with the project name over a color is more inviting than just text
-- License: For both the code and the content (and license headers for files)
+- License: Markdown file for code and content (ex: GPL and CC BY-SA) with license headers in files
 - Contributing guide: More advanced setup, all testing procedures, learning resources, etc
 - Code of Conduct: [Contributor Covenant](https://www.contributor-covenant.org/) or similar
 
