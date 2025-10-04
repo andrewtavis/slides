@@ -174,7 +174,7 @@ hideInToc: true
 ## All community members
 
 - Check that their Git email matches their account on first PR to make sure they get contributions
-- CV, resume, cover letter and application checks
+- CV (resume), cover letter and application checks
 - Job recommendations and connecting them to your network
 - Let their interests drive their contributions (especially if you're not paying them)
 - Promote them via repository triage rights, organization membership, write access (**\*2FA**), etc
@@ -210,24 +210,25 @@ hideInToc: true
 ```
 Your Community's Dev Sync YYYY/MM/DD
 
-Participants (please list yourself if you'd like to)
-- Name
+Number of participants: #
 
 Topics
   All: Introductions 👋
   Recap done by: Name
   All: Does anyone want a calendar invite to the dev sync?
   All: Go through the project board: link_to_project_board
-  Name: Topic of discussion
+  Participant: Topic of discussion
 
 Tasks
 - [] Task
 
 Recap
 
-Here's the recap for today/yesterday/Saturday's dev sync 🧑‍💻♻️ ...
+Here's the recap for Saturday's dev sync 🧑‍💻♻️
 
-The next dev sync will be ...
+- Link to pad, summary of topics, etc
+
+The next dev sync will be [YYYY/MM/DD](zonestamp). New joiners are always welcome!
 
 Nice outro 😊
 ```
@@ -265,10 +266,10 @@ Nice outro 😊
 ## Community
 
 - Communicate in a culturally sensitive, positive way and include the community ("we" instead of "I")
+- Check in if there's been no activity on a task and say "Hope all's well!"
 - Discuss with the community how hard contributions should be (tests, `pre-commit`, when to close PR/MR)
 - Flag elements of contributions that "reduce their quality" (they do want to help, but used too much AI)
 - Don't "lgtm": Contextualize the contribution, thank them and say you're looking forward to the next time!
-- Check in if there's been no activity and say "Hope all's well!"
 - Enjoy the friendships you'll make ❤️
 
 <div id="progress" class="w-11/12"/>
