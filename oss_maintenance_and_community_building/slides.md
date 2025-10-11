@@ -188,7 +188,7 @@ hideInToc: true
 
 ## Dev syncs 🧑‍💻♻️
 
-- Every two weeks on a Saturday (~15:00/16:00 UTC)
+- Every two weeks on a Saturday (~15:00/16:00 UTC on [Jitsi Meet](https://meet.jit.si/))
 - Regular office hours for support, pair coding and people meeting one another
 - Take notes in an Etherpad or other open-source notes app
 - Send recap to the development channel so people who aren't there can stay caught up
