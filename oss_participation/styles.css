@@ -1,0 +1,53 @@
+/* SPDX-License-Identifier: CC0-1.0 */
+.slidev-layout {
+  h1 {
+    --uno: text-slate-600;
+  }
+
+  a {
+    --uno: text-slate-600 dark-hover-text-slate-600;
+  }
+
+  a {
+    border-bottom: none;
+  }
+
+  blockquote {
+    --uno: rounded-none border-l-2 border-l-slate-600 m-2;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  ul,
+  p,
+  div,
+  code {
+    --uno: select-text;
+  }
+
+  #progress {
+    --uno: absolute bottom-0 left-0 h-1 bg-slate-600;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .slidev-layout {
+    h1 {
+      --uno: text-slate-400;
+    }
+
+    a {
+      --uno: text-slate-400 hover-text-slate-400;
+    }
+
+    blockquote {
+      --uno: rounded-none border-l-2 border-l-slate-400 m-2;
+    }
+
+    #progress {
+      --uno: bg-slate-400;
+    }
+  }
+}

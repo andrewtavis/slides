@@ -16,6 +16,8 @@ Suggestions for how to improve the content of these slides are more than welcome
 
 - [OSS Maintenance and Community Building](https://github.com/andrewtavis/slides/tree/main/oss_maintenance_and_community_building)
   - My experiences building engaged and fun communities around open-source projects
+- [Open Source Software Participation](https://github.com/andrewtavis/slides/tree/main/oss_participation)
+  - How to actively participate in open-source software projects
 
 ## Building Slides
 

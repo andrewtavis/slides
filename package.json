@@ -3,7 +3,7 @@
   "type": "module",
   "private": true,
   "dependencies": {
-    "@slidev/cli": "52.2.4",
+    "@slidev/cli": "52.2.5",
     "@slidev/theme-default": "0.25.0",
     "vue": "3.5.22"
   },
@@ -12,7 +12,8 @@
     "prettier-plugin-slidev": "1.0.5"
   },
   "workspaces": [
-    "oss_maintenance_and_community_building"
+    "oss_maintenance_and_community_building",
+    "oss_participation"
   ],
   "packageManager": "yarn@4.10.3"
 }
