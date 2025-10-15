@@ -82,7 +82,7 @@ hide: false
 | Operating System | macOS / Windows                        | [Linux](https://www.linux.org) ([Ubuntu](https://ubuntu.com), [Fedora](https://fedoraproject.org), etc)                      |
 | Office Suite     | Google (Gmail, etc) / Microsoft Office | [Proton](https://proton.me) / [LibreOffice](https://www.libreoffice.org) / [Thunderbird](https://www.thunderbird.net/en-US/) |
 | Design           | Figma / Illustrator / Final Cut Pro    | [Blender](https://www.blender.org) / [Penpot](https://penpot.app) / [Inkscape](https://www.inkscape.org)                     |
-| Chat             | WhatsApp / Slack / Telegram            | [Signal](https://signal.org) / [Matrix](https://matrix.org) / [Zulip](https://zulip.com)                                     |
+| Chat             | WhatsApp / Slack / Telegram / Discord  | [Signal](https://signal.org) / [Matrix](https://matrix.org) / [Zulip](https://zulip.com)                                     |
 | Maps / Travel    | Google Maps / Waze / Apple Maps        | [OpenStreetMap](https://www.openstreetmap.org) / [Organic Maps](https://organicmaps.app/)                                    |
 | Code Editor      | IntelliJ IDEA Ultimate Edition         | [VS Code](https://code.visualstudio.com) / [Vim](https://www.vim.org) / [Zed](https://zed.dev)                               |
 | Browser          | Chrome / Safari / Edge                 | [Firefox](https://www.firefox.com) / [DuckDuckGo](https://duckduckgo.com)                                                    |
@@ -110,7 +110,7 @@ hide: false
 - Meetings and major conferences around the world every year to support (F)OSS
   - (F)OSS = (Free) Open Source Software (with a permissive license)
 
-- The goal is to have has much software as possible be open for all to see and use
+- The goal is to have as much software as possible be open for all to see and use
 
 <div id="progress" class="w-4/11"/>
 
@@ -124,7 +124,7 @@ hide: false
 
 - The communities that create and use open software have more power over the project's development
 
-- There is always a need for new people to join and help create new projects or maintain old ones
+- There is always a need for new people to join to help create new projects or maintain old ones
 
 <br/>
 
@@ -204,7 +204,7 @@ hide: false
 
 - If someone is already assigned, you can ask to collaborate with them
 
-- Check the rituals of the community and if it's ok for you to join (regular calls)
+- Check the rituals of the community and if it's ok for you to join (regular calls or meetups)
 
 <div id="progress" class="w-8/11"/>
 
@@ -216,7 +216,7 @@ hide: false
   - Let maintainers know if you're experiencing problems and ask for help (they want you to succeed)
 
 - After a few contributions, start looking into whether you can support with code reviews
-  - Reviewing code from other community members is very helpful for projects
+  - Reviewing code from other community members is very helpful for projects!
 
 - Ask maintainers for suggestions on how you can improve your contributions
 
