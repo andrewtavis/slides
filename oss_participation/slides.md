@@ -135,7 +135,7 @@ hide: false
 - Get practical experience if you're a student, which will really help you in interviews for a first job
 
 - Having a strong open-source presence is very beneficial for the job market
-  - Link your GitHub or GitLab profile prominently on your CV as hiring managers do look for them
+  - Link your [GitHub](https://github.com) and [GitLab](https://gitlab.com) profile prominently on your CV as hiring managers do look for them
 
 <div id="progress" class="w-5/11"/>
 
@@ -147,7 +147,7 @@ hide: false
 
 - Make an account on [GitHub](https://github.com) and/or [GitLab](https://gitlab.com)
 
-- You can then search for projects based on language, device, topics that interest you, etc
+- You can then search for projects based on coding language, device, topics that interest you, etc
 
 - Check the status of the project and look into if it's welcoming to new contributors
 
@@ -159,7 +159,7 @@ hide: false
 
 - Issues and projects searchable on websites (sometimes sent via email)
 
-- [First Contributions](https://firstcontributions.github.io/), [Up For Grabs](https://up-for-grabs.net/#/), [CodeTriage](https://www.codetriage.com/)
+- Examples: [First Contributions](https://firstcontributions.github.io/), [Up For Grabs](https://up-for-grabs.net/#/), [CodeTriage](https://www.codetriage.com/)
 
 - Seasonal contribution events like [Hacktoberfest 🎃](https://hacktoberfest.com/) and [24 Pull Requests 🎁](https://24pullrequests.com/)
 
@@ -190,9 +190,9 @@ hide: false
 
 # First steps
 
-> You've found a project you want to contribute to! Now what??
+> You've found a project you want to contribute to! Now what?
 
-- Start by reading the documentation
+- Start by reading the documentation of the project
   - The website, `README.md`, `CONTRIBUTING.md` (all instructions you'll need to contribute)
 
 - Join the chat rooms for the community and introduce yourself if you're comfortable doing so
@@ -212,8 +212,8 @@ hide: false
 
 # Positive behavior
 
-- Communicate your goals and any deadlines you have to get the work done (school project)
-  - Let maintainers know if you're experiencing problems and ask for help
+- Communicate your goals and any deadlines you have to get the work done (school project due date)
+  - Let maintainers know if you're experiencing problems and ask for help (they want you to succeed)
 
 - After a few contributions, start looking into whether you can support with code reviews
   - Reviewing code from other community members is very helpful for projects
@@ -226,7 +226,7 @@ hide: false
 
 - Don't just use AI/ML to generate a solution (these are tools to help YOU write the code)
 
-- Don't ask for rights to the code (this is very sensitive, and the answer in many cases will be no)
+- Don't ask for rights to the code (this is very sensitive - they're given, not asked for)
 
 <div id="progress" class="w-9/11"/>
 
@@ -240,12 +240,12 @@ hide: false
   - With consistent effort maybe you can get a job in open-source one day
   - (F)OSS employers are usually more respectful of workers than traditional employers
 
-- It's very rewarding to see your projects grow and to take on bigger roles in the community
+- It's very rewarding to see your projects grow and to take on bigger roles in their communities
   - It can be very exhausting, so take care of yourself and watch out for burnout
   - Prioritize school, work, relationships and friendships
 
-- It's very rewarding to be a part of a movement that makes such a positive impact in the world
-  - Remember to support others with their open-source journeys!
+- It's empowering to be a part of a movement that makes such a positive impact in the world
+  - Remember to support others with their open-source journeys! ❤️
 
 <div id="progress" class="w-10/11"/>
 
