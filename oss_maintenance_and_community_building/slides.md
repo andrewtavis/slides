@@ -25,10 +25,12 @@ hideInToc: true
 <Toc minDepth="1" maxDepth="1" />
 
 ---
+hide: false
+---
 
 # About me
 
-## Andrew / Andy
+## Andrew / Andy (@andrewtavis)
 
 - Data Analyst focussed on Wikidata and other Linked Open Data products at Wikimedia Deutschland
 - An initiator and maintainer of a few open-source communities

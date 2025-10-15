@@ -1,6 +1,6 @@
 # [Open Source Software Participation](https://github.com/andrewtavis/slides/tree/main/oss_participation)
 
-How to actively participate in open-source software projects.
+What is open source software and how you can actively participate.
 
 ### Presentations
 
