@@ -173,7 +173,7 @@ hide: false
 
 - The most reputable internships are:
   - [Outreachy](https://www.outreachy.org/) ([Software Freedom Conservancy](https://sfconservancy.org/))
-  - [Google Summer of Code](https://summerofcode.withgoogle.com/)
+  - [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/)
   - [Linux Foundation Mentorship Program (LFX)](https://lfx.linuxfoundation.org/tools/mentorship/)
 
 - All of the above internships are paid over a period of a few months

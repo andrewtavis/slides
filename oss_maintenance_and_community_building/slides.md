@@ -135,7 +135,7 @@ hideInToc: true
 > Advertise internship participation in your documentation!
 
 - [Outreachy](https://www.outreachy.org/) ([Software Freedom Conservancy](https://sfconservancy.org/))
-- [Google Summer of Code](https://summerofcode.withgoogle.com/)
+- [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/)
 - [Linux Foundation Mentorship Program (LFX)](https://lfx.linuxfoundation.org/tools/mentorship/)
 
 <div id="progress" class="w-5/12"/>
