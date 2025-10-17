@@ -44,7 +44,7 @@ corepack enable
 yarn install
 ```
 
-Build and open your slides of choice by navigating to its directory, linking it to the shared dependencies and executing the `run dev` command for your package manager:
+Build and open your slides of choice by navigating to its directory, linking it to the shared dependencies and executing the `run dev` command:
 
 ```bash
 cd SLIDES_OF_CHOICE
@@ -55,4 +55,4 @@ yarn run dev
 
 Once finished you can visit <http://localhost:3000> to view the slides. Follow the prompts in your terminal to close them or do other actions.
 
-> Note: Slidev is a live development server — changes to `slides.md` will automatically update in the browser.
+> Note: Slidev is a live development server — changes to `slides.md` files will automatically be reflected in the browser.
