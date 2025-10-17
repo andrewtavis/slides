@@ -215,24 +215,23 @@ Your Community's Dev Sync YYYY/MM/DD
 Number of participants: #
 
 Topics
-  All: Introductions 👋
-  Recap done by: Name
-  All: Does anyone want a calendar invite to the dev sync?
-  All: Go through the project board: link_to_project_board
-  Participant: Topic of discussion
+  • All: Introductions 👋
+  • All: meeting_ground_rules
+  • Recap done by: Name
+  • All: Does anyone want a calendar invite to the dev sync?
+  • All: Go through the project board: link_to_project_board
+  • Participant: Topic of discussion
 
 Tasks
-- [] Task
+• [] Task
 
 Recap
 
 Here's the recap for Saturday's dev sync 🧑‍💻♻️
 
-- Link to pad, summary of topics, etc
+• Link to pad, summary of topics, etc
 
 The next dev sync will be [YYYY/MM/DD](zonestamp). New joiners are always welcome!
-
-Nice outro 😊
 ```
 
 <div id="progress" class="w-9/12"/>
@@ -251,7 +250,7 @@ Nice outro 😊
   - At the end of every month run a workflow to calculate the top contributors for the period
   - Send a thank you message to the development channel with links to accounts and contributions
   - Filter out organization members so the focus is on people new to the community
-  - Use this as a reminder to share things about your contributors on social media
+  - Use this as a reminder to share things about your community on social media
 
 <div id="progress" class="w-10/12"/>
 
@@ -262,15 +261,15 @@ Nice outro 😊
 ## Self care
 
 - Going above and beyond with community support builds comradery that will extend beyond yourself
-- With the above in mind, please watch out for burnout
-  - Take care of yourself, have a life, set boundaries and respect when people need to step away
+- Burnout: Take care of yourself, have a life, set boundaries and respect when people need to step away
 
 ## Community
 
 - Communicate in a culturally sensitive, positive way and include the community ("we" instead of "I")
+- [Conventional Comments](https://conventionalcomments.org/): `<label> [decorations]: <subject>\n[discussion]` (praise, nitpick, etc)
 - Check in if there's been no activity on a task and say "Hope all's well!"
 - Discuss with the community how hard contributions should be (tests, `pre-commit`, when to close PR/MR)
-- Flag elements of contributions that "reduce their quality" (they do want to help, but used too much AI)
+- Flag elements of contributions that reduce their quality (NVC: don't assume - situation, behavior, impact)
 - Don't "lgtm": Contextualize the contribution, thank them and say you're looking forward to the next time!
 - Enjoy the friendships you'll make ❤️
 
