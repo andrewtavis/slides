@@ -53,6 +53,4 @@ yarn install
 yarn run dev
 ```
 
-Once finished you can visit <http://localhost:3000> to view the slides. Follow the prompts in your terminal to close them or do other actions.
-
-> Note: Slidev is a live development server — changes to `slides.md` files will automatically be reflected in the browser.
+Once finished you can visit <http://localhost:3000> to view the slides. Follow the prompts in your terminal to close the slides or do other actions. Note also that [Slidev](https://github.com/slidevjs/slidev) is a live development server — changes to the `slides.md` files for each presentation will automatically be reflected in the browser.
