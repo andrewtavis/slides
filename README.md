@@ -19,7 +19,14 @@ Suggestions for how to improve the content of these slides are more than welcome
 - [Open Source Software Participation](https://github.com/andrewtavis/slides/tree/main/oss_participation)
   - What is open source software and how you can actively participate
 
-## Building Slides
+## Running Slides
+
+### Prerequisites
+
+1. [Node.js](https://nodejs.org): latest v20+ recommended
+2. [Yarn](https://yarnpkg.com/): latest v4+, which will be activated automatically via [Corepack](https://yarnpkg.com/getting-started/qa#using-corepack)
+
+### Building Slides
 
 First clone this repository or your fork:
 
@@ -28,15 +35,13 @@ git clone https://github.com/andrewtavis/slides.git
 # git clone https://github.com/<your-username>/slides.git
 ```
 
-Navigate to the `slides` project and install the dependencies for all presentations:
+Navigate to the `slides` project and install the dependencies for all presentations via [Corepack](https://yarnpkg.com/getting-started/qa#using-corepack):
 
 ```bash
 cd slides
 
-# Based on your package manager:
+corepack enable
 yarn install
-npm install
-pnpm install
 ```
 
 Build and open your slides of choice by navigating to its directory, linking it to the shared dependencies and executing the `run dev` command for your package manager:
@@ -44,15 +49,10 @@ Build and open your slides of choice by navigating to its directory, linking it 
 ```bash
 cd SLIDES_OF_CHOICE
 
-# Based on your package manager:
 yarn install
 yarn run dev
-
-npm install
-npm run dev
-
-pnpm install
-pnpm run dev
 ```
 
 Once finished you can visit <http://localhost:3000> to view the slides. Follow the prompts in your terminal to close them or do other actions.
+
+> Note: Slidev is a live development server — changes to `slides.md` will automatically update in the browser.
