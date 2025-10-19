@@ -14,7 +14,7 @@ Create Virtual Environment
 
 Examples
 --------
->>> python3 oss_maintenance_and_community_building/unique_gh_contributors_per_org.py
+>>> python3 unique_gh_contributors_per_org.py
 """
 
 import requests
