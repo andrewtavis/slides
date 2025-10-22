@@ -6,4 +6,4 @@
 
 ### Presentations
 
-- 2025/10/15: Student Orientation
+- 2025/10/15: [Amrita Vishwa Vidyapeetham](https://en.wikipedia.org/wiki/Amrita_Vishwa_Vidyapeetham) Student Orientation
