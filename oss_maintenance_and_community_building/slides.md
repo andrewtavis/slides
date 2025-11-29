@@ -220,7 +220,7 @@ Topics
   • Recap done by: Name
   • All: Does anyone want a calendar invite to the dev sync?
   • All: Go through the project board: link_to_project_board
-  • Participant: Topic of discussion
+  • Topic
 
 Tasks
 • [] Task
