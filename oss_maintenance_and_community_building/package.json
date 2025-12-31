@@ -8,6 +8,6 @@
     "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "52.10.1"
+    "@slidev/cli": "52.11.1"
   }
 }

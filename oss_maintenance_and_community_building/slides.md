@@ -45,7 +45,7 @@ hide: false
 
 <br/>
 
-> Thanks to all of the amazing people in these communities! ❤️💙
+> Thanks to all of the amazing people in these communities! ❤️🩵
 
 <div id="progress" class="w-1/12"/>
 
@@ -79,7 +79,7 @@ title: Preparing your project
 
 ## Tools
 
-- Codebase: [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/), etc
+- Codebase: [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/), [Codeberg](https://codeberg.org/) etc
 - Office: \[insert email/calendar app\] ([Proton](https://proton.me/))
 - Communication: [Matrix](https://matrix.org/) or [Zulip](https://zulip.com/)
   - Bring your account vs. no account required for public rooms
@@ -256,19 +256,19 @@ The next dev sync will be [YYYY/MM/DD](zonestamp). New joiners are always welcom
 
 ---
 
-# Important points
+# Community
 
-## Self care
+## Coordination
 
-- Going above and beyond with community support builds comradery that will extend beyond yourself
+- Discuss level of contribution friction with the community (tests, `pre-commit`, when to close PR/MR)
+- Don't assume bad actors, "Is this behavior compatible with community health?" (allows quicker action)
 - Burnout: Take care of yourself, have a life, set boundaries and respect when people need to step away
 
-## Community
+## Communication
 
 - Communicate in a culturally sensitive, positive way and include the community ("we" instead of "I")
-- [Conventional Comments](https://conventionalcomments.org/): `<label> [decorations]: <subject>\n[discussion]` (praise, nitpick, etc)
 - Check in if there's been no activity on a task and say "Hope all's well!"
-- Discuss with the community how hard contributions should be (tests, `pre-commit`, when to close PR/MR)
+- [Conventional Comments](https://conventionalcomments.org/): `<label> [decorations]: <subject>\n[discussion]` (praise, nitpick, etc)
 - Flag elements of contributions that reduce their quality (NVC: don't assume - situation, behavior, impact)
 - Don't "lgtm": Contextualize the contribution, thank them and say you're looking forward to the next time!
 - Enjoy the friendships you'll make ❤️
