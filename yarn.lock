@@ -15,7 +15,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@antfu/ni@npm:^28.1.0":
+"@antfu/ni@npm:^28.2.0":
   version: 28.2.0
   resolution: "@antfu/ni@npm:28.2.0"
   dependencies:
@@ -693,7 +693,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@iconify-json/carbon@npm:^1.2.16":
+"@iconify-json/carbon@npm:^1.2.18":
   version: 1.2.18
   resolution: "@iconify-json/carbon@npm:1.2.18"
   dependencies:
@@ -727,7 +727,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@iconify/utils@npm:^3.0.1, @iconify/utils@npm:^3.0.2":
+"@iconify/utils@npm:^3.0.1":
   version: 3.0.2
   resolution: "@iconify/utils@npm:3.0.2"
   dependencies:
@@ -1300,24 +1300,24 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@slidev/cli@npm:52.11.3":
-  version: 52.11.3
-  resolution: "@slidev/cli@npm:52.11.3"
+"@slidev/cli@npm:52.11.4":
+  version: 52.11.4
+  resolution: "@slidev/cli@npm:52.11.4"
   dependencies:
-    "@antfu/ni": "npm:^28.1.0"
+    "@antfu/ni": "npm:^28.2.0"
     "@antfu/utils": "npm:^9.3.0"
-    "@iconify-json/carbon": "npm:^1.2.16"
+    "@iconify-json/carbon": "npm:^1.2.18"
     "@iconify-json/ph": "npm:^1.2.2"
     "@iconify-json/svg-spinners": "npm:^1.2.4"
     "@lillallol/outline-pdf": "npm:^4.0.0"
     "@shikijs/markdown-it": "npm:^3.21.0"
     "@shikijs/twoslash": "npm:^3.21.0"
     "@shikijs/vitepress-twoslash": "npm:^3.21.0"
-    "@slidev/client": "npm:52.11.3"
-    "@slidev/parser": "npm:52.11.3"
-    "@slidev/types": "npm:52.11.3"
-    "@unocss/extractor-mdc": "npm:^66.5.12"
-    "@unocss/reset": "npm:^66.5.12"
+    "@slidev/client": "npm:52.11.4"
+    "@slidev/parser": "npm:52.11.4"
+    "@slidev/types": "npm:52.11.4"
+    "@unocss/extractor-mdc": "npm:^66.6.0"
+    "@unocss/reset": "npm:^66.6.0"
     "@vitejs/plugin-vue": "npm:^6.0.3"
     "@vitejs/plugin-vue-jsx": "npm:^5.1.3"
     ansis: "npm:^4.2.0"
@@ -1328,17 +1328,17 @@ __metadata:
     fast-glob: "npm:^3.3.3"
     get-port-please: "npm:^3.2.0"
     global-directory: "npm:^4.0.1"
-    htmlparser2: "npm:^10.0.0"
+    htmlparser2: "npm:^10.1.0"
     is-installed-globally: "npm:^1.0.0"
     jiti: "npm:^2.6.1"
-    katex: "npm:^0.16.27"
+    katex: "npm:^0.16.28"
     local-pkg: "npm:^1.1.2"
     lz-string: "npm:^1.5.0"
     magic-string: "npm:^0.30.21"
     magic-string-stack: "npm:^1.1.0"
     markdown-it: "npm:^14.1.0"
     markdown-it-footnote: "npm:^4.0.0"
-    markdown-it-mdc: "npm:^0.2.6"
+    markdown-it-mdc: "npm:^0.2.8"
     mlly: "npm:^1.8.0"
     monaco-editor: "npm:^0.55.1"
     obug: "npm:^2.1.1"
@@ -1359,19 +1359,19 @@ __metadata:
     source-map-js: "npm:^1.2.1"
     typescript: "npm:^5.9.3"
     unhead: "npm:^2.1.2"
-    unocss: "npm:^66.5.12"
-    unplugin-icons: "npm:^22.5.0"
-    unplugin-vue-components: "npm:^30.0.0"
+    unocss: "npm:^66.6.0"
+    unplugin-icons: "npm:^23.0.1"
+    unplugin-vue-components: "npm:^31.0.0"
     unplugin-vue-markdown: "npm:^29.2.0"
     untun: "npm:^0.1.3"
     uqr: "npm:^0.1.2"
     vite: "npm:^7.3.1"
     vite-plugin-inspect: "npm:^11.3.3"
     vite-plugin-remote-assets: "npm:^2.1.0"
-    vite-plugin-static-copy: "npm:^3.1.4"
+    vite-plugin-static-copy: "npm:^3.2.0"
     vite-plugin-vue-server-ref: "npm:^1.0.0"
     vitefu: "npm:^1.1.1"
-    vue: "npm:^3.5.26"
+    vue: "npm:^3.5.27"
     yaml: "npm:^2.8.2"
     yargs: "npm:^18.0.0"
   peerDependencies:
@@ -1381,27 +1381,27 @@ __metadata:
       optional: true
   bin:
     slidev: bin/slidev.mjs
-  checksum: 10c0/18c6c469fe21429939bae94151ed2a2f877681ab4e87b6e94ed42f89af4df1f6d44984074cb88fa438c5dd6944e37482cd8275506b16104b59d22b097af19c43
+  checksum: 10c0/03e0dd7b8a6e4b351f9d1e5e47b71f280c4258fa8fb1f2265b2210268035ed35720e066aa2b2c6ff2b1a849054ee7aaf05063b823986eed7df4bc5c6c518c138
   languageName: node
   linkType: hard
 
-"@slidev/client@npm:52.11.3":
-  version: 52.11.3
-  resolution: "@slidev/client@npm:52.11.3"
+"@slidev/client@npm:52.11.4":
+  version: 52.11.4
+  resolution: "@slidev/client@npm:52.11.4"
   dependencies:
     "@antfu/utils": "npm:^9.3.0"
-    "@iconify-json/carbon": "npm:^1.2.16"
+    "@iconify-json/carbon": "npm:^1.2.18"
     "@iconify-json/ph": "npm:^1.2.2"
     "@iconify-json/svg-spinners": "npm:^1.2.4"
     "@shikijs/engine-javascript": "npm:^3.21.0"
     "@shikijs/monaco": "npm:^3.21.0"
     "@shikijs/vitepress-twoslash": "npm:^3.21.0"
-    "@slidev/parser": "npm:52.11.3"
+    "@slidev/parser": "npm:52.11.4"
     "@slidev/rough-notation": "npm:^0.1.0"
-    "@slidev/types": "npm:52.11.3"
+    "@slidev/types": "npm:52.11.4"
     "@typescript/ata": "npm:^0.9.8"
     "@unhead/vue": "npm:^2.1.2"
-    "@unocss/reset": "npm:^66.5.12"
+    "@unocss/reset": "npm:^66.6.0"
     "@vueuse/core": "npm:^14.1.0"
     "@vueuse/math": "npm:^14.1.0"
     "@vueuse/motion": "npm:^3.0.3"
@@ -1410,7 +1410,7 @@ __metadata:
     file-saver: "npm:^2.0.5"
     floating-vue: "npm:^5.2.2"
     fuse.js: "npm:^7.1.0"
-    katex: "npm:^0.16.27"
+    katex: "npm:^0.16.28"
     lz-string: "npm:^1.5.0"
     mermaid: "npm:^11.12.2"
     monaco-editor: "npm:^0.55.1"
@@ -1420,22 +1420,22 @@ __metadata:
     shiki: "npm:^3.21.0"
     shiki-magic-move: "npm:^1.2.1"
     typescript: "npm:^5.9.3"
-    unocss: "npm:^66.5.12"
-    vue: "npm:^3.5.26"
+    unocss: "npm:^66.6.0"
+    vue: "npm:^3.5.27"
     vue-router: "npm:^4.6.4"
     yaml: "npm:^2.8.2"
-  checksum: 10c0/1e2156188e26eaa8f65ec744de64892a118176bd8e16c606440d4cc0ba949dfbf00e52fca77a2b6b8073ba0bb8acfa34e79da4ed57d2d421f18b500cd273b4f6
+  checksum: 10c0/ac1b3d4da8347091d9a8864720ddd43786d2f3e1f8e9e5b29833dc7851d352c8f1381b157b163126adecf6a351cedf0860ab0918cf10efdff4d039604f95e279
   languageName: node
   linkType: hard
 
-"@slidev/parser@npm:52.11.3":
-  version: 52.11.3
-  resolution: "@slidev/parser@npm:52.11.3"
+"@slidev/parser@npm:52.11.4":
+  version: 52.11.4
+  resolution: "@slidev/parser@npm:52.11.4"
   dependencies:
     "@antfu/utils": "npm:^9.3.0"
-    "@slidev/types": "npm:52.11.3"
+    "@slidev/types": "npm:52.11.4"
     yaml: "npm:^2.8.2"
-  checksum: 10c0/1a1b419b3d0b6152cb69abe6d1e30a703e63ce50f0b28d625ccd521be391a72b826877857578e5dc36422dde75694c47ca40f1bc87201c1b3a7f97772a4490fb
+  checksum: 10c0/ea1f01d71501b144df05cf2c8854de536ced6d2341dca8c6ee225c2ba396938bb2724eaa3394446a40f1c3947a29cdff09cf293baa3ba21b93479665fbd6c477
   languageName: node
   linkType: hard
 
@@ -1476,28 +1476,28 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@slidev/types@npm:52.11.3":
-  version: 52.11.3
-  resolution: "@slidev/types@npm:52.11.3"
+"@slidev/types@npm:52.11.4":
+  version: 52.11.4
+  resolution: "@slidev/types@npm:52.11.4"
   dependencies:
     "@antfu/utils": "npm:^9.3.0"
     "@shikijs/markdown-it": "npm:^3.21.0"
     "@vitejs/plugin-vue": "npm:^6.0.3"
     "@vitejs/plugin-vue-jsx": "npm:^5.1.3"
-    katex: "npm:^0.16.27"
+    katex: "npm:^0.16.28"
     mermaid: "npm:^11.12.2"
     monaco-editor: "npm:^0.55.1"
     shiki: "npm:^3.21.0"
-    unocss: "npm:^66.5.12"
-    unplugin-icons: "npm:^22.5.0"
+    unocss: "npm:^66.6.0"
+    unplugin-icons: "npm:^23.0.1"
     unplugin-vue-markdown: "npm:^29.2.0"
     vite-plugin-inspect: "npm:^11.3.3"
     vite-plugin-remote-assets: "npm:^2.1.0"
-    vite-plugin-static-copy: "npm:^3.1.4"
+    vite-plugin-static-copy: "npm:^3.2.0"
     vite-plugin-vue-server-ref: "npm:^1.0.0"
-    vue: "npm:^3.5.26"
+    vue: "npm:^3.5.27"
     vue-router: "npm:^4.6.4"
-  checksum: 10c0/4e5ac486b644d2862b8b84204ff9f7aa2f0085995f99eb78995e4c1227ec9eb558e31c714a65df58d790cf617fa38eaa3cd9ec0dbd78251d42184a94b5b13b66
+  checksum: 10c0/69f8881eb0c321c0e6422099300d506728c424a6cdb9a9adf998b57588a4477464abd3b9379195b0f69fd78946ede6ce7def8f7ff95fb1c2ba2d850f63edcf41
   languageName: node
   linkType: hard
 
@@ -1981,7 +1981,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@unocss/extractor-mdc@npm:^66.5.12":
+"@unocss/extractor-mdc@npm:^66.6.0":
   version: 66.6.0
   resolution: "@unocss/extractor-mdc@npm:66.6.0"
   checksum: 10c0/6153e4bc6e70df86e645cba1ad3e80b898f1bf2217adfb3d832d79d2484d5bc96f5aac8a050f0c105242ed9f41bb6b6b1886a27870152933a956f768961340f2
@@ -2120,7 +2120,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@unocss/reset@npm:66.6.0, @unocss/reset@npm:^66.5.12":
+"@unocss/reset@npm:66.6.0, @unocss/reset@npm:^66.6.0":
   version: 66.6.0
   resolution: "@unocss/reset@npm:66.6.0"
   checksum: 10c0/9d1d7113ca8b7efb27c83c829b12f0ef721462db244717fde2393cf77572b8d209ae459d915d7d3d8d18fdc1410ecbc0baa9c60b66e7979c298b036be0b8e5de
@@ -3609,7 +3609,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"debug@npm:4, debug@npm:^4.0.0, debug@npm:^4.1.0, debug@npm:^4.1.1, debug@npm:^4.3.1, debug@npm:^4.3.4, debug@npm:^4.4.0, debug@npm:^4.4.1, debug@npm:^4.4.3":
+"debug@npm:4, debug@npm:^4.0.0, debug@npm:^4.1.0, debug@npm:^4.1.1, debug@npm:^4.3.1, debug@npm:^4.3.4, debug@npm:^4.4.0, debug@npm:^4.4.1":
   version: 4.4.3
   resolution: "debug@npm:4.4.3"
   dependencies:
@@ -3767,7 +3767,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"domutils@npm:^3.2.1":
+"domutils@npm:^3.2.2":
   version: 3.2.2
   resolution: "domutils@npm:3.2.2"
   dependencies:
@@ -3866,17 +3866,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"entities@npm:^6.0.0":
-  version: 6.0.1
-  resolution: "entities@npm:6.0.1"
-  checksum: 10c0/ed836ddac5acb34341094eb495185d527bd70e8632b6c0d59548cbfa23defdbae70b96f9a405c82904efa421230b5b3fd2283752447d737beffd3f3e6ee74414
-  languageName: node
-  linkType: hard
-
 "entities@npm:^7.0.0":
   version: 7.0.0
   resolution: "entities@npm:7.0.0"
   checksum: 10c0/4e7cc40cd00b64adede81780fd85c0bd0a905e863b5ef0b01718028ffbc113886c281deb57e1ce0e13a6e349a2d404ff383c876673b81d6dc56e87bf3e5a022a
+  languageName: node
+  linkType: hard
+
+"entities@npm:^7.0.1":
+  version: 7.0.1
+  resolution: "entities@npm:7.0.1"
+  checksum: 10c0/b4fb9937bb47ecb00aaaceb9db9cdd1cc0b0fb649c0e843d05cf5dbbd2e9d2df8f98721d8b1b286445689c72af7b54a7242fc2d63ef7c9739037a8c73363e7ca
   languageName: node
   linkType: hard
 
@@ -4399,15 +4399,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"htmlparser2@npm:^10.0.0":
-  version: 10.0.0
-  resolution: "htmlparser2@npm:10.0.0"
+"htmlparser2@npm:^10.1.0":
+  version: 10.1.0
+  resolution: "htmlparser2@npm:10.1.0"
   dependencies:
     domelementtype: "npm:^2.3.0"
     domhandler: "npm:^5.0.3"
-    domutils: "npm:^3.2.1"
-    entities: "npm:^6.0.0"
-  checksum: 10c0/47cfa37e529c86a7ba9a1e0e6f951ad26ef8ca5af898ab6e8916fa02c0264c1453b4a65f28b7b8a7f9d0d29b5a70abead8203bf8b3f07bc69407e85e7d9a68e4
+    domutils: "npm:^3.2.2"
+    entities: "npm:^7.0.1"
+  checksum: 10c0/36394e29b80cfcc5e78e0fa4d3aa21fdaac3e6778d23e5c933e625c290987cd9a724a2eb0753ab60ed0c69dfaba0ab115f0ee50fb112fd8f0c4d522e7e0089a2
   languageName: node
   linkType: hard
 
@@ -4774,14 +4774,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"katex@npm:^0.16.27":
-  version: 0.16.27
-  resolution: "katex@npm:0.16.27"
+"katex@npm:^0.16.28":
+  version: 0.16.28
+  resolution: "katex@npm:0.16.28"
   dependencies:
     commander: "npm:^8.3.0"
   bin:
     katex: cli.js
-  checksum: 10c0/f5f9a8c9f422c8f798081cc3483d44f112d75f65968a643572d9cfa910b9ebcf47f3563111764b91b9298f32776dfc04ebaf950f515ff3f406f058a0b9a33c9a
+  checksum: 10c0/9c6e100ecb10c8e8315ab1d6ae16642b91e05642d821158149be520d629c3b47f30d8475fa8978d2d765a1d8e1bd66ab6afffe3a0409265de520edccab346b3e
   languageName: node
   linkType: hard
 
@@ -4986,15 +4986,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"markdown-it-mdc@npm:^0.2.6":
-  version: 0.2.6
-  resolution: "markdown-it-mdc@npm:0.2.6"
+"markdown-it-mdc@npm:^0.2.8":
+  version: 0.2.8
+  resolution: "markdown-it-mdc@npm:0.2.8"
   dependencies:
-    yaml: "npm:^2.8.0"
+    yaml: "npm:^2.8.2"
   peerDependencies:
     "@types/markdown-it": "*"
     markdown-it: ^14.0.0
-  checksum: 10c0/9306df66bda82c5c086c42fb06d7ceaf3b3b3a3fc7846ab06131ebad037f8cb32b6aa5b70cf5e768764181fd3b59972deafc841a273c885558419f086d2e7a93
+  checksum: 10c0/d26975850e3277e95efe4d86549d3061d3dedf428abbce25d6a2ec4a53327b991363519466358cf4086fb16123f5a95e4a2239e2075887b77e7d52264fb33bcc
   languageName: node
   linkType: hard
 
@@ -5803,7 +5803,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "oss_maintenance_and_community_building@workspace:oss_maintenance_and_community_building"
   dependencies:
-    "@slidev/cli": "npm:52.11.3"
+    "@slidev/cli": "npm:52.11.4"
   languageName: unknown
   linkType: soft
 
@@ -5811,14 +5811,21 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "oss_participation@workspace:oss_participation"
   dependencies:
-    "@slidev/cli": "npm:52.11.3"
+    "@slidev/cli": "npm:52.11.4"
   languageName: unknown
   linkType: soft
 
-"p-map@npm:^7.0.2, p-map@npm:^7.0.3":
+"p-map@npm:^7.0.2":
   version: 7.0.3
   resolution: "p-map@npm:7.0.3"
   checksum: 10c0/46091610da2b38ce47bcd1d8b4835a6fa4e832848a6682cf1652bc93915770f4617afc844c10a77d1b3e56d2472bb2d5622353fa3ead01a7f42b04fc8e744a5c
+  languageName: node
+  linkType: hard
+
+"p-map@npm:^7.0.4":
+  version: 7.0.4
+  resolution: "p-map@npm:7.0.4"
+  checksum: 10c0/a5030935d3cb2919d7e89454d1ce82141e6f9955413658b8c9403cfe379283770ed3048146b44cde168aa9e8c716505f196d5689db0ae3ce9a71521a2fef3abd
   languageName: node
   linkType: hard
 
@@ -6552,7 +6559,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "slides@workspace:."
   dependencies:
-    "@slidev/cli": "npm:52.11.3"
+    "@slidev/cli": "npm:52.11.4"
     "@slidev/theme-default": "npm:0.25.0"
     prettier: "npm:3.8.1"
     prettier-plugin-slidev: "npm:1.0.5"
@@ -6748,15 +6755,15 @@ __metadata:
   linkType: hard
 
 "tar@npm:^7.4.3":
-  version: 7.5.6
-  resolution: "tar@npm:7.5.6"
+  version: 7.5.7
+  resolution: "tar@npm:7.5.7"
   dependencies:
     "@isaacs/fs-minipass": "npm:^4.0.0"
     chownr: "npm:^3.0.0"
     minipass: "npm:^7.1.2"
     minizlib: "npm:^3.1.0"
     yallist: "npm:^5.0.0"
-  checksum: 10c0/08af3807035957650ad5f2a300c49ca4fe0566ac0ea5a23741a5b5103c6da42891a9eeaed39bc1fbcf21c5cac4dc846828a004727fb08b9d946322d3144d1fd2
+  checksum: 10c0/51f261afc437e1112c3e7919478d6176ea83f7f7727864d8c2cce10f0b03a631d1911644a567348c3063c45abdae39718ba97abb073d22aa3538b9a53ae1e31c
   languageName: node
   linkType: hard
 
@@ -7042,7 +7049,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"unocss@npm:^66.5.12":
+"unocss@npm:^66.6.0":
   version: 66.6.0
   resolution: "unocss@npm:66.6.0"
   dependencies:
@@ -7084,22 +7091,20 @@ __metadata:
   languageName: node
   linkType: hard
 
-"unplugin-icons@npm:^22.5.0":
-  version: 22.5.0
-  resolution: "unplugin-icons@npm:22.5.0"
+"unplugin-icons@npm:^23.0.1":
+  version: 23.0.1
+  resolution: "unplugin-icons@npm:23.0.1"
   dependencies:
     "@antfu/install-pkg": "npm:^1.1.0"
-    "@iconify/utils": "npm:^3.0.2"
-    debug: "npm:^4.4.3"
+    "@iconify/utils": "npm:^3.1.0"
     local-pkg: "npm:^1.1.2"
-    unplugin: "npm:^2.3.10"
+    obug: "npm:^2.1.1"
+    unplugin: "npm:^2.3.11"
   peerDependencies:
     "@svgr/core": ">=7.0.0"
     "@svgx/core": ^1.0.1
-    "@vue/compiler-sfc": ^3.0.2 || ^2.7.0
+    "@vue/compiler-sfc": ^3.0.2
     svelte: ^3.0.0 || ^4.0.0 || ^5.0.0
-    vue-template-compiler: ^2.6.12
-    vue-template-es2015-compiler: ^1.9.0
   peerDependenciesMeta:
     "@svgr/core":
       optional: true
@@ -7109,11 +7114,7 @@ __metadata:
       optional: true
     svelte:
       optional: true
-    vue-template-compiler:
-      optional: true
-    vue-template-es2015-compiler:
-      optional: true
-  checksum: 10c0/94347b1ba2727370b3cd273b5d721a76cd2ce22350455c1744284d1ac5679586ded7197836246c3d45af7da54d11e75f62564be7450d50ecccc693c5a0fc27cb
+  checksum: 10c0/a4e39f973370989349e9cf8e9b5596ad0bf83e03e2cc79d196a5e063d9ba71bbdd3a7bc24b43be4378c9977e9247275fef3508e93a3023e0d82563ece6e97530
   languageName: node
   linkType: hard
 
@@ -7137,28 +7138,26 @@ __metadata:
   languageName: node
   linkType: hard
 
-"unplugin-vue-components@npm:^30.0.0":
-  version: 30.0.0
-  resolution: "unplugin-vue-components@npm:30.0.0"
+"unplugin-vue-components@npm:^31.0.0":
+  version: 31.0.0
+  resolution: "unplugin-vue-components@npm:31.0.0"
   dependencies:
-    chokidar: "npm:^4.0.3"
-    debug: "npm:^4.4.3"
+    chokidar: "npm:^5.0.0"
     local-pkg: "npm:^1.1.2"
-    magic-string: "npm:^0.30.19"
+    magic-string: "npm:^0.30.21"
     mlly: "npm:^1.8.0"
+    obug: "npm:^2.1.1"
+    picomatch: "npm:^4.0.3"
     tinyglobby: "npm:^0.2.15"
-    unplugin: "npm:^2.3.10"
+    unplugin: "npm:^2.3.11"
     unplugin-utils: "npm:^0.3.1"
   peerDependencies:
-    "@babel/parser": ^7.15.8
     "@nuxt/kit": ^3.2.2 || ^4.0.0
-    vue: 2 || 3
+    vue: ^3.0.0
   peerDependenciesMeta:
-    "@babel/parser":
-      optional: true
     "@nuxt/kit":
       optional: true
-  checksum: 10c0/8d6699669e53f71a2c380d81a704270f4675cf30e3c4ad383171f29e8a25de76d5128dab613df1e0c28b38b083f42bda9a287c282b3722540b5b6eb50578232f
+  checksum: 10c0/6c90d402e64595d3012e959b2c00917217cd5fcfc98695d4c8208902ea9ad3bc646c5727deed0cbd75f53d388255ea14ae55dedfff339a28616e50e6461c25fa
   languageName: node
   linkType: hard
 
@@ -7189,6 +7188,18 @@ __metadata:
     picomatch: "npm:^4.0.3"
     webpack-virtual-modules: "npm:^0.6.2"
   checksum: 10c0/29dcd738772aeff91c6f0154f156c95c58a37a4674fcb7cc34d6868af763834f0f447a1c3af074818c0c5602baead49bd3b9399a13f0425d69a00a527e58ddda
+  languageName: node
+  linkType: hard
+
+"unplugin@npm:^2.3.11":
+  version: 2.3.11
+  resolution: "unplugin@npm:2.3.11"
+  dependencies:
+    "@jridgewell/remapping": "npm:^2.3.5"
+    acorn: "npm:^8.15.0"
+    picomatch: "npm:^4.0.3"
+    webpack-virtual-modules: "npm:^0.6.2"
+  checksum: 10c0/273c1eab0eca4470c7317428689295c31dbe8ab0b306504de9f03cd20c156debb4131bef24b27ac615862958c5dd950a3951d26c0723ea774652ab3624149cff
   languageName: node
   linkType: hard
 
@@ -7341,17 +7352,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite-plugin-static-copy@npm:^3.1.4":
-  version: 3.1.4
-  resolution: "vite-plugin-static-copy@npm:3.1.4"
+"vite-plugin-static-copy@npm:^3.2.0":
+  version: 3.2.0
+  resolution: "vite-plugin-static-copy@npm:3.2.0"
   dependencies:
     chokidar: "npm:^3.6.0"
-    p-map: "npm:^7.0.3"
+    p-map: "npm:^7.0.4"
     picocolors: "npm:^1.1.1"
     tinyglobby: "npm:^0.2.15"
   peerDependencies:
     vite: ^5.0.0 || ^6.0.0 || ^7.0.0
-  checksum: 10c0/e733eb123db9ebefbd9c6e5a589f2bfdf71c047ce87190f45575806d893cf19547043ed4a95f30df49d2ac57cb1ba59b3692c559e91181c2321ba363da6c27d3
+  checksum: 10c0/84fabc3cc49b3de7d487045569db105e2c3397eea7ca41ac43651f3e96daae4a0da822f6d493dbede8746c93b123ee30918ebd21cebe7b4f8051fe91e393c2fd
   languageName: node
   linkType: hard
 
@@ -7513,7 +7524,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vue@npm:3.5.27":
+"vue@npm:3.5.27, vue@npm:^3.5.27":
   version: 3.5.27
   resolution: "vue@npm:3.5.27"
   dependencies:
@@ -7655,15 +7666,6 @@ __metadata:
   version: 5.0.0
   resolution: "yallist@npm:5.0.0"
   checksum: 10c0/a499c81ce6d4a1d260d4ea0f6d49ab4da09681e32c3f0472dee16667ed69d01dae63a3b81745a24bd78476ec4fcf856114cb4896ace738e01da34b2c42235416
-  languageName: node
-  linkType: hard
-
-"yaml@npm:^2.8.0":
-  version: 2.8.1
-  resolution: "yaml@npm:2.8.1"
-  bin:
-    yaml: bin.mjs
-  checksum: 10c0/7c587be00d9303d2ae1566e03bc5bc7fe978ba0d9bf39cc418c3139d37929dfcb93a230d9749f2cb578b6aa5d9ebebc322415e4b653cb83acd8bc0bc321707f3
   languageName: node
   linkType: hard
 
