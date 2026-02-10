@@ -3,10 +3,10 @@
   "type": "module",
   "private": true,
   "dependencies": {
-    "@slidev/cli": "52.11.4",
+    "@slidev/cli": "52.11.5",
     "@slidev/theme-default": "0.25.0",
     "vite": "7.3.1",
-    "vue": "3.5.27"
+    "vue": "3.5.28"
   },
   "devDependencies": {
     "prettier": "3.8.1",
