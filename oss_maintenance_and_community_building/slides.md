@@ -217,8 +217,8 @@ Number of participants: #
 Topics
   • All: Introductions 👋
   • All: meeting_ground_rules
-  • Recap done by: Name
   • All: Does anyone want a calendar invite to the dev sync?
+  • Recap done by: Name
   • All: Go through the project board: link_to_project_board
   • Topic
 
@@ -231,7 +231,7 @@ Here's the recap for Saturday's dev sync 🧑‍💻♻️
 
 • Link to pad, summary of topics, etc
 
-The next dev sync will be [YYYY/MM/DD](zonestamp). New joiners are always welcome!
+➡️ The next dev sync will be [YYYY/MM/DD](zonestamp). New joiners are always welcome!
 ```
 
 <div id="progress" class="w-9/12"/>
