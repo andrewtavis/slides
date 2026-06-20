@@ -16,5 +16,5 @@
     "oss_maintenance_and_community_building",
     "oss_participation"
   ],
-  "packageManager": "yarn@4.14.1"
+  "packageManager": "yarn@4.17.0"
 }
