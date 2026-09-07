@@ -6,6 +6,7 @@ node_modules
 
 # Package manager lock files
 .yarn/*
+yarn.lock
 package-lock.json
 .lockfile
 
