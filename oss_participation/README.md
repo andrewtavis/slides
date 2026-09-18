@@ -1,4 +1,4 @@
-# [Open Source Software Participation](https://codeberg.org/andrewtavis/slides/tree/main/oss_participation)
+# [Open Source Software Participation](https://codeberg.org/andrewtavis/slides/src/branch/main/oss_participation)
 
 ### What is open source software and how you can actively participate
 

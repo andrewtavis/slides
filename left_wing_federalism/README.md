@@ -1,1 +1,1 @@
-# [Left-wing Federalism](https://codeberg.org/andrewtavis/slides/tree/main/left_wing_federalism)
+# [Left-wing Federalism](https://codeberg.org/andrewtavis/slides/src/branch/main/left_wing_federalism)
