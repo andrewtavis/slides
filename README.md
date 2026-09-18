@@ -1,12 +1,12 @@
 <div align="center">
-  <a href="https://github.com/andrewtavis/slides"><img src="https://raw.githubusercontent.com/andrewtavis/slides/main/.github/resources/SlidesGitHubBanner.png" width=1024 alt="Slides logo"></a>
+  <a href="https://codeberg.org/andrewtavis/slides"><img src="https://codeberg.org/andrewtavis/slides/raw/branch/main/.github/resources/SlidesGitHubBanner.png" width=1024 alt="Slides logo"></a>
 </div>
 
-[![issues](https://img.shields.io/github/issues/andrewtavis/slides?label=%20&logo=github)](https://github.com/andrewtavis/slides/issues)
+[![issues](https://img.shields.io/github/issues/andrewtavis/slides?label=%20&logo=github)](https://codeberg.org/andrewtavis/slides/issues)
 [![license](https://img.shields.io/github/license/andrewtavis/slides.svg?label=%20)](LICENSE.txt)
 [![coc](https://img.shields.io/badge/Contributor%20Covenant-ff69b4.svg)](.github/CODE_OF_CONDUCT.md)
 
-### Presentations related to open source
+### Presentations related to open source and politics
 
 This repo contains various presentations for open-source software related topics. The slides are created using [Slidev](https://github.com/slidevjs/slidev).
 
@@ -14,9 +14,11 @@ Suggestions for how to improve the content of these slides are more than welcome
 
 ## **Contents**
 
-- [OSS Maintenance and Community Building](https://github.com/andrewtavis/slides/tree/main/oss_maintenance_and_community_building)
+- [Left-wing Federalism](https://codeberg.org/andrewtavis/slides/tree/main/left_wing_federalism)
+  - Worker Power, Dissolved Border and the End of Nationalism
+- [OSS Maintenance and Community Building](https://codeberg.org/andrewtavis/slides/tree/main/oss_maintenance_and_community_building)
   - My experiences building engaged and fun communities around open-source projects
-- [Open Source Software Participation](https://github.com/andrewtavis/slides/tree/main/oss_participation)
+- [Open Source Software Participation](https://codeberg.org/andrewtavis/slides/tree/main/oss_participation)
   - What is open source software and how you can actively participate
 
 ## Running Slides
@@ -31,8 +33,8 @@ Suggestions for how to improve the content of these slides are more than welcome
 First clone this repository or your fork:
 
 ```bash
-git clone https://github.com/andrewtavis/slides.git
-# git clone https://github.com/<your-username>/slides.git
+git clone https://codeberg.org/andrewtavis/slides.git
+# git clone https://codeberg.org/<your-username>/slides.git
 ```
 
 Navigate to the `slides` project and install the dependencies for all presentations via [Corepack](https://yarnpkg.com/getting-started/qa#using-corepack):

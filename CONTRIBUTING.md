@@ -80,7 +80,7 @@ Slides is very open to contributions from people in the early stages of their co
 > </p>
 > </details>
 
-2. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the [Slides repo](https://github.com/andrewtavis/slides), clone your fork, and configure the remotes:
+2. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the [Slides repo](https://codeberg.org/andrewtavis/slides), clone your fork, and configure the remotes:
 
 > [!NOTE]
 >
@@ -90,9 +90,9 @@ Slides is very open to contributions from people in the early stages of their co
 >
 > Alternatively to using HTTPS as in the instructions below, consider SSH to interact with GitHub from the terminal. SSH allows you to connect without a user-pass authentication flow.
 >
-> To run git commands with SSH, remember then to substitute the HTTPS URL, `https://github.com/...`, with the SSH one, `git@github.com:...`.
+> To run git commands with SSH, remember then to substitute the HTTPS URL, `https://codeberg.org/...`, with the SSH one, `git@codeberg.org:...`.
 >
-> - e.g. Cloning now becomes `git clone git@github.com:<your-username>/slides.git`
+> - e.g. Cloning now becomes `git clone git@codeberg.org:<your-username>/slides.git`
 >
 > GitHub also has their documentation on how to [Generate a new SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) 🔑
 >
@@ -101,11 +101,11 @@ Slides is very open to contributions from people in the early stages of their co
 
 ```bash
 # Clone your fork of the repo into the current directory.
-git clone https://github.com/<your-username>/slides.git
+git clone https://codeberg.org/<your-username>/slides.git
 # Navigate to the newly cloned directory.
 cd slides
 # Assign the original repo to a remote called "upstream".
-git remote add upstream https://github.com/andrewtavis/slides.git
+git remote add upstream https://codeberg.org/andrewtavis/slides.git
 ```
 
 - Now, if you run `git remote -v` you should see two remote repositories named:
@@ -138,9 +138,9 @@ pnpm run dev
 
 ## Issues
 
-The [issue tracker for Slides](https://github.com/andrewtavis/slides/issues) is the preferred channel for [bug reports](#bug-reports), [features requests](#feature-requests) and [submitting pull requests](#pull-requests).
+The [issue tracker for Slides](https://codeberg.org/andrewtavis/slides/issues) is the preferred channel for [bug reports](#bug-reports), [features requests](#feature-requests) and [submitting pull requests](#pull-requests).
 
-Be sure to check the [`-priority-`](https://github.com/andrewtavis/slides/labels/-priority-) labels in the [issues](https://github.com/andrewtavis/slides/issues) for those that are most important, as well as those marked [`good first issue`](https://github.com/andrewtavis/slides/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) that are tailored for first time contributors.
+Be sure to check the [`-priority-`](https://codeberg.org/andrewtavis/slides/labels/-priority-) labels in the [issues](https://codeberg.org/andrewtavis/slides/issues) for those that are most important, as well as those marked [`good first issue`](https://codeberg.org/andrewtavis/slides/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) that are tailored for first time contributors.
 
 <sub><a href="#top">Back to top.</a></sub>
 
@@ -164,7 +164,7 @@ Guidelines for bug reports:
 - What actually happens
 - Notes (why this might be happening, things tried that didn't work, etc)
 
-To make the above steps easier, the Slides team asks that contributors report bugs using the [bug report template](https://github.com/andrewtavis/slides/issues/new?assignees=&labels=bug&template=bug_report.yml), with these issues further being marked with the [`Bug`](https://github.com/andrewtavis/slides/issues?q=is%3Aopen+is%3Aissue+type%3ABug) type.
+To make the above steps easier, the Slides team asks that contributors report bugs using the [bug report template](https://codeberg.org/andrewtavis/slides/issues/new?assignees=&labels=bug&template=bug_report.yml), with these issues further being marked with the [`Bug`](https://codeberg.org/andrewtavis/slides/issues?q=is%3Aopen+is%3Aissue+type%3ABug) type.
 
 Again, thank you for your time in reporting issues!
 
@@ -172,7 +172,7 @@ Again, thank you for your time in reporting issues!
 
 ## Feature requests
 
-Feature requests are more than welcome! Please take a moment to find out whether your idea fits with the scope and aims of the project. When making a suggestion, provide as much detail and context as possible, and further make clear the degree to which you would like to contribute in its development. Feature requests are marked with the [`Feature`](https://github.com/andrewtavis/slides/issues?q=is%3Aissue%20state%3Aopen%20type%3AFeature) type in the [issues](https://github.com/andrewtavis/slides/issues).
+Feature requests are more than welcome! Please take a moment to find out whether your idea fits with the scope and aims of the project. When making a suggestion, provide as much detail and context as possible, and further make clear the degree to which you would like to contribute in its development. Feature requests are marked with the [`Feature`](https://codeberg.org/andrewtavis/slides/issues?q=is%3Aissue%20state%3Aopen%20type%3AFeature) type in the [issues](https://codeberg.org/andrewtavis/slides/issues).
 
 <sub><a href="#top">Back to top.</a></sub>
 

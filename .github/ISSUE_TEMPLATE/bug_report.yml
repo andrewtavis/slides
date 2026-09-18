@@ -7,7 +7,7 @@ body:
     attributes:
       label: Terms
       options:
-        - label: I have searched all [open bug reports](https://github.com/andrewtavis/slides/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
+        - label: I have searched all [open bug reports](https://codeberg.org/andrewtavis/slides/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
           required: true
         - label: I agree to follow Slide's [Code of Conduct](.github/CODE_OF_CONDUCT.md)
           required: true
