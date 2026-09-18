@@ -15,7 +15,7 @@ Suggestions for how to improve the content of these slides are more than welcome
 ## **Contents**
 
 - [Left-wing Federalism](https://codeberg.org/andrewtavis/slides/src/branch/main/left_wing_federalism)
-  - Worker Power, Dissolved Border and the End of Nationalism
+  - Worker Power, Dissolved Borders and the End of Nationalism
 - [OSS Maintenance and Community Building](https://codeberg.org/andrewtavis/slides/src/branch/main/oss_maintenance_and_community_building)
   - My experiences building engaged and fun communities around open-source projects
 - [Open Source Software Participation](https://codeberg.org/andrewtavis/slides/src/branch/main/oss_participation)
@@ -44,6 +44,10 @@ cd slides
 
 corepack enable
 yarn install
+
+# Alternatively:
+npm install
+pnpm install
 ```
 
 Build and open your slides of choice by navigating to its directory, linking it to the shared dependencies and executing the `run dev` command:
@@ -53,6 +57,10 @@ cd SLIDES_OF_CHOICE
 
 yarn install
 yarn run dev
+
+# Alternatively:
+npm run dev
+pnpm run dev
 ```
 
 Once finished you can visit <http://localhost:3000> to view the slides. Follow the prompts in your terminal to close the slides or do other actions. Note also that [Slidev](https://github.com/slidevjs/slidev) is a live development server — changes to the `slides.md` files for each presentation will automatically be reflected in the browser.
