@@ -2,7 +2,7 @@
   <a href="https://codeberg.org/andrewtavis/slides"><img src="https://codeberg.org/andrewtavis/slides/raw/branch/main/.github/resources/SlidesGitHubBanner.png" style="width: 100%; max-width: 100%;" alt="Slides logo"></a>
 </div>
 
-[![issues](https://img.shields.io/github/issues/andrewtavis/slides?label=%20&logo=github)](https://codeberg.org/andrewtavis/slides/issues)
+[![issues](https://img.shields.io/gitea/issues/open/andrewtavis/slides?gitea_url=https://codeberg.org&label=%20&logo=codeberg&logoColor=ffffff)](https://codeberg.org/andrewtavis/slides/issues)
 [![license](https://img.shields.io/github/license/andrewtavis/slides.svg?label=%20)](LICENSE.txt)
 [![coc](https://img.shields.io/badge/Contributor%20Covenant-ff69b4.svg)](.github/CODE_OF_CONDUCT.md)
 
@@ -54,8 +54,6 @@ Build and open your slides of choice by navigating to its directory, linking it 
 
 ```bash
 cd SLIDES_OF_CHOICE
-
-yarn install
 yarn run dev
 
 # Alternatively:
