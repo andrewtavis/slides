@@ -12,7 +12,7 @@ This repo contains various presentations for open-source software related topics
 
 Suggestions for how to improve the content of these slides are more than welcome! ✨ Edits will mainly be made in the corresponding `slides.md` file for each presentation. Please see the [contributing guide](CONTRIBUTING.md) if you'd like to help.
 
-## **Contents**
+## Contents
 
 - [Left-wing Federalism](https://codeberg.org/andrewtavis/slides/src/branch/main/left_wing_federalism)
   - Worker Power, Dissolved Borders and the End of Nationalism
