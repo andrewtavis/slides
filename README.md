@@ -15,7 +15,7 @@ Suggestions for how to improve the content of these slides are more than welcome
 ## Contents
 
 - [Left-wing Federalism](https://codeberg.org/andrewtavis/slides/src/branch/main/left_wing_federalism)
-  - Worker Power, Dissolved Borders and the End of Nationalism
+  - Worker Power, Dissolved Borders and the Death of Nationalism
 - [OSS Maintenance and Community Building](https://codeberg.org/andrewtavis/slides/src/branch/main/oss_maintenance_and_community_building)
   - My experiences building engaged and fun communities around open-source projects
 - [Open Source Software Participation](https://codeberg.org/andrewtavis/slides/src/branch/main/oss_participation)

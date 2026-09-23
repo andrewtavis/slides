@@ -5,6 +5,8 @@ info: |
   ## Open Source Software Participation Presentation
   What is open source software and how you can actively participate.
 class: text-center
+fonts:
+  sans: Red Hat Display
 transition: none
 mdc: true
 hideInToc: true

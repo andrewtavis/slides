@@ -5,6 +5,8 @@ info: |
   ## OSS Maintenance and Community Building Presentation
   My experiences building engaged and fun communities around open-source projects.
 class: text-center
+fonts:
+  sans: Red Hat Display
 transition: none
 mdc: true
 hideInToc: true
