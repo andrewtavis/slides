@@ -37,7 +37,7 @@ Example facets of an political identity (generally from right to left-wing)
 - Nationalism
 - Conservatism
 - Liberalism
-- Democracy-ism
+- Democratism
 - Progressivism
 - Environmentalism
 - Socialism
@@ -84,14 +84,14 @@ Also a bit of a roller coaster
 We'll start with very easy concepts and move on from there, don't worry
 
 - Composed at the start of three vertically stacked rectangles
-- These represent capital, workers and a nation
-- Each of the above has an arrow to indicate the direction of power
-- Capital is at the top and its arrow points down (⬇️)
-- Workers are at the bottom and their arrow points up (⬆️)
+- The rectangles represent capital, workers and a nation
+- Each of the above has an arrow to indicate a direction of power
+- Capital is at the top and its arrow points down to suppress workers (⬇️)
+- Workers are at the bottom and their arrow points up to fight capital (⬆️)
 - The nation is in between and its arrow can switch direction (⬇️ or ⬆️)
 - Sometimes the nation supports workers (⬆️), and sometimes capital (⬇️)
 - Later frameworks add in horizontal groups of stacked rectangles
-- Groups are two at maximum to assure simplicity
+- Groups are two at most to assure simplicity
 - Arrows in groups can point inwards to indicate collaboration (↘️ ↙️ or ↗️ ↖️)
 - We want more up arrows and less down arrows
 
@@ -170,15 +170,14 @@ What we all want through federalism and federations
 
 - Federations allow for the free movement of people across interior borders (they're dissolved)
 - Europe already has dissolved borders via the Schengen Area
-- Other regions can still dramatically benefit from this aspect of federations
+- Other regions can dramatically benefit from this aspect of federations
 - The goal here is <u>not</u> drawing lines for other peoples (they voluntarily associate)
-- It doesn't have to stop at federations ...
+- It doesn't have to stop at just within federations ...
 
 Being explicit:
 
-- I do not like borders and see them as violent, made up bullshit
+- Borders are violent, arbitrary and divisive beyond simply being lines on a map
 - Calling for the abolition of borders is often weaponized against the political left
-- I am not saying we should stop calling for the abolition of borders
 - Adding the dissolution of borders through federalism to our methods will help
 - It's not as important for Europe, but could be a huge step for others
 
@@ -215,7 +214,7 @@ Descends into authoritarianism
 
 # PF7: Our Contemporary World
 
-Now as a picture!
+Now as a power framework!
 
 <div class="flex justify-center pt-14">
    <img src="/power_frameworks/Power Framework 7 - Our Contemporary World.svg" class="h-72 pr-40" alt="Power Framework 7 - Our Contemporary World"/>
@@ -265,19 +264,20 @@ Under internationalism (an interim step)
 
 # PF10: The United Federations
 
-And the end of nationalism
+The end of nationalism
 
 <div class="flex justify-center pt-14">
    <img src="/power_frameworks/Power Framework 10 - The United Federations (The End of Nationalism).svg" class="h-72 pr-40" alt="Power Framework 10 - The United Federations (The End of Nationalism)"/>
 </div>
 
-- Nations: Culturally cohesive regions within federations that provide services to those who live there
+- Nations: Culturally cohesive regions within federations that provide services to their residents
+- All workers are protected by a common set of laws at varying levels; all borders are dissolved
 
 <div id="progress" class="w-19/21"/>
 
 ---
 
-# A Federated World
+# A Federalized World
 
 Institutions and systems
 
