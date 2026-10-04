@@ -47,7 +47,7 @@ hide: false
 
 <br/>
 
-> Thanks to all of the amazing people in these communities! ❤️🩵
+> Thanks to all of the amazing people in these communities! ❤️💙
 
 <div id="progress" class="w-1/12"/>
 
@@ -233,7 +233,7 @@ Here's the recap for Saturday's dev sync 🧑‍💻♻️
 
 • Link to pad, summary of topics, etc
 
-➡️ The next dev sync will be [YYYY/MM/DD](zonestamp). New joiners are always welcome!
+➡️ The next dev sync will be [YYYY/MM/DD](zonestamp). New joiners are always welcome! ❤️
 ```
 
 <div id="progress" class="w-9/12"/>

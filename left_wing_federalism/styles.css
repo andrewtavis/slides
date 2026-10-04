@@ -1,11 +1,7 @@
 /* SPDX-License-Identifier: CC0-1.0 */
 .slidev-layout {
-  h1 {
-    --uno: text-slate-600;
-  }
-
   a {
-    --uno: text-slate-600 dark-hover-text-slate-600;
+    --uno: text-slate-600 hover-text-slate-600;
   }
 
   a {
@@ -34,10 +30,6 @@
 
 @media (prefers-color-scheme: dark) {
   .slidev-layout {
-    h1 {
-      --uno: text-slate-400;
-    }
-
     a {
       --uno: text-slate-400 hover-text-slate-400;
     }

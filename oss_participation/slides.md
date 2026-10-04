@@ -66,7 +66,7 @@ hide: false
 
 - Through this way many people can work on a project together collaboratively
 
-- It's normal that developers store their code on platforms like [GitHub](https://github.com) and [GitLab](https://gitlab.com)
+- It's normal that developers store their code on platforms like [Codeberg](https://codeberg.org/), [GitHub](https://github.com) and [GitLab](https://gitlab.com)
   - These include chat threads, organization boards and other features to help us work together
 
 <br/>
@@ -85,7 +85,7 @@ hide: false
 | Office Suite     | Google (Gmail, etc) / Microsoft Office | [Proton](https://proton.me) / [LibreOffice](https://www.libreoffice.org) / [Thunderbird](https://www.thunderbird.net/en-US/) |
 | Design           | Figma / Illustrator / Final Cut Pro    | [Blender](https://www.blender.org) / [Penpot](https://penpot.app) / [Inkscape](https://www.inkscape.org)                     |
 | Chat             | WhatsApp / Slack / Telegram / Discord  | [Signal](https://signal.org) / [Matrix](https://matrix.org) / [Zulip](https://zulip.com)                                     |
-| Maps / Travel    | Google Maps / Waze / Apple Maps        | [OpenStreetMap](https://www.openstreetmap.org) / [Organic Maps](https://organicmaps.app/)                                    |
+| Maps / Travel    | Google Maps / Waze / Apple Maps        | [OpenStreetMap](https://www.openstreetmap.org) / [CoMaps](https://www.comaps.app/)                                           |
 | Code Editor      | IntelliJ IDEA Ultimate Edition         | [VS Code](https://code.visualstudio.com) / [Vim](https://www.vim.org) / [Zed](https://zed.dev)                               |
 | Browser          | Chrome / Safari / Edge                 | [Firefox](https://www.firefox.com) / [DuckDuckGo](https://duckduckgo.com)                                                    |
 
@@ -137,7 +137,7 @@ hide: false
 - Get practical experience if you're a student, which will really help you in interviews for a first job
 
 - Having a strong open-source presence is very beneficial for the job market
-  - Link your [GitHub](https://github.com) and [GitLab](https://gitlab.com) profile prominently on your CV as hiring managers do look for them
+  - Link your [Codeberg](https://codeberg.org/), [GitHub](https://github.com) and [GitLab](https://gitlab.com) profile on your CV as hiring managers do look for them
 
 <div id="progress" class="w-5/11"/>
 
@@ -147,7 +147,7 @@ hide: false
 
 ### Developer platforms
 
-- Make an account on [GitHub](https://github.com) and/or [GitLab](https://gitlab.com)
+- Make an account on [Codeberg](https://codeberg.org/), [GitHub](https://github.com) and/or [GitLab](https://gitlab.com)
 
 - You can then search for projects based on coding language, device, topics that interest you, etc
 
@@ -215,7 +215,7 @@ hide: false
 # Positive behavior
 
 - Communicate your goals and any deadlines you have to get the work done (school project due date)
-  - Let maintainers know if you're experiencing problems and ask for help (they want you to succeed)
+  - Let maintainers know if you're experiencing problems and ask for help (they want you to succeed!)
 
 - After a few contributions, start looking into whether you can support with code reviews
   - Reviewing code from other community members is very helpful for projects!
@@ -228,7 +228,7 @@ hide: false
 
 - Don't just use AI/ML to generate a solution (these are tools to help YOU write the code)
 
-- Don't ask for rights to the code (this is very sensitive - they're given, not asked for)
+- Don't ask for rights to the code repository (this is very sensitive - rights are given, not asked for)
 
 <div id="progress" class="w-9/11"/>
 
