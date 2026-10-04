@@ -293,11 +293,11 @@ hideInToc: true
    <p>GitHub:activist-org</p>
   </div>
   <div class="flex flex-col items-center">
-    <img src="/scribe_org_qr_code.png" class="h-64" alt="QR code to GitHub:scribe-org"/>
+    <img src="@images/scribe_org_qr_code.png" class="h-64" alt="QR code to GitHub:scribe-org"/>
     <p>GitHub:scribe-org</p>
   </div>
   <div class="flex flex-col items-center">
-    <img src="@images/oss_maintenance_and_community_building_qr_code.png" class="h-64" alt="QR code to a markdown file for the slides"/>
+    <img src="/oss_maintenance_and_community_building_qr_code.png" class="h-64" alt="QR code to a markdown file for the slides"/>
     <p>Slides Content</p>
   </div>
 </div>

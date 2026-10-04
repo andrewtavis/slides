@@ -1,7 +1,7 @@
 /* SPDX-License-Identifier: CC0-1.0 */
 .slidev-layout {
   a {
-    --uno: text-slate-500 hover-text-slate-500;
+    --uno: text-blue-500 hover-text-blue-500;
   }
 
   a {
@@ -9,7 +9,7 @@
   }
 
   blockquote {
-    --uno: rounded-none border-l-2 border-l-slate-500 m-2;
+    --uno: rounded-none border-l-2 border-l-blue-500 my-2;
   }
 
   h1,
@@ -24,6 +24,6 @@
   }
 
   #progress {
-    --uno: absolute bottom-0 left-0 h-1 bg-slate-500;
+    --uno: absolute bottom-0 left-0 h-1 bg-current;
   }
 }
