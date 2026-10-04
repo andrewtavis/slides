@@ -4,9 +4,10 @@ title: OSS Maintenance and Community Building
 info: |
   ## OSS Maintenance and Community Building Presentation
   My experiences building engaged and fun communities around open-source projects.
-class: text-center
 fonts:
   sans: Red Hat Display
+layout: cover
+class: text-center
 transition: none
 mdc: true
 hideInToc: true
@@ -292,7 +293,7 @@ hideInToc: true
    <p>GitHub:activist-org</p>
   </div>
   <div class="flex flex-col items-center">
-    <img src="@images/scribe_org_qr_code.png" class="h-64" alt="QR code to GitHub:scribe-org"/>
+    <img src="/scribe_org_qr_code.png" class="h-64" alt="QR code to GitHub:scribe-org"/>
     <p>GitHub:scribe-org</p>
   </div>
   <div class="flex flex-col items-center">

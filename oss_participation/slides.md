@@ -4,9 +4,10 @@ title: Open Source Software Participation
 info: |
   ## Open Source Software Participation Presentation
   What is open source software and how you can actively participate.
-class: text-center
 fonts:
   sans: Red Hat Display
+layout: cover
+class: text-center
 transition: none
 mdc: true
 hideInToc: true
@@ -270,7 +271,7 @@ hideInToc: true
     <p>GitHub:scribe-org</p>
   </div>
   <div class="flex flex-col items-center">
-    <img src="@images/oss_participation_qr_code.png" class="h-64" alt="QR code to a markdown file for the slides"/>
+    <img src="/oss_participation_qr_code.png" class="h-64" alt="QR code to a markdown file for the slides"/>
     <p>Slides Content</p>
   </div>
 </div>
