@@ -241,19 +241,20 @@ Here's the recap for Saturday's dev sync 🧑‍💻♻️
 
 ---
 
-# Ritual automation
+# Automation
 
 - There's a lot of work involved in keeping to your rituals, so try to automate what you can
 - [Dev sync reminder message 🧑‍💻♻️](https://github.com/scribe-org/Organization/blob/main/.github/workflows/matrix_dev_sync_reminder.yml)
-  - Sent each Wednesday before a dev sync
+  - Sent each Wednesday before a dev sync (time in UTC with a [ZoneStamp](https://zonestamp.toolforge.org/))
   - Fully explain it as this is more for new people (others have calendar invites)
-  - Time and date in UTC with a [ZoneStamp](https://zonestamp.toolforge.org/)
   - Have it create the notes pad and add links to anything else a new person needs
-- [Community Spotlight message 👥🎉](https://github.com/scribe-org/Organization/blob/main/.github/workflows/community_spotlight_message.yml)
+- [Community spotlight message 👥🎉](https://github.com/scribe-org/Organization/blob/main/.github/workflows/community_spotlight_message.yml)
   - At the end of every month run a workflow to calculate the top contributors for the period
   - Send a thank you message to the development channel with links to accounts and contributions
-  - Filter out organization members so the focus is on people new to the community
   - Use this as a reminder to share things about your community on social media
+- [Dependency update check 🤖⬆️](https://github.com/activist-org/activist/blob/main/.github/workflows/dependency_update_check.yaml) / [Dependency audit report 🤖🔍](https://github.com/activist-org/activist/blob/main/.github/workflows/dependency_vulnerability_audit.yaml)
+  - Check what dependencies can be updated at a regular interval and open a good first issue
+  - An amazing way to get first contributions!
 
 <div id="progress" class="w-10/12"/>
 
