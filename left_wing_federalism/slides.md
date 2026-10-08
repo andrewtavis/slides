@@ -19,34 +19,33 @@ hideInToc: true
 
 Andrew McAllister (Andy, @andrewtavis)
 
----
-
-# Our Contemporary World
-
-Now in writing, and as a picture later!
-
-<div id="progress" class="w-1/21"/>
+<!--
+Discussion of identity: German and European, but also US-American and American.
+-->
 
 ---
 
 # Political Ideologies
 
-Example facets of an political identity (generally from right to left-wing)
+Example facets of an political identity
 
-- Fascism
-- Nationalism
-- Conservatism
-- Liberalism
-- Democratism
-- Progressivism
-- Environmentalism
-- Socialism
-- Communism
-- Anarchism
+## Left
+
+- Anarchism, Communism, Socialism, Environmentalism
+
+## Center
+
+- Real Republicanism (👑❌), Progressivism, Democratism, Liberalism
+
+## Right
+
+- Conservatism, Nationalism, Fascism
+
+<br/>
 
 What about federalism? Should we add it to our political identities? If so, what school?
 
-<div id="progress" class="w-2/21"/>
+<div id="progress" class="w-1/22"/>
 
 ---
 
@@ -54,7 +53,22 @@ What about federalism? Should we add it to our political identities? If so, what
 
 Potential when seen from a left-wing perspective
 
-<div id="progress" class="w-3/21"/>
+<div class="grid grid-cols-2 gap-4">
+   <div>
+      <p class="text-3xl">Anarchofederalism</p>
+      <ul>
+         <li>Free association of constituents</li>
+      </ul>
+   </div>
+   <div>
+      <p class="text-3xl">Republican Federalism</p>
+      <ul>
+         <li></li>
+      </ul>
+   </div>
+</div>
+
+<div id="progress" class="w-2/22"/>
 
 ---
 
@@ -62,7 +76,32 @@ Potential when seen from a left-wing perspective
 
 ... is awful, so how do we get to a world without it?
 
-<div id="progress" class="w-4/21"/>
+- Borders lead to institutional inequality
+- Xenophobia and the violence that comes with it
+
+<div id="progress" class="w-3/22"/>
+
+---
+
+# Our Contemporary World
+
+As pictures later!
+
+- On track to eclipse the 1.5 °C and 2 °C goals for set in response to the climate crisis
+  - More and worse: disasters, food and water insecurity, economic inequality as well as species loss
+
+- AI, the far right and lots of speculative funding is dramatically reducing the agency of working people (✊🪧📣)
+
+- International institutions are not doing enough (_or making things worse_)
+  - Everything is a non-binding agreement that bends to national will
+  - World Health Organization: Room for improvement, but doing a good job (_hence de-funded by the US_)
+  - IMF and World Bank: Rich nations have most votes and use them to further imperialism and extractivism
+
+- The United Nations is coordinating international efforts
+  - Security Council: Winners of WWII get veto power (_definitely not economically or militarily coerced_)
+  - There is no way to remove this veto power and create an equitable, democratic system in the UN
+
+<div id="progress" class="w-4/22"/>
 
 ---
 layout: cover
@@ -71,11 +110,11 @@ class: text-center
 
 # Power Frameworks
 
-#### Ten pictures of how our world works and could work
+#### Pictures of how our world works and could work
 
 Also a bit of a roller coaster
 
-<div id="progress" class="w-5/21"/>
+<div id="progress" class="w-5/22"/>
 
 ---
 
@@ -83,39 +122,45 @@ Also a bit of a roller coaster
 
 We'll start with very easy concepts and move on from there, don't worry
 
-- Composed at the start of three vertically stacked rectangles
-- The rectangles represent capital, workers and a nation
-- Each of the above has an arrow to indicate a direction of power
-- Capital is at the top and its arrow points down to suppress workers (⬇️)
-- Workers are at the bottom and their arrow points up to fight capital (⬆️)
-- The nation is in between and its arrow can switch direction (⬇️ or ⬆️)
-- Sometimes the nation supports workers (⬆️), and sometimes capital (⬇️)
-- Later frameworks add in horizontal groups of stacked rectangles
-- Groups are two at most to assure simplicity
-- Arrows in groups can point inwards to indicate collaboration (↘️ ↙️ or ↗️ ↖️)
-- We want more up arrows and less down arrows
+- At the start we have three vertically stacked rectangles: capital, workers and a nation
 
-<div id="progress" class="w-6/21"/>
+- Arrows indicate a direction of power
+
+- Workers are at the bottom: arrow points up to fight for rights and equitable distribution (⬆️)
+
+- Capital is at the top: arrow points down to suppress workers (⬇️)
+
+- The nation is in between: arrow can switch direction based on the power of other two (⬆️ or ⬇️)
+
+  - Sometimes the nation supports workers (⬆️), and sometimes capital (⬇️)
+
+- Later frameworks add in groups of stacked rectangles (max two groups of two)
+
+- Arrows in groups can point inwards to indicate collaboration (↗️ ↖️ or ↘️ ↙️)
+
+- We want more up arrows and less down arrows (⬆️ or ↗️ ↖️ are good)
+
+<div id="progress" class="w-6/22"/>
 
 ---
 
 # PF1: A Nation
 
 <div class="flex justify-center pt-14">
-   <img src="/power_frameworks/Power Framework 1 - A Nation.svg" class="h-72 pr-40" alt="Power Framework 1 - A Nation"/>
+   <img src="/power_frameworks/power_framework_1_a_nation.svg" class="h-72 pr-40" alt="Power Framework 1 - A Nation"/>
 </div>
 
-<div id="progress" class="w-7/21"/>
+<div id="progress" class="w-7/22"/>
 
 ---
 
 # PF2: Separate Nations
 
 <div class="flex justify-center pt-14">
-   <img src="/power_frameworks/Power Framework 2 - Separate Nations.svg" class="h-72 pr-40" alt="Power Framework 2 - Separate Nations"/>
+   <img src="/power_frameworks/power_framework_2_separate_nations.svg" class="h-72 pr-40" alt="Power Framework 2 - Separate Nations"/>
 </div>
 
-<div id="progress" class="w-8/21"/>
+<div id="progress" class="w-8/22"/>
 
 ---
 
@@ -123,14 +168,14 @@ We'll start with very easy concepts and move on from there, don't worry
 
 As described by neoliberalism and internationalism (it's a trap!)
 
-<div class="flex justify-center pt-14">
-   <img src="/power_frameworks/Power Framework 3 - Globalization (The View from Neoliberalism and Internationalism).svg" class="h-72 pr-40" alt="Power Framework 3 - Globalization (The View from Neoliberalism and Internationalism)"/>
+<div class="flex justify-center py-6">
+   <img src="/power_frameworks/power_framework_3_globalization_neoliberalism_and_internationalism.svg" class="h-72 pr-40" alt="Power Framework 3 - Globalization (Neoliberalism and Internationalism)"/>
 </div>
 
-- Neoliberals: "The competition of capital leads to innovation and lower prices for <u>consumers</u>!" (never workers)
-- Internationalists: "We just signed the \[meaningless thing that has no accountability\] at a 5-star resort!"
+- Neoliberals: "The competition of capital leads to innovation and lower prices for <u>consumers</u>!" (**never workers**)
+- Internationalists: "We just signed the \{insert city name and agreement that has no accountability\} 🍾🥂" (🌎🔥)
 
-<div id="progress" class="w-9/21"/>
+<div id="progress" class="w-9/22"/>
 
 ---
 
@@ -138,40 +183,40 @@ As described by neoliberalism and internationalism (it's a trap!)
 
 How it actually works
 
-<div class="flex justify-center pt-14">
-   <img src="/power_frameworks/Power Framework 4 - Globalization (How it Actually Works).svg" class="h-72 pr-40" alt="Power Framework 4 - Globalization (How it Actually Works)"/>
+<div class="flex justify-center py-6">
+   <img src="/power_frameworks/power_framework_4_globalization_how_it_actually_works.svg" class="h-72 pr-40" alt="Power Framework 4 - Globalization (How it Actually Works)"/>
 </div>
 
 - Capital collaborates to undermine institutions both at home and abroad to maximize gains
-- National power is captured for this purpose at the expense of workers
+- National power is captured for this purpose and workers are oppressed
 
-<div id="progress" class="w-10/21"/>
+<div id="progress" class="w-10/22"/>
 
 ---
 
 # PF5: A Federation
 
-Worker power (in abstraction)
+Worker power (in abstraction - more later)
 
-<div class="flex justify-center pt-14">
-   <img src="/power_frameworks/Power Framework 5 - A Federation (Worker Power and Dissolved Borders - In Abstraction).svg" class="h-72 pr-40" alt="Power Framework 5 - A Federation (Worker Power and Dissolved Borders - In Abstraction)"/>
+<div class="flex justify-center py-6">
+   <img src="/power_frameworks/power_framework_5_a_federation_in_abstraction.svg" class="h-72 pr-40" alt="Power Framework 5 - A Federation (In Abstraction)"/>
 </div>
 
 - Federations: The political and economic unions of nations
 - Until now: Su-pra-na-tio-nal or-ga-ni-za-tion (too long, name includes national ...)
 
-<div id="progress" class="w-11/21"/>
+<div id="progress" class="w-11/22"/>
 
 ---
 
 # Dissolved Borders
 
-What we all want through federalism and federations
+What the left wants through federalism and federations
 
-- Federations allow for the free movement of people across interior borders (they're dissolved)
+- Federations allow for the free movement of people across interior borders (_they're dissolved_)
 - Europe already has dissolved borders via the Schengen Area
 - Other regions can dramatically benefit from this aspect of federations
-- The goal here is <u>not</u> drawing lines for other peoples (they voluntarily associate)
+- The goal here is <u>not</u> drawing lines for other peoples (**nations voluntarily associate**)
 - It doesn't have to stop at just within federations ...
 
 Being explicit:
@@ -179,9 +224,9 @@ Being explicit:
 - Borders are violent, arbitrary and divisive beyond simply being lines on a map
 - Calling for the abolition of borders is often weaponized against the political left
 - Adding the dissolution of borders through federalism to our methods will help
-- It's not as important for Europe, but could be a huge step for others
+- It's not as important for Europe, but could be a huge step for other regions
 
-<div id="progress" class="w-12/21"/>
+<div id="progress" class="w-12/22"/>
 
 ---
 
@@ -189,53 +234,74 @@ Being explicit:
 
 Descends into authoritarianism
 
-<div class="flex justify-center pt-14">
-   <img src="/power_frameworks/Power Framework 6 - A Federation (Descends into Authoritarianism).svg" class="h-72 pr-40" alt="Power Framework 6 - A Federation (Descends into Authoritarianism)"/>
+<div class="flex justify-center py-6">
+   <img src="/power_frameworks/power_framework_6_a_federation_descends_into_authoritarianism.svg" class="h-72 pr-40" alt="Power Framework 6 - A Federation (Descends into Authoritarianism)"/>
 </div>
 
-<div id="progress" class="w-13/21"/>
+- The influence of capital is too strong and the federation's institutions are also turned against workers
+
+<div id="progress" class="w-13/22"/>
 
 ---
 
 # PF4, PF5 and PF6: A Comparison
 
-<div class="flex justify-center pt-14">
-   <img src="/power_frameworks/Power Framework 4, 5 and 6 - A Comparison.svg" class="h-72" alt="Power Framework 4, 5 and 6 - A Comparison"/>
+<div class="flex justify-center py-2">
+   <img src="/power_frameworks/power_framework_4_5_and_6_a_comparison.svg" class="h-72" alt="Power Framework 4, 5 and 6 - A Comparison"/>
 </div>
 
 - PF4: We're fucked
 - PF5: We're doing great
-- PF6: We've got serious problems, but still can collaborate politically to get to PF5
+- PF6: We've got serious problems, but can still collaborate politically to get to PF5
 - Anarchofederalism: Free association and dissociation is key to preventing PF6
 
-<div id="progress" class="w-14/21"/>
+<div id="progress" class="w-14/22"/>
+
+---
+
+# Four Nations
+
+Shifting to concrete examples
+
+<div class="flex justify-center py-2">
+   <img src="/power_frameworks/four_nations.svg" class="h-72 pr-40" alt="Four Nations"/>
+</div>
+
+- Presenting a case for the end of nationalism and with it imperialism
+- Nations 1 and 2 are any European nations
+- Nation 3 is the United States and Nation 4 is another nation in America
+
+<div id="progress" class="w-15/22"/>
 
 ---
 
 # PF7: Our Contemporary World
 
-Now as a power framework!
+Now as a picture!
 
-<div class="flex justify-center pt-14">
-   <img src="/power_frameworks/Power Framework 7 - Our Contemporary World.svg" class="h-72 pr-40" alt="Power Framework 7 - Our Contemporary World"/>
+<div class="flex justify-center py-6">
+   <img src="/power_frameworks/power_framework_7_our_contemporary_world.svg" class="h-72 pr-40" alt="Power Framework 7 - Our Contemporary World"/>
 </div>
 
-- Countries 1 and 2 are any European countries and the federation is the European Union
-- Country 3 is the United States and country 4 is another country in America
+- The EU's arrow is pointing up only as a thanks for democratic solidarity (Global South would disagree)
+- Capital outside of the federation undermines the solidarity of federated nations
 
-<div id="progress" class="w-15/21"/>
+<div id="progress" class="w-16/22"/>
 
 ---
 
 # PF8: Federations
 
-More of a good thing (in abstraction)
+More of a good thing (in abstraction - see next slide)
 
-<div class="flex justify-center pt-14">
-   <img src="/power_frameworks/Power Framework 8 - Federations (More of a Good Thing - In Abstraction).svg" class="h-72 pr-40" alt="Power Framework 8 - Federations (More of a Good Thing - In Abstraction)"/>
+<div class="flex justify-center py-6">
+   <img src="/power_frameworks/power_framework_8_federations_in_abstraction.svg" class="h-72 pr-40" alt="Power Framework 8 - Federations (In Abstraction)"/>
 </div>
 
-<div id="progress" class="w-16/21"/>
+- A dramatic step, especially considering collective bargaining for workers in the Global South
+- Anarchofederalism: Free association now really restrains authoritarian federations as nations can join another
+
+<div id="progress" class="w-17/22"/>
 
 ---
 
@@ -243,7 +309,17 @@ More of a good thing (in abstraction)
 
 ... are actually solidifying national supremacy
 
-<div id="progress" class="w-17/21"/>
+<div class="flex-col pt-4">
+   <div class="flex space-x-10">
+      <img src="/flags_and_logos/flag_of_the_united_nations.svg" class="h-54" alt="Flag of the United Nations"/>
+      <img src="/flags_and_logos/imf_seal_en.svg" class="h-54" alt="IMF Seal (EN)"/>
+   </div>
+   <div class="pt-10">
+      <img src="/flags_and_logos/world_bank_group_logo.svg" class="h-24" alt="World Bank Group Logo"/>
+   </div>
+</div>
+
+<div id="progress" class="w-18/22"/>
 
 ---
 
@@ -251,14 +327,14 @@ More of a good thing (in abstraction)
 
 Under internationalism (an interim step)
 
-<div class="flex justify-center pt-14">
-   <img src="/power_frameworks/Power Framework 9 - Federations (Under Internationalism - The Interim Step).svg" class="h-72 pr-40" alt="Power Framework 9 - Federations (Under Internationalism - The Interim Step)"/>
+<div class="flex justify-center py-6">
+   <img src="/power_frameworks/power_framework_9_federations_under_internationalism.svg" class="h-72 pr-40" alt="Power Framework 9 - Federations (Under Internationalism)"/>
 </div>
 
-- If we want to end nationalism, then we have to end internationalism
-- We need new institutions that don't support the supremacy of nations
+- Federations will be controlled by those nations that can leverage international institutions
+- We need new global institutions that don't support the supremacy of nations
 
-<div id="progress" class="w-18/21"/>
+<div id="progress" class="w-19/22"/>
 
 ---
 
@@ -266,14 +342,14 @@ Under internationalism (an interim step)
 
 The end of nationalism
 
-<div class="flex justify-center pt-14">
-   <img src="/power_frameworks/Power Framework 10 - The United Federations (The End of Nationalism).svg" class="h-72 pr-40" alt="Power Framework 10 - The United Federations (The End of Nationalism)"/>
+<div class="flex justify-center py-6">
+   <img src="/power_frameworks/power_framework_10_the_united_federations.svg" class="h-72 pr-40" alt="Power Framework 10 - The United Federations"/>
 </div>
 
-- Nations: Culturally cohesive regions within federations that provide services to their residents
+- Nations: Culturally cohesive regions within federations that provide governmental services to their residents
 - All workers are protected by a common set of laws at varying levels; all borders are dissolved
 
-<div id="progress" class="w-19/21"/>
+<div id="progress" class="w-20/22"/>
 
 ---
 
@@ -281,13 +357,13 @@ The end of nationalism
 
 Institutions and systems
 
-- Nations are obviously still able to collaborate in the same way that regions and cities do today
+- Nations are still able to collaborate in the same way that regions and cities do today
 - A parliament at the level of the United Federations
   - Delegates are sent from federations
 - A court of justice with jurisdiction for the highest laws
   - Without influence from any nations
 
-<div id="progress" class="w-20/21"/>
+<div id="progress" class="w-21/22"/>
 
 ---
 
@@ -298,10 +374,9 @@ Institutions and systems
   - Workers are thus able to hold more of the value they produce
 - Health: Federations coordinate to ban chemicals and other harmful practices (capital can't offshore)
 - Climate: Binding legislation to act against the climate crisis and show solidarity with those affected
-- Inequality:
 - Human rights: Participation at the highest levels of the global economy entails agreeing to its laws
 
-<div id="progress" class="w-21/21"/>
+<div id="progress" class="w-22/22"/>
 
 ---
 layout: cover
