@@ -28,9 +28,9 @@ Hopeful takeaways
 - We all have multifaceted political identities
   - Consider adding (anarcho)federalism to yours
 - Levels of government above nations are opportunities
+  - Free association above nations is necessary
   - Shared identities and political protections
   - But has to come from below (grassroots)
-  - Free association above nations is necessary
 - The value of co-opting institutions (Übernehmen)
 - You don't have to end nations to end nationalism
 
@@ -40,7 +40,7 @@ Hopeful takeaways
 
 # Federalism
 
-Left-wing perspective has benefits
+Two schools
 
 <div class="grid grid-cols-2 gap-4">
    <div>
@@ -79,7 +79,7 @@ From a US-American
    <img src="/flags_and_logos/flag_of_europe.svg" class="h-56" alt="Flag of the EU"/>
 </div>
 
-Starts with an economic focus. Is exploitive. Engage and co-opt!
+Started with an economic focus. Is exploitive. Engage and co-opt!
 
 <div id="progress" class="w-3/21"/>
 
@@ -89,7 +89,7 @@ Starts with an economic focus. Is exploitive. Engage and co-opt!
 
 Times are tough
 
-- Will eclipse the 1.5 °C and 2 °C goals set to avert worst of climate crisis
+- Will eclipse the 1.5 °C and 2 °C goals to avert worst of the climate crisis
 
 - AI + the far right + lots of interwoven, speculative funding
   - Reducing the agency of working people - lift from production (✊📣🪧)
@@ -181,7 +181,7 @@ Worker power (in abstraction - more later)
    <img src="/power_frameworks/power_framework_4_federation_abstraction.svg" class="h-72 pr-36" alt="Power Framework 4 - Federation Abstraction"/>
 </div>
 
-- Federations: The political and economic unions of nations (includes a parliament and a court)
+- Federations: The political and economic unions of nations (with a parliament and a court, ex. EU)
 - Common citizenship (🤝), legal protections (labor, fair trial, against discrimination, democracy)
 
 <div id="progress" class="w-9/21"/>
@@ -194,11 +194,11 @@ What the left wants through federalism and federations
 
 <div class="flex py-4 space-x-20">
    <ul>
-      <li>Borders: Violent, arbitrary and divisive (not just lines on a map)</li>
+      <li>Borders: Violent, arbitrary and divisive</li>
       <li>
-         Federations: Free movement across interior borders (Schengen Area)
+         Federations: Free movement across interior borders (ex. Schengen Area)
          <ul>
-            <li>People, not just goods (mostly benefits capital)</li>
+            <li>People, not just goods and services (mostly benefits capital)</li>
          </ul>
       </li>
       <li>
@@ -370,7 +370,7 @@ The end of nationalism
 
 - Federations as the highest political vehicles of humanity
 - Dramatically reduced capital power
-- Devolution of power determined by democracy
+- Devolution of political power determined by democracy
 
 <div id="progress" class="w-20/21"/>
 
@@ -380,7 +380,7 @@ The end of nationalism
 
 # PF12: The United Federations
 
-Not something we need
+Not something we need, unless ...
 
 <div class="flex justify-center pr-16">
    <img src="/power_frameworks/power_framework_12_united_federations_multi_planetary_or_un_dystopia.svg" class="h-72" alt="Power Framework 12 - The United Federations"/>
@@ -388,6 +388,7 @@ Not something we need
 
 - United Nations dystopia (security council collaborates against federations)
 - Multi-planet society (assures equity - no "New Europe" colony 🤦‍♂️)
+- Benefits: Global citizenship and rights; all borders are dissolved
 
 -->
 
