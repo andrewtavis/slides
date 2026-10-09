@@ -61,20 +61,20 @@
 <path d="M143.666 161.667H110.333V175H143.666V161.667Z" fill="#DD0000"/>
 <path d="M143.666 168.333H110.333V175H143.666V168.333Z" fill="#FFCE00"/>
 </g>
-<rect x="109.833" y="154.5" width="34.3333" height="21" stroke="#BDBEBD"/>
+<rect x="109.833" y="154.5" width="34.3333" height="21" stroke="#D4D5D4"/>
 <g clip-path="url(#clip12_289_259)">
 <path d="M225.462 155H248.539V175H225.462V155Z" fill="#EF3340"/>
 <path d="M225.462 155H240.847V175H225.462V155Z" fill="#FDDA25"/>
 <path d="M225.462 155H233.154V175H225.462V155Z" fill="black"/>
 </g>
-<rect x="224.962" y="154.5" width="24.0769" height="21" stroke="#BDBEBD"/>
+<rect x="224.962" y="154.5" width="24.0769" height="21" stroke="#D4D5D4"/>
 <g clip-path="url(#clip13_289_259)">
 <path d="M332 155H362V175H332" fill="#CE0000"/>
 <path d="M332 159H362V163H332V167H362V171H332" fill="white"/>
 <path d="M332 155L349.32 165L332 175" fill="#87CEFA"/>
 <path d="M337.774 161.667L335.814 167.697L340.944 163.97H334.604L339.734 167.697" fill="white"/>
 </g>
-<rect x="331.5" y="154.5" width="31" height="21" stroke="#BDBEBD"/>
+<rect x="331.5" y="154.5" width="31" height="21" stroke="#D4D5D4"/>
 <g clip-path="url(#clip14_289_259)">
 <path d="M438 155H476V175H438" fill="#BF0A30"/>
 <path d="M438 157.308H476H438ZM476 160.385H438H476ZM438 163.461H476H438ZM476 166.538H438H476ZM438 169.615H476H438ZM476 172.692H438H476Z" fill="black"/>
@@ -131,7 +131,7 @@
 <path d="M451.933 161.923L452.295 163.036L451.348 162.348H452.518L451.571 163.036L451.933 161.923Z" fill="white"/>
 <path d="M451.933 164.077L452.295 165.19L451.348 164.502H452.518L451.571 165.19L451.933 164.077Z" fill="white"/>
 </g>
-<rect x="437.5" y="154.5" width="39" height="21" stroke="#BDBEBD"/>
+<rect x="437.5" y="154.5" width="39" height="21" stroke="#D4D5D4"/>
 <defs>
 <clipPath id="clip0_289_259">
 <rect width="10.7442" height="10.7442" fill="white" transform="matrix(-0.68986 0.723943 -0.68986 -0.723943 134.44 20.5)"/>

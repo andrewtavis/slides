@@ -259,7 +259,7 @@ Shifting to concrete examples
 </div>
 
 - Germany, Belgium, Puerto Rico and the United States
-- Goal: The end of nationalism and with it imperialism (hence US included)
+- Goal: The end of nationalism and with it imperialism (hence the US included)
 
 <div id="progress" class="w-13/21"/>
 
