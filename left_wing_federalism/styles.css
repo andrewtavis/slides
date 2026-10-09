@@ -11,6 +11,18 @@
     --uno: select-text;
   }
 
+  h1 {
+    font-size: 36px;
+  }
+
+  p {
+    font-size: 20px;
+  }
+
+  ul {
+    font-size: 20px;
+  }
+
   #progress {
     --uno: absolute bottom-0 left-0 h-1 bg-current;
   }
