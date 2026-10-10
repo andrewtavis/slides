@@ -154,8 +154,8 @@ And rules continued
 <div class="flex py-6 space-x-10">
    <ul>
       <li>Nation supports capital or workers</li>
-      <li class="pt-4">Later: Groups of nations</li>
-      <li class="pt-4">Later: Collaboration (↗️ ↖️ or ↘️ ↙️)</li>
+      <li class="pt-4">Next: Collaboration (↗️ ↖️ or ↘️ ↙️)</li>
+      <li class="pt-4">Later: Groups of workers and nations</li>
       <li class="pt-4">Up arrows good, down arrows bad</li>
    </ul>
    <img src="/power_frameworks/power_framework_2_separate_nations.svg" class="h-50" alt="Power Framework 2 - Separate Nations"/>
@@ -360,7 +360,7 @@ Global powers disadvantaged
    <img src="/power_frameworks/power_framework_10_more_federations.svg" class="h-72" alt="Power Framework 10 - More Federations"/>
 </div>
 
-- Global South <u>takes</u> right to collective bargaining (ex. Malabo Protocols: AC; AUA → PAP)
+- Global South <u>takes</u> right to collective bargaining (exs. Malabo Protocols: AC; AUA → PAP | AIPA)
 - Are we consumers, or are we workers?
 - 🛑 Authoritarianism 5: Global institutions between federations (IMF, World Bank, etc ❌)
 
