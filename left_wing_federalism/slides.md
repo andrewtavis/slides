@@ -28,9 +28,9 @@ Hopeful takeaways
 - We all have multifaceted political identities
   - Consider adding (anarcho)federalism to yours
 - Levels of government above nations are opportunities
-  - Free association above nations is necessary
   - Shared identities and political protections
-  - But has to come from below (grassroots)
+  - Free association above nations is necessary
+  - Has to come from below (grassroots)
 - The value of co-opting institutions (Übernehmen)
 - You don't have to end nations to end nationalism
 
@@ -124,8 +124,15 @@ And framework rules
 
 <div class="flex py-6 space-x-14">
    <ul>
-      <li>Arrows: <u>Cumulative</u> power direction</li>
-      <li class="pt-4">Capital oppresses workers</li>
+      <li>
+         Arrows: <u>Cumulative</u> power direction
+      </li>
+      <li class="pt-4">
+         Capital oppresses workers
+         <ul>
+            <li class="pt-4">The 1% - hold wealth / power (83 mil)</li>
+         </ul>
+      </li>
       <li class="pt-4">
          Workers fight for rights and equity
          <ul>
@@ -133,7 +140,7 @@ And framework rules
          </ul>
       </li>
    </ul>
-   <img src="/power_frameworks/power_framework_1_nation.svg" class="h-72" alt="Power Framework 1 - Nation"/>
+   <img src="/power_frameworks/power_framework_1_nation.svg" class="h-64" alt="Power Framework 1 - Nation"/>
 </div>
 
 <div id="progress" class="w-6/21"/>
@@ -288,7 +295,8 @@ More of a good thing (in abstraction - see next slide)
    <img src="/power_frameworks/power_framework_7_two_federations_abstraction.svg" class="h-72 pr-32" alt="Power Framework 7 - Federations Abstraction"/>
 </div>
 
-- 🛑 Authoritarianism 3: Institutions spread out over member nations (not the strongest)
+- Co-opting existing international institutions
+- 🛑 Authoritarianism 3: Parliament, court, etc spread over member nations (not the strongest)
 
 <div id="progress" class="w-15/21"/>
 
@@ -337,8 +345,8 @@ Ideally geographically, but if all else fails ...
    <img src="/power_frameworks/power_framework_9_federations_free_association.svg" class="h-72 pr-32" alt="Power Framework 9 - Federations Free Association"/>
 </div>
 
-- 🛑 Authoritarianism 4: Dissociate and join another
 - Doesn't "fit"? Hope you have the same feeling for European colonies in America 🌎
+- 🛑 Authoritarianism 4: Dissociate and join another
 
 <div id="progress" class="w-18/21"/>
 
@@ -368,9 +376,9 @@ The end of nationalism
    <img src="/power_frameworks/power_framework_11_federalized_world.svg" class="h-72" alt="Power Framework 11 - Federalized World"/>
 </div>
 
-- Federations as the highest political vehicles of humanity
+- Federations as the highest political vehicles of humanity (🤝)
 - Dramatically reduced capital power
-- Devolution of political power determined by democracy
+- Devolution of political power determined by democracies
 
 <div id="progress" class="w-20/21"/>
 
@@ -387,7 +395,7 @@ Not something we need, unless ...
 </div>
 
 - United Nations dystopia (security council collaborates against federations)
-- Multi-planet society (assures equity - no "New Europe" colony 🤦‍♂️)
+- Multi-planet society (I don't like this example, assures equity - no "New Europe" Mars colony 🤦‍♂️)
 - Benefits: Global citizenship and rights; all borders are dissolved
 
 -->
@@ -404,7 +412,7 @@ A few examples
   - restricts extraction by capital
   - capital is less able to undermine democracy
   - workers get rights, equity and can more easily act in solidarity
-- Federations coordinate to ban chemicals and other harmful practices
+- Federations coordinate to ban chemicals and other harmful business practices
   - Capital can't offshore in the face of worker organization
 - More coordinated action against the climate crisis and solidarity with those affected (🤝❤️)
 
