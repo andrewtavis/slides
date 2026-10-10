@@ -265,7 +265,7 @@ Shifting to concrete examples
    <img src="/power_frameworks/four_nations.svg" class="h-72 pr-20" alt="Four Nations"/>
 </div>
 
-- Germany, Belgium, Puerto Rico and the United States
+- Germany, Belgium, independent Puerto Rico and the United States
 - Goal: The end of nationalism and with it imperialism (hence the US included)
 
 <div id="progress" class="w-13/21"/>
