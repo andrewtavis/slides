@@ -125,9 +125,6 @@ And framework rules
 <div class="flex py-6 space-x-14">
    <ul>
       <li>
-         Arrows: <u>Cumulative</u> power direction
-      </li>
-      <li class="pt-4">
          Capital oppresses workers
          <ul>
             <li class="pt-4">The 1% (83 mil) - hold wealth / power</li>
@@ -138,6 +135,9 @@ And framework rules
          <ul>
             <li class="pt-4">The 99% - solidarity in struggles</li>
          </ul>
+      </li>
+      <li class="pt-4">
+         Arrows: <u>Cumulative</u> power direction
       </li>
    </ul>
    <img src="/power_frameworks/power_framework_1_nation.svg" class="h-64" alt="Power Framework 1 - Nation"/>
