@@ -412,7 +412,7 @@ A few examples
   - restricts extraction by capital
   - capital is less able to undermine democracy
   - workers get rights, equity and can more easily act in solidarity
-- Federations coordinate to ban chemicals and other harmful business practices
+- Federations coordinate to ban harmful chemicals and pesticides in workplaces
   - Capital can't offshore in the face of worker organization
 - More coordinated action against the climate crisis and solidarity with those affected (🤝❤️)
 
