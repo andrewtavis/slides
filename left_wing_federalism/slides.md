@@ -407,7 +407,7 @@ Not something we need, unless ...
 A few examples
 
 - Nations are still able to collaborate as regions and cities do today
-- Participation in federation economies entails agreeing to their laws (not just agreements)
+- Participation in federation economies entails agreeing to their laws (not agreements)
 - Every new democratic federation ...
   - restricts extraction by capital
   - capital is less able to undermine democracy
