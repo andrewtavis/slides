@@ -188,7 +188,7 @@ Worker power (in abstraction - more later)
    <img src="/power_frameworks/power_framework_4_federation_abstraction.svg" class="h-72 pr-36" alt="Power Framework 4 - Federation Abstraction"/>
 </div>
 
-- Federations: The political and economic unions of nations (with a parliament and a court, ex. EU)
+- Federations: The political and economic unions of nations (with <u>parliament and court</u>, ex. EU)
 - Common citizenship (🤝), legal protections (labor, fair trial, against discrimination, democracy)
 
 <div id="progress" class="w-9/21"/>
