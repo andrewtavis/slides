@@ -360,7 +360,7 @@ Global powers disadvantaged
    <img src="/power_frameworks/power_framework_10_more_federations.svg" class="h-72" alt="Power Framework 10 - More Federations"/>
 </div>
 
-- Global South <u>takes</u> right to collective bargaining
+- Global South <u>takes</u> right to collective bargaining (ex. Malabo Protocols: AC; AUA → PAP)
 - 🛑 Authoritarianism 5: Global institutions between federations (IMF, World Bank, etc ❌)
 - Are we consumers, or are we workers?
 
