@@ -408,12 +408,12 @@ A few examples
 
 - Nations are still able to collaborate as regions and cities do today
 - Participation in federation economies entails agreeing to their laws (not agreements)
+- Federations coordinate to ban harmful chemicals and pesticides in workplaces
+  - Capital can't offshore in the face of worker organization
 - Every new democratic federation ...
   - restricts extraction by capital
   - capital is less able to undermine democracy
   - workers get rights, equity and can more easily act in solidarity
-- Federations coordinate to ban harmful chemicals and pesticides in workplaces
-  - Capital can't offshore in the face of worker organization
 - More coordinated action against the climate crisis and solidarity with those affected (🤝❤️)
 
 <div id="progress" class="w-21/21"/>
