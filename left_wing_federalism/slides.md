@@ -99,7 +99,7 @@ Times are tough
   - IMF, World Bank, WTO, OECD, G7, etc: Imperialism and extractivism
 
 - The United Nations
-  - Winners of WWII get veto powers; can't be democratized
+  - Winners of WWII get veto powers; can't be democratized (Articles 108 and 109)
 
 <div id="progress" class="w-4/21"/>
 
