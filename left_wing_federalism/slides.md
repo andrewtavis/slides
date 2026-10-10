@@ -310,7 +310,7 @@ More of a good thing (in abstraction - see next slide)
    <div class="flex space-x-10">
       <img src="/flags_and_logos/flag_of_the_united_nations.svg" class="h-48" alt="Flag of the United Nations"/>
       <img src="/flags_and_logos/imf_seal_en.svg" class="h-48" alt="IMF Seal (EN)"/>
-      <img src="/flags_and_logos/gz_france_2026_logo.svg" class="h-48" alt="G7 France 2026 Logo"/>
+      <img src="/flags_and_logos/g7_france_2026_logo.svg" class="h-48" alt="G7 France 2026 Logo"/>
    </div>
    <div class="flex items-center pt-10 space-x-16">
       <img src="/flags_and_logos/world_bank_group_logo.svg" class="h-20" alt="World Bank Group Logo"/>
