@@ -96,7 +96,7 @@ Times are tough
 
 - Mixed bag of internationalism
   - World Health Organization: Solid with room for improvement (_de-funded by the US_)
-  - IMF, World Bank, WTO, OECD, G7, etc, etc, etc: Imperialism and extractivism
+  - IMF, World Bank, WTO, OECD, G7, etc: Imperialism and extractivism
 
 - The United Nations
   - Winners of WWII get veto powers; can't be democratized
@@ -130,7 +130,7 @@ And framework rules
       <li class="pt-4">
          Capital oppresses workers
          <ul>
-            <li class="pt-4">The 1% - hold wealth / power (83 mil)</li>
+            <li class="pt-4">The 1% (83 mil) - hold wealth / power</li>
          </ul>
       </li>
       <li class="pt-4">
@@ -361,8 +361,8 @@ Global powers disadvantaged
 </div>
 
 - Global South <u>takes</u> right to collective bargaining (ex. Malabo Protocols: AC; AUA → PAP)
-- 🛑 Authoritarianism 5: Global institutions between federations (IMF, World Bank, etc ❌)
 - Are we consumers, or are we workers?
+- 🛑 Authoritarianism 5: Global institutions between federations (IMF, World Bank, etc ❌)
 
 <div id="progress" class="w-19/21"/>
 
