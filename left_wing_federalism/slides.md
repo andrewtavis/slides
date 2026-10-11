@@ -110,7 +110,7 @@ class: text-center
 
 # Power Frameworks
 
-#### Pictures of how our world works and could work
+#### Eleven pictures of how our world works and could work
 
 Also a bit of a roller coaster 🎢
 
@@ -153,7 +153,7 @@ And rules continued
 
 <div class="flex py-6 space-x-10">
    <ul>
-      <li>Nation supports workers or capital</li>
+      <li>Nations support workers or capital</li>
       <li class="pt-4">Next: Collaboration (↗️ ↖️ or ↘️ ↙️)</li>
       <li class="pt-4">Later: Groups of workers and nations</li>
       <li class="pt-4">Up arrows good, down arrows bad</li>
@@ -170,11 +170,12 @@ And rules continued
 Don't listen to neoliberals
 
 <div class="flex justify-center py-4">
-   <img src="/power_frameworks/power_framework_3_globalization.svg" class="h-72 pr-28" alt="Power Framework 3 - Globalization"/>
+   <img src="/power_frameworks/power_framework_3_globalization.svg" class="h-64 pr-32" alt="Power Framework 3 - Globalization"/>
 </div>
 
 - Capital collaborates to undermine political institutions
 - National power is captured in both cases and workers are oppressed
+- Lack of common, binding laws for workers
 
 <div id="progress" class="w-8/21"/>
 
@@ -214,7 +215,7 @@ What the left wants through federalism and federations
             <li>Voluntary, democratic association and dissociation</li>
          </ul>
       </li>
-      <li>Huge step for regions outside Europe</li>
+      <li>Huge step for regions <u>outside Europe</u></li>
       <li>If you can't abolish, dissolve</li>
    </ul>
 </div>
@@ -280,7 +281,7 @@ Tough times, now visualized
    <img src="/power_frameworks/power_framework_6_contemporary_world.svg" class="h-72 pr-20" alt="Power Framework 6 - Contemporary World"/>
 </div>
 
-- Capital and nations outside the federation undermine its solidarity
+- Capital and nations outside federation undermine its solidarity (looking to June 2029 🇪🇺👀)
 - Extraction from across the Global South
 
 <div id="progress" class="w-14/21"/>
@@ -292,7 +293,7 @@ Tough times, now visualized
 More of a good thing (in abstraction)
 
 <div class="flex justify-center py-4">
-   <img src="/power_frameworks/power_framework_7_two_federations_abstraction.svg" class="h-72 pr-32" alt="Power Framework 7 - Federations Abstraction"/>
+   <img src="/power_frameworks/power_framework_7_federations_abstraction.svg" class="h-72 pr-32" alt="Power Framework 7 - Federations Abstraction"/>
 </div>
 
 - Co-opting existing international institutions
@@ -322,12 +323,12 @@ More of a good thing (in abstraction)
 
 ---
 
-# Power Framework 8: Federations
+# Power Framework 8: Federations in Internationalism
 
-Under internationalism
+National supremacy wins out
 
 <div class="flex justify-center py-4">
-   <img src="/power_frameworks/power_framework_8_two_federations_under_internationalism.svg" class="h-72 pr-32" alt="Power Framework 8 - Federations Under Internationalism"/>
+   <img src="/power_frameworks/power_framework_8_federations_in_internationalism.svg" class="h-72 pr-32" alt="Power Framework 8 - Federations Under Internationalism"/>
 </div>
 
 - Nations that can leverage international institutions will control federations
@@ -360,7 +361,7 @@ Global powers disadvantaged
    <img src="/power_frameworks/power_framework_10_more_federations.svg" class="h-72" alt="Power Framework 10 - More Federations"/>
 </div>
 
-- Global South <u>takes</u> right to collective bargaining (exs. Malabo Protocols: AC; AUA → PAP | AIPA)
+- Global South <u>takes</u> right to collective bargaining (exs. AIPA, Malabo Protocols: AC; AUA → PAP)
 - Are we consumers, or are we workers?
 - 🛑 Authoritarianism: Financial institutions between federations, not nations (IMF, WB ❌)
 
