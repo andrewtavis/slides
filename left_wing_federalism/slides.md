@@ -392,7 +392,7 @@ The end of nationalism
 Not something we need, unless ...
 
 <div class="flex justify-center pr-16">
-   <img src="/power_frameworks/power_framework_12_united_federations_un_dystopia_or_multi_planetary.svg" class="h-72" alt="Power Framework 12 - The United Federations"/>
+   <img src="/power_frameworks/power_framework_12_united_federations_united_nations_dystopia_or_multi_planetary_society.svg" class="h-72" alt="Power Framework 12 - The United Federations"/>
 </div>
 
 - United Nations dystopia (security council collaborates against federations)
