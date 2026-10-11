@@ -345,8 +345,8 @@ Ideally geographically, but if all else fails ...
    <img src="/power_frameworks/power_framework_9_federations_free_association.svg" class="h-72 pr-32" alt="Power Framework 9 - Federations Free Association"/>
 </div>
 
-- Doesn't "fit"? Hope you have the same feeling for European colonies in America 🌎
 - 🛑 Authoritarianism 4: Dissociate and join another (or for better institutions)
+- Let's talk Canadian affiliate EU membership
 
 <div id="progress" class="w-18/21"/>
 
