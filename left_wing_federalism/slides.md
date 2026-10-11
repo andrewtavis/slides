@@ -110,7 +110,7 @@ class: text-center
 
 # Power Frameworks
 
-#### Eleven pictures of how our world works and could work
+#### Eleven diagrams of how our world works and could work
 
 Also a bit of a roller coaster 🎢
 
