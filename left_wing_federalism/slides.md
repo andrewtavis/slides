@@ -397,7 +397,7 @@ Not something we need, unless ...
 
 - United Nations dystopia (security council collaborates against federations)
 - Multi-planet society (I don't like this example, assures equity - no "New Europe" Mars colony 🤦‍♂️)
-- Benefits: Global citizenship and rights; all borders are dissolved
+- Benefits: Global citizenship and rights; all borders are dissolved | Issue: Single point of failure
 
 -->
 
