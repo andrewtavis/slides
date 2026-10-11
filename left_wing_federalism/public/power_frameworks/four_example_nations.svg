@@ -15,12 +15,11 @@
 </g>
 <rect x="210.962" y="124.5" width="24.0769" height="21" stroke="#D4D5D4"/>
 <g clip-path="url(#clip2_288_102)">
-<path d="M318 125H348V145H318" fill="#CE0000"/>
-<path d="M318 129H348V133H318V137H348V141H318" fill="white"/>
-<path d="M318 125L335.32 135L318 145" fill="#87CEFA"/>
-<path d="M323.774 131.667L321.814 137.697L326.944 133.97H320.604L325.734 137.697" fill="white"/>
+<path d="M316.333 125H349.666V145H316.333V125Z" fill="#001489"/>
+<path d="M316.333 128.333H349.666V141.667H316.333V128.333Z" fill="white"/>
+<path d="M316.333 131.667H349.666V138.333H316.333V131.667Z" fill="#DA291C"/>
 </g>
-<rect x="317.5" y="124.5" width="31" height="21" stroke="#D4D5D4"/>
+<rect x="315.833" y="124.5" width="34.3333" height="21" stroke="#D4D5D4"/>
 <g clip-path="url(#clip3_288_102)">
 <path d="M424 125H462V145H424" fill="#BF0A30"/>
 <path d="M424 127.308H462H424ZM462 130.385H424H462ZM424 133.461H462H424ZM462 136.538H424H462ZM424 139.615H462H424ZM462 142.692H424H462Z" fill="black"/>
@@ -102,7 +101,7 @@
 <rect x="211.462" y="125" width="23.0769" height="20" fill="white"/>
 </clipPath>
 <clipPath id="clip2_288_102">
-<rect x="318" y="125" width="30" height="20" fill="white"/>
+<rect x="316.333" y="125" width="33.3333" height="20" fill="white"/>
 </clipPath>
 <clipPath id="clip3_288_102">
 <rect x="424" y="125" width="38" height="20" fill="white"/>

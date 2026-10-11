@@ -63,7 +63,7 @@ Two schools
 
 # History of the EU
 
-From a US-American
+From a US-American and American
 
 <div class="flex py-4 space-x-24">
    <ul>
@@ -89,9 +89,9 @@ Started with an economic focus. Is exploitive. Engage and co-opt!
 
 Times are tough
 
-- Will eclipse the 1.5 °C and 2 °C goals to avert worst of the climate crisis
+- The 1.5°C and 2°C goals to avert worst of the climate crisis will not be met
 
-- AI + the far right + lots of interwoven, speculative funding
+- AI, the far right and lots of interwoven, speculative funding
   - Reducing the agency of working people - lift from production (✊📣🪧)
 
 - Mixed bag of internationalism
@@ -118,7 +118,7 @@ Also a bit of a roller coaster 🎢
 
 ---
 
-# PF1: A Nation
+# Power Framework 1: A Single Nation
 
 And framework rules
 
@@ -140,20 +140,20 @@ And framework rules
          Arrows: <u>Cumulative</u> power direction
       </li>
    </ul>
-   <img src="/power_frameworks/power_framework_1_nation.svg" class="h-64" alt="Power Framework 1 - Nation"/>
+   <img src="/power_frameworks/power_framework_1_single_nation.svg" class="h-64" alt="Power Framework 1 - Single Nation"/>
 </div>
 
 <div id="progress" class="w-6/21"/>
 
 ---
 
-# PF2: Separate Nations
+# Power Framework 2: Separate Nations
 
 And rules continued
 
 <div class="flex py-6 space-x-10">
    <ul>
-      <li>Nation supports capital or workers</li>
+      <li>Nation supports workers or capital</li>
       <li class="pt-4">Next: Collaboration (↗️ ↖️ or ↘️ ↙️)</li>
       <li class="pt-4">Later: Groups of workers and nations</li>
       <li class="pt-4">Up arrows good, down arrows bad</li>
@@ -165,7 +165,7 @@ And rules continued
 
 ---
 
-# PF3: Globalization
+# Power Framework 3: Globalization
 
 Don't listen to neoliberals
 
@@ -174,18 +174,18 @@ Don't listen to neoliberals
 </div>
 
 - Capital collaborates to undermine political institutions
-- National power is captured and workers are oppressed
+- National power is captured in both cases and workers are oppressed
 
 <div id="progress" class="w-8/21"/>
 
 ---
 
-# PF4: A Federation
+# Power Framework 4: A Democratic Federation
 
-Worker power (in abstraction - more later)
+Worker power (in abstraction)
 
 <div class="flex justify-center py-4">
-   <img src="/power_frameworks/power_framework_4_federation_abstraction.svg" class="h-72 pr-36" alt="Power Framework 4 - Federation Abstraction"/>
+   <img src="/power_frameworks/power_framework_4_democratic_federation_abstraction.svg" class="h-72 pr-36" alt="Power Framework 4 - Democratic Federation Abstraction"/>
 </div>
 
 - Federations: The political and economic unions of nations (with <u>parliament and court</u>, ex. EU)
@@ -219,60 +219,60 @@ What the left wants through federalism and federations
    </ul>
 </div>
 
-<img src="/graphics/dissolved_borders.svg" class="h-96 absolute top-20 right-28" alt="Power Framework 1 - A Nation"/>
+<img src="/graphics/dissolved_borders.svg" class="h-96 absolute top-20 right-28" alt="Dissolved Borders Image"/>
 
 <div id="progress" class="w-10/21"/>
 
 ---
 
-# PF5: A Federation
+# Power Framework 5: An Authoritarian Federation
 
-Descends into authoritarianism
+What we're trying to avoid
 
 <div class="flex justify-center py-4">
-   <img src="/power_frameworks/power_framework_5_federation_authoritarianism.svg" class="h-72 pr-40" alt="Power Framework 5 - Federation Authoritarianism"/>
+   <img src="/power_frameworks/power_framework_5_authoritarian_federation.svg" class="h-72 pr-40" alt="Power Framework 5 - Authoritarian Federation"/>
 </div>
 
 - Influence of capital is too strong
-- 🛑 Authoritarianism 1: Devolution of power to nations and levels below (grassroots)
+- 🛑 Authoritarianism: Devolution of power to nations and levels below (grassroots)
 
 <div id="progress" class="w-11/21"/>
 
 ---
 
-# PF3, PF4 and PF5
+# Power Frameworks 3, 4 and 5
 
 A Comparison
 
 <div class="flex justify-center py-2">
-   <img src="/power_frameworks/power_framework_3_4_and_5_comparison.svg" class="h-56" alt="Power Framework 3, 4 and 5 Comparison"/>
+   <img src="/power_frameworks/power_frameworks_3_4_and_5_comparison.svg" class="h-56" alt="Power Frameworks 3, 4 and 5 Comparison"/>
 </div>
 
 - Globalization alone: We're fucked
 - Democratic federation: We're doing great
-- Authoritarian federation: Serious problems; can collaborate to get to PF4
-- 🛑 Authoritarianism 2: Free association and dissociation
+- Authoritarian federation: Serious problems; can collaborate to get to democracy
+- 🛑 Authoritarianism: Free association and dissociation
 
 <div id="progress" class="w-12/21"/>
 
 ---
 
-# Four Nations
+# Four Example Nations
 
 Shifting to concrete examples
 
 <div class="flex justify-center py-2">
-   <img src="/power_frameworks/four_nations.svg" class="h-72 pr-20" alt="Four Nations"/>
+   <img src="/power_frameworks/four_example_nations.svg" class="h-72 pr-20" alt="Four Example Nations"/>
 </div>
 
-- Germany, Belgium, independent Puerto Rico and the United States
-- Goal: The end of nationalism and with it imperialism (hence the US included)
+- Germany, Belgium, Costa Rica and the United States
+- Goal: The end of nationalism and with it imperialism (US must be included)
 
 <div id="progress" class="w-13/21"/>
 
 ---
 
-# PF6: Our Contemporary World
+# Power Framework 6: Our Contemporary World
 
 Tough times, now visualized
 
@@ -287,16 +287,16 @@ Tough times, now visualized
 
 ---
 
-# PF7: Federations
+# Power Framework 7: Federations
 
-More of a good thing (in abstraction - see next slide)
+More of a good thing (in abstraction)
 
 <div class="flex justify-center py-4">
    <img src="/power_frameworks/power_framework_7_two_federations_abstraction.svg" class="h-72 pr-32" alt="Power Framework 7 - Federations Abstraction"/>
 </div>
 
 - Co-opting existing international institutions
-- 🛑 Authoritarianism 3: Parliament, court, etc spread over member nations (not the strongest)
+- 🛑 Authoritarianism: Parliament, court, etc spread across member nations (not the strongest)
 
 <div id="progress" class="w-15/21"/>
 
@@ -322,7 +322,7 @@ More of a good thing (in abstraction - see next slide)
 
 ---
 
-# PF8: Federations
+# Power Framework 8: Federations
 
 Under internationalism
 
@@ -331,28 +331,28 @@ Under internationalism
 </div>
 
 - Nations that can leverage international institutions will control federations
-- Considering our goal, reconsider internationalism
+- Considering goal, reconsider internationalism (specifically financial institutions)
 
 <div id="progress" class="w-17/21"/>
 
 ---
 
-# PF9: Free Association
+# Power Framework 9: Free Association
 
-Ideally geographically, but if all else fails ...
+Ideally regionally, but if all else fails ...
 
 <div class="flex justify-center py-4">
    <img src="/power_frameworks/power_framework_9_federations_free_association.svg" class="h-72 pr-32" alt="Power Framework 9 - Federations Free Association"/>
 </div>
 
-- 🛑 Authoritarianism 4: Dissociate and join another (or for better institutions)
+- 🛑 Authoritarianism: Dissociate and join another (or for better institutions)
 - Let's talk Canadian affiliate EU membership
 
 <div id="progress" class="w-18/21"/>
 
 ---
 
-# PF10: More Federations
+# Power Framework 10: More Federations
 
 Global powers disadvantaged
 
@@ -362,13 +362,13 @@ Global powers disadvantaged
 
 - Global South <u>takes</u> right to collective bargaining (exs. Malabo Protocols: AC; AUA → PAP | AIPA)
 - Are we consumers, or are we workers?
-- 🛑 Authoritarianism 5: Global institutions between federations (IMF, World Bank, etc ❌)
+- 🛑 Authoritarianism: Financial institutions between federations, not nations (IMF, WB ❌)
 
 <div id="progress" class="w-19/21"/>
 
 ---
 
-# PF11: A Federalized World
+# Power Framework 11: A Federalized World
 
 The end of nationalism
 
@@ -386,12 +386,12 @@ The end of nationalism
 
 ---
 
-# PF12: The United Federations
+# Power Framework 12: The United Federations
 
 Not something we need, unless ...
 
 <div class="flex justify-center pr-16">
-   <img src="/power_frameworks/power_framework_12_united_federations_multi_planetary_or_un_dystopia.svg" class="h-72" alt="Power Framework 12 - The United Federations"/>
+   <img src="/power_frameworks/power_framework_12_united_federations_un_dystopia_or_multi_planetary.svg" class="h-72" alt="Power Framework 12 - The United Federations"/>
 </div>
 
 - United Nations dystopia (security council collaborates against federations)
@@ -408,8 +408,8 @@ A few examples
 
 - Nations are still able to collaborate as regions and cities do today
 - Participation in federation economies entails agreeing to their laws (not agreements)
-- Federations coordinate to ban harmful chemicals and pesticides in workplaces
-  - Capital can't offshore in the face of worker organization
+- Federations coordinate to ban harmful chemicals and pesticides
+  - Capital can't offshore production in the face of worker organization
 - Every new democratic federation ...
   - restricts extraction by capital
   - capital is less able to undermine democracy

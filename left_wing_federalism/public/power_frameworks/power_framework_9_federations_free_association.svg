@@ -176,6 +176,8 @@
 <path d="M101.334 64.6621L101.678 65.7182L101.15 65.8893L101.334 64.6621Z" fill="#FFCC00"/>
 <path d="M102.394 65.4302L101.281 65.4294L101.282 65.9844L102.394 65.4302Z" fill="#FFCC00"/>
 <path d="M102.394 65.4302L101.494 66.082L101.167 65.6327L102.394 65.4302Z" fill="#FFCC00"/>
+<rect x="183" y="109" width="10" height="21" fill="white"/>
+<rect x="293" y="109" width="10" height="21" fill="white"/>
 <rect x="183" y="20" width="10" height="21" fill="white"/>
 <rect x="293" y="20" width="10" height="21" fill="white"/>
 <rect x="403" y="20" width="10" height="21" fill="white"/>
