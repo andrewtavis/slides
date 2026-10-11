@@ -50,7 +50,7 @@ Two schools
       </ul>
    </div>
    <div>
-      <p class="text-3xl">Republican (👑❌) Federalism</p>
+      <p class="text-3xl">"Real" Republican (👑❌) Federalism</p>
       <ul>
          <li></li>
       </ul>
@@ -363,7 +363,7 @@ Global powers disadvantaged
 
 - Global South <u>takes</u> right to collective bargaining (ex. 2014 Malabo Protocols: AC; AUA → PAP)
 - Are we consumers, or are we workers?
-- 🛑 Authoritarianism: Financial institutions between federations, not nations (IMF, WB ❌)
+- 🛑 Authoritarianism: Financial institutions between federations, not nations (IMF, Wold Bank ❌)
 
 <div id="progress" class="w-19/21"/>
 
@@ -378,7 +378,7 @@ The end of nationalism
 </div>
 
 - Federations as the highest political vehicles of humanity (🤝)
-- Dramatically reduced capital power and extraction
+- Dramatically reduced capital power and extraction, leads to equity
 - Devolution of political power determined by democracies
 
 <div id="progress" class="w-20/21"/>
