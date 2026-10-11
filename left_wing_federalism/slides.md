@@ -79,7 +79,7 @@ From a US-American and American
    <img src="/flags_and_logos/flag_of_europe.svg" class="h-56" alt="Flag of the EU"/>
 </div>
 
-Started with an economic focus. Is exploitive. Engage and co-opt!
+Started with an economic focus. Is exploitive. Engage and co-opt! (June 2029 🇪🇺🗳️)
 
 <div id="progress" class="w-3/21"/>
 
@@ -281,7 +281,7 @@ Tough times, now visualized
    <img src="/power_frameworks/power_framework_6_contemporary_world.svg" class="h-72 pr-20" alt="Power Framework 6 - Contemporary World"/>
 </div>
 
-- Capital and nations outside federation undermine its solidarity (looking to June 2029 🇪🇺👀)
+- Capital and nations outside the federation undermine its solidarity (🇪🇺🗳️)
 - Extraction from across the Global South
 
 <div id="progress" class="w-14/21"/>
@@ -346,7 +346,7 @@ Ideally regionally, but if all else fails ...
    <img src="/power_frameworks/power_framework_9_federations_free_association.svg" class="h-72 pr-32" alt="Power Framework 9 - Federations Free Association"/>
 </div>
 
-- 🛑 Authoritarianism: Dissociate and join another (or for better institutions)
+- 🛑 Authoritarianism: Dissociate and join another (also for better institutions)
 - Let's talk Canadian affiliate EU membership
 
 <div id="progress" class="w-18/21"/>
@@ -361,7 +361,7 @@ Global powers disadvantaged
    <img src="/power_frameworks/power_framework_10_more_federations.svg" class="h-72" alt="Power Framework 10 - More Federations"/>
 </div>
 
-- Global South <u>takes</u> right to collective bargaining (exs. AIPA, Malabo Protocols: AC; AUA → PAP)
+- Global South <u>takes</u> right to collective bargaining (ex. 2014 Malabo Protocols: AC; AUA → PAP)
 - Are we consumers, or are we workers?
 - 🛑 Authoritarianism: Financial institutions between federations, not nations (IMF, WB ❌)
 
@@ -378,7 +378,7 @@ The end of nationalism
 </div>
 
 - Federations as the highest political vehicles of humanity (🤝)
-- Dramatically reduced capital power
+- Dramatically reduced capital power and extraction
 - Devolution of political power determined by democracies
 
 <div id="progress" class="w-20/21"/>
