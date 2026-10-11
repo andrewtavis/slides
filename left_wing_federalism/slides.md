@@ -281,7 +281,7 @@ Tough times, now visualized
    <img src="/power_frameworks/power_framework_6_contemporary_world.svg" class="h-72 pr-20" alt="Power Framework 6 - Contemporary World"/>
 </div>
 
-- Capital and nations outside the federation undermine its solidarity (🇪🇺🗳️)
+- Capital and nations outside the federation undermine its solidarity (not authoritarian, yet 🇪🇺🗳️)
 - Extraction from across the Global South
 
 <div id="progress" class="w-14/21"/>
