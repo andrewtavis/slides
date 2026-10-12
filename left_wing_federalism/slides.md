@@ -217,6 +217,7 @@ What the left wants through federalism and federations
       </li>
       <li>Huge step for regions <u>outside Europe</u></li>
       <li>If you can't abolish, dissolve</li>
+      <li>If borders are already dissolved, abolish</li>
    </ul>
 </div>
 
