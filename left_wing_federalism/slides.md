@@ -275,14 +275,14 @@ Shifting to concrete examples
 
 # Power Framework 6: Our Contemporary World
 
-Tough times, now visualized
+Capital has the advantage
 
 <div class="flex justify-center py-4">
    <img src="/power_frameworks/power_framework_6_contemporary_world.svg" class="h-72 pr-20" alt="Power Framework 6 - Contemporary World"/>
 </div>
 
 - Capital and nations outside the federation undermine its solidarity (not authoritarian, yet 🇪🇺🗳️)
-- Extraction from across the Global South
+- Consider: An authoritarian EU along with an AfD government in Germany ...
 
 <div id="progress" class="w-14/21"/>
 
@@ -290,7 +290,7 @@ Tough times, now visualized
 
 # Power Framework 7: Federations
 
-More of a good thing (in abstraction)
+Could be a good thing (in abstraction)
 
 <div class="flex justify-center py-4">
    <img src="/power_frameworks/power_framework_7_federations_abstraction.svg" class="h-72 pr-32" alt="Power Framework 7 - Federations Abstraction"/>
@@ -355,7 +355,7 @@ Ideally regionally, but if all else fails ...
 
 # Power Framework 10: More Federations
 
-Global powers disadvantaged
+Imperial powers disadvantaged
 
 <div class="flex justify-center pr-12">
    <img src="/power_frameworks/power_framework_10_more_federations.svg" class="h-72" alt="Power Framework 10 - More Federations"/>
@@ -389,7 +389,7 @@ The end of nationalism
 
 # Power Framework 12: The United Federations
 
-Not something we need, unless ...
+Not something we should do
 
 <div class="flex justify-center pr-16">
    <img src="/power_frameworks/power_framework_12_united_federations_united_nations_dystopia_or_multi_planetary_society.svg" class="h-72" alt="Power Framework 12 - The United Federations"/>
