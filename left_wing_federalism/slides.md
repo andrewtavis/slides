@@ -217,11 +217,11 @@ What the left wants through federalism and federations
       </li>
       <li>Huge step for regions <u>outside Europe</u></li>
       <li>If you can't abolish, dissolve</li>
-      <li>If borders are already dissolved, abolish</li>
+      <li>If already dissolved, abolish</li>
    </ul>
 </div>
 
-<img src="/graphics/dissolved_borders.svg" class="h-96 absolute top-20 right-28" alt="Dissolved Borders Image"/>
+<img src="/graphics/dissolved_borders.svg" class="h-4/5 absolute top-16 right-28" alt="Dissolved Borders Image"/>
 
 <div id="progress" class="w-10/21"/>
 
