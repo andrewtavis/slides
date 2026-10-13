@@ -34,7 +34,7 @@ Hopeful takeaways
 - The value of co-opting institutions (Übernehmen)
 - You don't have to end nations to end nationalism
 
-<div id="progress" class="w-1/21"/>
+<div id="progress" class="w-1/22"/>
 
 ---
 
@@ -57,7 +57,7 @@ Two schools
    </div>
 </div>
 
-<div id="progress" class="w-2/21"/>
+<div id="progress" class="w-2/22"/>
 
 ---
 
@@ -67,21 +67,22 @@ From a US-American and American
 
 <div class="flex py-4 space-x-24">
    <ul>
-      <li>1952: European Cole and Steel Community</li>
-      <li>1957: European Economic Community</li>
+      <li>1952 / 1957: ECSC / ECC</li>
       <li>1985 / 1995: Schengen Agreement / Area</li>
       <li>1993: European Union</li>
       <li>2018: General Data Protection Regulation</li>
-      <li>2018: ECJ support for Polish SC judges</li>
+      <li>2018: ECJ supports Polish SC judges</li>
       <li>2025: European Accessibility Act</li>
       <li>2026: Right to Repair</li>
    </ul>
    <img src="/flags_and_logos/flag_of_europe.svg" class="h-56" alt="Flag of the EU"/>
 </div>
 
+<br/>
+
 Started with an economic focus. Is exploitive. Engage and co-opt! (June 2029 🇪🇺🗳️)
 
-<div id="progress" class="w-3/21"/>
+<div id="progress" class="w-3/22"/>
 
 ---
 
@@ -99,9 +100,10 @@ Times are tough
   - IMF, World Bank, WTO, OECD, G7, etc: Imperialism and extractivism
 
 - The United Nations
-  - Winners of WWII get veto powers; can't be democratized (Articles 108 and 109)
+  - Winners of WWII get veto powers
+  - Can't be democratized (Articles 108 and 109)
 
-<div id="progress" class="w-4/21"/>
+<div id="progress" class="w-4/22"/>
 
 ---
 layout: cover
@@ -110,11 +112,11 @@ class: text-center
 
 # Power Frameworks
 
-#### Eleven diagrams of how our world works and could work
+#### Twelve diagrams of how our world works and could work
 
 Also a bit of a roller coaster 🎢
 
-<div id="progress" class="w-5/21"/>
+<div id="progress" class="w-5/22"/>
 
 ---
 
@@ -143,7 +145,7 @@ And framework rules
    <img src="/power_frameworks/power_framework_1_single_nation.svg" class="h-64" alt="Power Framework 1 - Single Nation"/>
 </div>
 
-<div id="progress" class="w-6/21"/>
+<div id="progress" class="w-6/22"/>
 
 ---
 
@@ -161,44 +163,59 @@ And rules continued
    <img src="/power_frameworks/power_framework_2_separate_nations.svg" class="h-50" alt="Power Framework 2 - Separate Nations"/>
 </div>
 
-<div id="progress" class="w-7/21"/>
+<div id="progress" class="w-7/22"/>
 
 ---
 
-# Power Framework 3: Globalization
+# Power Framework 3: Globalization and Internationalism
+
+What the textbooks say
+
+<div class="flex justify-center py-4">
+   <img src="/power_frameworks/power_framework_3_textbook_globalization_and_internationalism.svg" class="h-64 pr-32" alt="Power Framework 3 - Globalization and Internationalism"/>
+</div>
+
+- Part of capital can move across national borders
+- "Nations collaborate in support of peoples the world over" ✨
+
+<div id="progress" class="w-8/22"/>
+
+---
+
+# Power Framework 4: Actual Globalization
 
 Don't listen to neoliberals
 
 <div class="flex justify-center py-4">
-   <img src="/power_frameworks/power_framework_3_globalization.svg" class="h-64 pr-32" alt="Power Framework 3 - Globalization"/>
+   <img src="/power_frameworks/power_framework_4_actual_globalization.svg" class="h-64 pr-32" alt="Power Framework 4 - Actual Globalization"/>
 </div>
 
-- Capital collaborates to undermine political institutions
+- Capital (1%) collaborates to undermine political institutions
 - National power is captured in both cases and workers are oppressed
 - Lack of common, binding laws for workers
 
-<div id="progress" class="w-8/21"/>
+<div id="progress" class="w-9/22"/>
 
 ---
 
-# Power Framework 4: A Democratic Federation
+# Power Framework 5: A Democratic Federation
 
 Worker power (in abstraction)
 
 <div class="flex justify-center py-4">
-   <img src="/power_frameworks/power_framework_4_democratic_federation_abstraction.svg" class="h-72 pr-36" alt="Power Framework 4 - Democratic Federation Abstraction"/>
+   <img src="/power_frameworks/power_framework_5_democratic_federation_abstraction.svg" class="h-72 pr-36" alt="Power Framework 5 - Democratic Federation Abstraction"/>
 </div>
 
 - Federations: The political and economic unions of nations (with <u>parliament and court</u>, ex. EU)
 - Common citizenship (🤝), legal protections (labor, fair trial, against discrimination, democracy)
 
-<div id="progress" class="w-9/21"/>
+<div id="progress" class="w-10/22"/>
 
 ---
 
 # Dissolved Borders
 
-What the left wants through federalism and federations
+Another option along with abolishing them
 
 <div class="flex py-4 space-x-20">
    <ul>
@@ -223,31 +240,31 @@ What the left wants through federalism and federations
 
 <img src="/graphics/dissolved_borders.svg" class="h-4/5 absolute top-16 right-28" alt="Dissolved Borders Image"/>
 
-<div id="progress" class="w-10/21"/>
+<div id="progress" class="w-11/22"/>
 
 ---
 
-# Power Framework 5: An Authoritarian Federation
+# Power Framework 6: An Authoritarian Federation
 
 What we're trying to avoid
 
 <div class="flex justify-center py-4">
-   <img src="/power_frameworks/power_framework_5_authoritarian_federation.svg" class="h-72 pr-40" alt="Power Framework 5 - Authoritarian Federation"/>
+   <img src="/power_frameworks/power_framework_6_authoritarian_federation.svg" class="h-72 pr-40" alt="Power Framework 6 - Authoritarian Federation"/>
 </div>
 
 - Influence of capital is too strong
 - 🛑 Authoritarianism: Devolution of power to nations and levels below (grassroots)
 
-<div id="progress" class="w-11/21"/>
+<div id="progress" class="w-12/22"/>
 
 ---
 
-# Power Frameworks 3, 4 and 5
+# Power Frameworks 4, 5 and 6
 
 A Comparison
 
 <div class="flex justify-center py-2">
-   <img src="/power_frameworks/power_frameworks_3_4_and_5_comparison.svg" class="h-56" alt="Power Frameworks 3, 4 and 5 Comparison"/>
+   <img src="/power_frameworks/power_frameworks_4_5_and_6_comparison.svg" class="h-56" alt="Power Frameworks 4, 5 and 6 Comparison"/>
 </div>
 
 - Globalization alone: We're fucked
@@ -255,7 +272,7 @@ A Comparison
 - Authoritarian federation: Serious problems; can collaborate to get to democracy
 - 🛑 Authoritarianism: Free association and dissociation
 
-<div id="progress" class="w-12/21"/>
+<div id="progress" class="w-13/22"/>
 
 ---
 
@@ -270,37 +287,37 @@ Shifting to concrete examples
 - Germany, Belgium, Costa Rica and the United States
 - Goal: The end of nationalism and with it imperialism (US must be included)
 
-<div id="progress" class="w-13/21"/>
+<div id="progress" class="w-14/22"/>
 
 ---
 
-# Power Framework 6: Our Contemporary World
+# Power Framework 7: Our Contemporary World
 
 Capital has the advantage
 
 <div class="flex justify-center py-4">
-   <img src="/power_frameworks/power_framework_6_contemporary_world.svg" class="h-72 pr-20" alt="Power Framework 6 - Contemporary World"/>
+   <img src="/power_frameworks/power_framework_7_contemporary_world.svg" class="h-72 pr-20" alt="Power Framework 7 - Contemporary World"/>
 </div>
 
 - Capital and nations outside the federation undermine its solidarity (not authoritarian, yet 🇪🇺🗳️)
 - Consider: An authoritarian EU along with an AfD government in Germany ...
 
-<div id="progress" class="w-14/21"/>
+<div id="progress" class="w-15/22"/>
 
 ---
 
-# Power Framework 7: Federations
+# Power Framework 8: Federations
 
 Could be a good thing (in abstraction)
 
 <div class="flex justify-center py-4">
-   <img src="/power_frameworks/power_framework_7_federations_abstraction.svg" class="h-72 pr-32" alt="Power Framework 7 - Federations Abstraction"/>
+   <img src="/power_frameworks/power_framework_8_federations_abstraction.svg" class="h-72 pr-32" alt="Power Framework 8 - Federations Abstraction"/>
 </div>
 
 - Co-opting existing international institutions
 - 🛑 Authoritarianism: Parliament, court, etc spread across member nations (not the strongest)
 
-<div id="progress" class="w-15/21"/>
+<div id="progress" class="w-16/22"/>
 
 ---
 
@@ -320,84 +337,84 @@ Could be a good thing (in abstraction)
    </div>
 </div>
 
-<div id="progress" class="w-16/21"/>
+<div id="progress" class="w-17/22"/>
 
 ---
 
-# Power Framework 8: Federations in Internationalism
+# Power Framework 9: Federations in Internationalism
 
 National supremacy wins out
 
 <div class="flex justify-center py-4">
-   <img src="/power_frameworks/power_framework_8_federations_in_internationalism.svg" class="h-72 pr-32" alt="Power Framework 8 - Federations Under Internationalism"/>
+   <img src="/power_frameworks/power_framework_9_federations_in_internationalism.svg" class="h-72 pr-32" alt="Power Framework 9 - Federations Under Internationalism"/>
 </div>
 
 - Nations that can leverage international institutions will control federations
 - Considering goal, reconsider internationalism (specifically financial institutions)
 
-<div id="progress" class="w-17/21"/>
+<div id="progress" class="w-18/22"/>
 
 ---
 
-# Power Framework 9: Free Association
+# Power Framework 10: Free Association
 
 Ideally regionally, but if all else fails ...
 
 <div class="flex justify-center py-4">
-   <img src="/power_frameworks/power_framework_9_federations_free_association.svg" class="h-72 pr-32" alt="Power Framework 9 - Federations Free Association"/>
+   <img src="/power_frameworks/power_framework_10_federations_free_association.svg" class="h-72 pr-32" alt="Power Framework 10 - Federations Free Association"/>
 </div>
 
 - 🛑 Authoritarianism: Dissociate and join another (also for better institutions)
 - Let's talk Canadian affiliate EU membership
 
-<div id="progress" class="w-18/21"/>
+<div id="progress" class="w-19/22"/>
 
 ---
 
-# Power Framework 10: More Federations
+# Power Framework 11: More Federations
 
 Imperial powers disadvantaged
 
 <div class="flex justify-center pr-12">
-   <img src="/power_frameworks/power_framework_10_more_federations.svg" class="h-72" alt="Power Framework 10 - More Federations"/>
+   <img src="/power_frameworks/power_framework_11_more_federations.svg" class="h-72" alt="Power Framework 11 - More Federations"/>
 </div>
 
 - Global South <u>takes</u> right to collective bargaining (ex. 2014 Malabo Protocols: AC; AUA → PAP)
 - Are we consumers, or are we workers?
 - 🛑 Authoritarianism: Financial institutions between federations, not nations (IMF, Wold Bank ❌)
 
-<div id="progress" class="w-19/21"/>
+<div id="progress" class="w-20/22"/>
 
 ---
 
-# Power Framework 11: A Federalized World
+# Power Framework 12: A Federalized World
 
 The end of nationalism
 
 <div class="flex justify-center pr-12">
-   <img src="/power_frameworks/power_framework_11_federalized_world.svg" class="h-72" alt="Power Framework 11 - Federalized World"/>
+   <img src="/power_frameworks/power_framework_12_federalized_world.svg" class="h-72" alt="Power Framework 12 - Federalized World"/>
 </div>
 
-- Federations as the highest political vehicles of humanity (🤝)
+- Federations as the <u>highest</u> political vehicles of humanity (🤝)
 - Dramatically reduced capital power and extraction, leads to equity
 - Devolution of political power determined by democracies
 
-<div id="progress" class="w-20/21"/>
+<div id="progress" class="w-21/22"/>
 
 <!--
 
 ---
 
-# Power Framework 12: The United Federations
+# Power Framework 13: The United Federations
 
-Not something we should do
+Not something we should do, with examples I don't like
 
 <div class="flex justify-center pr-16">
-   <img src="/power_frameworks/power_framework_12_united_federations_united_nations_dystopia_or_multi_planetary_society.svg" class="h-72" alt="Power Framework 12 - The United Federations"/>
+   <img src="/power_frameworks/power_framework_13_united_federations_united_nations_dystopia_or_multi_planetary_society.svg" class="h-72" alt="Power Framework 13 - The United Federations"/>
 </div>
 
 - United Nations dystopia (security council collaborates against federations)
-- Multi-planet society (I don't like this example, assures equity - no "New Europe" Mars colony 🤦‍♂️)
+- Multi-planet society (assures equity - no "New Europe" Mars colony 🤦‍♂️)
 - Benefits: Global citizenship and rights; all borders are dissolved | Issue: Single point of failure
 
 -->
@@ -418,7 +435,7 @@ A few examples
   - workers get rights, equity and can more easily act in solidarity
 - More coordinated action against the climate crisis and solidarity with those affected (🤝❤️)
 
-<div id="progress" class="w-21/21"/>
+<div id="progress" class="w-22/22"/>
 
 ---
 layout: cover
