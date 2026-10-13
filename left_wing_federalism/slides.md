@@ -206,7 +206,7 @@ What the left wants through federalism and federations
       <li>
          Federations: Free movement across interior borders (ex. Schengen Area)
          <ul>
-            <li>People, not just goods and services (mostly benefits capital)</li>
+            <li>People, not just goods and services</li>
          </ul>
       </li>
       <li>
