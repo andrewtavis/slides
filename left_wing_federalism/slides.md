@@ -175,8 +175,8 @@ What the textbooks say
    <img src="/power_frameworks/power_framework_3_textbook_globalization_and_internationalism.svg" class="h-64 pr-32" alt="Power Framework 3 - Globalization and Internationalism"/>
 </div>
 
-- Part of capital can move across national borders
-- "Nations collaborate in support of peoples the world over" ✨
+- Part of capital can now move across national borders
+- "Nations collaborate in support of peoples the world over ✨" 🤨
 
 <div id="progress" class="w-8/22"/>
 
@@ -215,7 +215,7 @@ Worker power (in abstraction)
 
 # Dissolved Borders
 
-Another option along with abolishing them
+Another option, along with abolishing them
 
 <div class="flex py-4 space-x-20">
    <ul>
@@ -395,7 +395,7 @@ The end of nationalism
    <img src="/power_frameworks/power_framework_12_federalized_world.svg" class="h-72" alt="Power Framework 12 - Federalized World"/>
 </div>
 
-- Federations as the <u>highest</u> political vehicles of humanity (🤝)
+- Federations as the <u>highest</u> political vehicles of humanity (🤝, above is single point of failure)
 - Dramatically reduced capital power and extraction, leads to equity
 - Devolution of political power determined by democracies
 
