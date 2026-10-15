@@ -223,7 +223,7 @@ Another option, along with abolishing them
       <li>
          Free movement, residence and employment across interior borders
          <ul>
-            <li>Exs. Schengen, Common Travel Area, Andean Community, ECOWAS, EAC</li>
+            <li>Exs. EU, Schengen, Common Travel Area, Andean Community, ECOWAS, EAC</li>
             <li>People, not just goods and services</li>
          </ul>
       </li>
@@ -239,7 +239,7 @@ Another option, along with abolishing them
    </ul>
 </div>
 
-<img src="/graphics/dissolved_borders.svg" class="h-4/5 absolute top-16 right-28" alt="Dissolved Borders Image"/>
+<img src="/graphics/dissolved_borders.svg" class="h-4/5 absolute top-16 right-20" alt="Dissolved Borders Image"/>
 
 <div id="progress" class="w-11/22"/>
 
