@@ -252,7 +252,7 @@ What we're trying to avoid
    <img src="/power_frameworks/power_framework_6_authoritarian_federation.svg" class="h-72 pr-36" alt="Power Framework 6 - Authoritarian Federation"/>
 </div>
 
-- Influence of capital is too strong
+- Influence of capital is too strong, protections decline
 - 🛑 Authoritarianism: Devolution of power to nations and levels below (grassroots)
 
 <div id="progress" class="w-12/22"/>
