@@ -221,8 +221,9 @@ Another option, along with abolishing them
    <ul>
       <li>Borders: Violent, arbitrary and divisive</li>
       <li>
-         Federations: Free movement across interior borders (ex. Schengen Area)
+         Free movement, residence and employment across interior borders
          <ul>
+            <li>Exs. Schengen, Common Travel Area, Andean Community, ECOWAS, EAC</li>
             <li>People, not just goods and services</li>
          </ul>
       </li>
