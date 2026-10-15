@@ -28,7 +28,7 @@ Hopeful takeaways
 - We all have multifaceted political identities
   - Consider adding (anarcho)federalism to yours
 - Levels of government above nations are opportunities
-  - Shared identities and political protections
+  - Shared identities and political protections (not agreements)
   - Free association above nations is necessary
   - Has to come from below (grassroots)
 - The value of co-opting institutions (Übernehmen)
@@ -67,7 +67,7 @@ From a US-American and American
 
 <div class="flex py-4 space-x-24">
    <ul>
-      <li>1952 / 1957: ECSC / ECC</li>
+      <li>1952 / 1957: ECSC / EEC</li>
       <li>1985 / 1995: Schengen Agreement / Area</li>
       <li>1993: European Union</li>
       <li>2018: General Data Protection Regulation</li>
@@ -172,11 +172,12 @@ And rules continued
 What the textbooks say
 
 <div class="flex justify-center py-4">
-   <img src="/power_frameworks/power_framework_3_textbook_globalization_and_internationalism.svg" class="h-64 pr-32" alt="Power Framework 3 - Globalization and Internationalism"/>
+   <img src="/power_frameworks/power_framework_3_textbook_globalization_and_internationalism.svg" class="h-64 pr-28" alt="Power Framework 3 - Globalization and Internationalism"/>
 </div>
 
 - Part of capital can now move across national borders
-- "Nations collaborate in support of peoples the world over ✨" 🤨
+- "Competition! Innovation! Lower prices!" 🤦‍♂️
+- "Nations collaborate in support of people all over the world ✨" 🤨
 
 <div id="progress" class="w-8/22"/>
 
@@ -187,7 +188,7 @@ What the textbooks say
 Don't listen to neoliberals
 
 <div class="flex justify-center py-4">
-   <img src="/power_frameworks/power_framework_4_actual_globalization.svg" class="h-64 pr-32" alt="Power Framework 4 - Actual Globalization"/>
+   <img src="/power_frameworks/power_framework_4_actual_globalization.svg" class="h-64 pr-28" alt="Power Framework 4 - Actual Globalization"/>
 </div>
 
 - Capital (1%) collaborates to undermine political institutions
@@ -215,7 +216,7 @@ Worker power (in abstraction)
 
 # Dissolved Borders
 
-Another option, along with abolishing them
+If you can't abolish, dissolve; if already dissolved, abolish
 
 <div class="flex py-4 space-x-20">
    <ul>
@@ -234,8 +235,6 @@ Another option, along with abolishing them
          </ul>
       </li>
       <li>Huge step for regions <u>outside Europe</u></li>
-      <li>If you can't abolish, dissolve</li>
-      <li>If already dissolved, abolish</li>
    </ul>
 </div>
 
@@ -250,7 +249,7 @@ Another option, along with abolishing them
 What we're trying to avoid
 
 <div class="flex justify-center py-4">
-   <img src="/power_frameworks/power_framework_6_authoritarian_federation.svg" class="h-72 pr-40" alt="Power Framework 6 - Authoritarian Federation"/>
+   <img src="/power_frameworks/power_framework_6_authoritarian_federation.svg" class="h-72 pr-36" alt="Power Framework 6 - Authoritarian Federation"/>
 </div>
 
 - Influence of capital is too strong
@@ -297,7 +296,7 @@ Shifting to concrete examples
 Capital has the advantage
 
 <div class="flex justify-center py-4">
-   <img src="/power_frameworks/power_framework_7_contemporary_world.svg" class="h-72 pr-20" alt="Power Framework 7 - Contemporary World"/>
+   <img src="/power_frameworks/power_framework_7_contemporary_world.svg" class="h-72 pr-32" alt="Power Framework 7 - Contemporary World"/>
 </div>
 
 - Capital and nations outside the federation undermine its solidarity (not authoritarian, yet 🇪🇺🗳️)
@@ -322,7 +321,7 @@ Could be a good thing (in abstraction)
 
 ---
 
-# Our International "Friends"
+# International Institutions
 
 ... are enabling national supremacy
 
@@ -396,9 +395,9 @@ The end of nationalism
    <img src="/power_frameworks/power_framework_12_federalized_world.svg" class="h-72" alt="Power Framework 12 - Federalized World"/>
 </div>
 
-- Federations as the <u>highest</u> political vehicles of humanity (🤝, above is single point of failure)
+- Federations as the <u>highest</u> political vehicles of humanity (above is single point of failure)
 - Dramatically reduced capital power and extraction, leads to equity
-- Devolution of political power determined by democracies
+- Devolution of political power determined by democracies (🤝)
 
 <div id="progress" class="w-21/22"/>
 
