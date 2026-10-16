@@ -28,7 +28,7 @@ Hopeful takeaways
 - We all have multifaceted political identities
   - Consider adding (anarcho)federalism to yours
 - Levels of government above nations are opportunities
-  - Shared identities and political protections (not agreements)
+  - Shared identities and political protections (not just agreements)
   - Free association above nations is necessary
   - Has to come from below (grassroots)
 - The value of co-opting institutions (Übernehmen)
@@ -67,18 +67,20 @@ From a US-American and American
 
 <div class="flex py-4 space-x-24">
    <ul>
-      <li>1952 / 1957: ECSC / EEC</li>
-      <li>1985 / 1995: Schengen Agreement / Area</li>
-      <li>1993: European Union</li>
+      <li>1951 - 52: Paris → ECSC (EC, EP, CotEU, ECJ)</li>
+      <li>1957: Rome / Euratom → EEC / EAEC</li>
+      <li>1985 - 95: Schengen Agreement → Area</li>
+      <li>1992 - 93 / 97: Maastricht → EU / Amsterdam</li>
       <li>2018: General Data Protection Regulation</li>
-      <li>2018: ECJ supports Polish SC judges</li>
+      <li>2018: ECJ supports Polish Supreme Court judges</li>
       <li>2025: European Accessibility Act</li>
       <li>2026: Right to Repair</li>
    </ul>
-   <img src="/flags_and_logos/flag_of_europe.svg" class="h-56" alt="Flag of the EU"/>
+   <div class="flex-col space-y-2">
+      <img src="/flags_and_logos/flag_of_ecsc_original.svg" class="h-32" alt="Flag of the EU"/>
+      <img src="/flags_and_logos/flag_of_europe.svg" class="h-32" alt="Flag of the EU"/>
+   </div>
 </div>
-
-<br/>
 
 Started with an economic focus. Is exploitive. Engage and co-opt! (June 2029 🇪🇺🗳️)
 
@@ -224,7 +226,7 @@ If you can't abolish, dissolve; if already dissolved, abolish
       <li>
          Free movement, residence and employment across interior borders
          <ul>
-            <li>Exs. EU, Schengen, Common Travel Area, Andean Community, ECOWAS, EAC</li>
+            <li>Exs. Schengen, Common Travel Area, Andean Community, ECOWAS, EAC</li>
             <li>People, not just goods and services</li>
          </ul>
       </li>
@@ -238,7 +240,7 @@ If you can't abolish, dissolve; if already dissolved, abolish
    </ul>
 </div>
 
-<img src="/graphics/dissolved_borders.svg" class="h-4/5 absolute top-16 right-20" alt="Dissolved Borders Image"/>
+<img src="/graphics/dissolved_borders.svg" class="h-4/5 absolute top-16 right-24" alt="Dissolved Borders Image"/>
 
 <div id="progress" class="w-11/22"/>
 
