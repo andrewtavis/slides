@@ -46,13 +46,19 @@ Two schools
    <div>
       <p class="text-3xl">Anarchofederalism</p>
       <ul>
-         <li>Free association of constituents</li>
+         <li>Week or no central government (contracts)</li>
+         <li class="pt-4">Collective force</li>
+         <li class="pt-4">Free association, bottom up</li>
+         <li class="pt-4">Population: Aggregates of associations</li>
       </ul>
    </div>
    <div>
-      <p class="text-3xl">"Real" Republican (👑❌) Federalism</p>
+      <p class="text-3xl">Republican (👑❌) Federalism</p>
       <ul>
-         <li></li>
+         <li>Strong central government</li>
+         <li class="pt-4">Reserved force</li>
+         <li class="pt-4">Association imposed, top down</li>
+         <li class="pt-4">Population: Unitary - creates other</li>
       </ul>
    </div>
 </div>
@@ -206,10 +212,11 @@ Don't listen to neoliberals
 Worker power (in abstraction)
 
 <div class="flex justify-center py-4">
-   <img src="/power_frameworks/power_framework_5_democratic_federation_abstraction.svg" class="h-72 pr-36" alt="Power Framework 5 - Democratic Federation Abstraction"/>
+   <img src="/power_frameworks/power_framework_5_democratic_federation_abstraction.svg" class="h-64 pr-32" alt="Power Framework 5 - Democratic Federation Abstraction"/>
 </div>
 
 - Federations: The political and economic unions of nations (with <u>parliament and court</u>, ex. EU)
+- Not limited to nations (regions, federations themselves)
 - Common citizenship (🤝), legal protections (labor, fair trial, against discrimination, democracy)
 
 <div id="progress" class="w-10/22"/>
@@ -251,11 +258,12 @@ If you can't abolish, dissolve; if already dissolved, abolish
 What we're trying to avoid
 
 <div class="flex justify-center py-4">
-   <img src="/power_frameworks/power_framework_6_authoritarian_federation.svg" class="h-72 pr-36" alt="Power Framework 6 - Authoritarian Federation"/>
+   <img src="/power_frameworks/power_framework_6_authoritarian_federation.svg" class="h-64 pr-32" alt="Power Framework 6 - Authoritarian Federation"/>
 </div>
 
 - Influence of capital is too strong, protections decline, political control
 - 🛑 Authoritarianism: Devolution of power to nations and levels below (grassroots)
+- 🛑 Authoritarianism: No police or centralized military
 
 <div id="progress" class="w-12/22"/>
 
@@ -454,3 +462,11 @@ class: text-center
   <img src="/left_wing_federalism_qr_code.png" class="h-24" alt="QR code to a markdown file for the slides"/>
   <p class="text-sm">Slides</p>
 </div>
+
+---
+
+# References
+
+- [James Guillaume: Federalism, Solidarité, 1871](https://theanarchistlibrary.org/library/james-guillaume-federalism)
+- [Daniel al-Rashid: What do anarchists mean by ‘federalism’?, Red and Black Notes, 2020](https://theanarchistlibrary.org/library/daniel-al-rashid-what-do-anarchists-mean-by-federalism)
+- [Colin Ward: The Anarchist Sociology of Federalism, Freedom, 1992](https://theanarchistlibrary.org/library/colin-ward-the-anarchist-sociology-of-federalism)
