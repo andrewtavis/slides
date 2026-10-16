@@ -61,7 +61,7 @@ Two schools
 
 ---
 
-# History of the EU
+# History of the European Union
 
 From a US-American and American
 
@@ -254,7 +254,7 @@ What we're trying to avoid
    <img src="/power_frameworks/power_framework_6_authoritarian_federation.svg" class="h-72 pr-36" alt="Power Framework 6 - Authoritarian Federation"/>
 </div>
 
-- Influence of capital is too strong, protections decline
+- Influence of capital is too strong, protections decline, political control
 - 🛑 Authoritarianism: Devolution of power to nations and levels below (grassroots)
 
 <div id="progress" class="w-12/22"/>
@@ -397,9 +397,9 @@ The end of nationalism
    <img src="/power_frameworks/power_framework_12_federalized_world.svg" class="h-72" alt="Power Framework 12 - Federalized World"/>
 </div>
 
-- Federations as the <u>highest</u> political vehicles of humanity (above is single point of failure)
-- Dramatically reduced capital power and extraction, leads to equity
 - Devolution of political power determined by democracies (🤝)
+- Dramatically reduced capital power and extraction, leads to equity
+- Federations as the <u>highest</u> political vehicles of humanity (above is single point of failure)
 
 <div id="progress" class="w-21/22"/>
 
