@@ -67,7 +67,7 @@ From a US-American and American
 
 <div class="flex py-4 space-x-24">
    <ul>
-      <li>1951 - 52: Paris → ECSC (EC, EP, CotEU, ECJ)</li>
+      <li>1951 - 52: Paris → ECSC (early EC, EP, CotEU, ECJ)</li>
       <li>1957: Rome / Euratom → EEC / EAEC</li>
       <li>1985 - 95: Schengen Agreement → Area</li>
       <li>1992 - 93 / 97: Maastricht → EU / Amsterdam</li>
