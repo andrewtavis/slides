@@ -216,8 +216,8 @@ Worker power (in abstraction)
    <img src="/power_frameworks/power_framework_5_democratic_federation_abstraction.svg" class="h-64 pr-32" alt="Power Framework 5 - Democratic Federation Abstraction"/>
 </div>
 
-- Federations: The political and economic unions of nations (with <u>parliament and court</u>, ex. EU)
-- Not limited to nations (federations themselves, no set hierarchies in free association)
+- Federations: The political and economic unions of nations
+- With <u>parliament</u> and <u>court</u> (ex. EU, maximum centralization)
 - Common citizenship (🤝), legal protections (labor, fair trial, against discrimination, democracy)
 
 <div id="progress" class="w-10/22"/>
