@@ -29,6 +29,7 @@ Hopeful takeaways
   - Consider adding (anarcho)federalism to yours
 - Levels of government above nations are opportunities
   - Shared identities and political protections (not just agreements)
+  - Spectrum between decentralization and centralization
   - Free association above nations is necessary
   - Has to come from below (grassroots)
 - The value of co-opting institutions (Übernehmen)
@@ -42,11 +43,11 @@ Hopeful takeaways
 
 Two schools
 
-<div class="grid grid-cols-2 gap-4">
+<div class="flex space-x-16">
    <div>
       <p class="text-3xl">Anarchofederalism</p>
       <ul>
-         <li>Week or no central government (contracts)</li>
+         <li>Weak or no central government (contracts)</li>
          <li class="pt-4">Collective force</li>
          <li class="pt-4">Free association, bottom up</li>
          <li class="pt-4">Population: Aggregates of associations</li>
@@ -58,7 +59,7 @@ Two schools
          <li>Strong central government</li>
          <li class="pt-4">Reserved force</li>
          <li class="pt-4">Association imposed, top down</li>
-         <li class="pt-4">Population: Unitary - creates other</li>
+         <li class="pt-4">Population: Unitary of individuals</li>
       </ul>
    </div>
 </div>
@@ -216,7 +217,7 @@ Worker power (in abstraction)
 </div>
 
 - Federations: The political and economic unions of nations (with <u>parliament and court</u>, ex. EU)
-- Not limited to nations (regions, federations themselves)
+- Not limited to nations (federations themselves, no set hierarchies in free association)
 - Common citizenship (🤝), legal protections (labor, fair trial, against discrimination, democracy)
 
 <div id="progress" class="w-10/22"/>
@@ -467,6 +468,10 @@ class: text-center
 
 # References
 
-- [James Guillaume: Federalism, Solidarité, 1871](https://theanarchistlibrary.org/library/james-guillaume-federalism)
-- [Daniel al-Rashid: What do anarchists mean by ‘federalism’?, Red and Black Notes, 2020](https://theanarchistlibrary.org/library/daniel-al-rashid-what-do-anarchists-mean-by-federalism)
+- [Camillo Berneri: Kropotkin: His Federalist Ideas, 1922](https://theanarchistlibrary.org/library/camillo-berneri-kropotkin-his-federalist-ideas)
 - [Colin Ward: The Anarchist Sociology of Federalism, Freedom, 1992](https://theanarchistlibrary.org/library/colin-ward-the-anarchist-sociology-of-federalism)
+- [Daniel al-Rashid: What do anarchists mean by ‘federalism’?, Red and Black Notes, 2020](https://theanarchistlibrary.org/library/daniel-al-rashid-what-do-anarchists-mean-by-federalism)
+- [James Guillaume: Federalism, Solidarité, 1871](https://theanarchistlibrary.org/library/james-guillaume-federalism)
+- [Mikhail Bakunin: Federalism, Socialism, Anti-Theologism, Geneva, 1867](https://www.marxists.org/reference/archive/bakunin/works/various/reasons-of-state.htm)
+- [Pëtr Kropotkin, Words of a Rebel, Le Révolté, 1885](https://theanarchistlibrary.org/library/petr-kropotkin-words-of-a-rebel-1)
+- [Pierre-Joseph Proudhon: The Federative Principle, 1863](https://theanarchistlibrary.org/library/pierre-joseph-proudhon-the-federative-principle-2)
