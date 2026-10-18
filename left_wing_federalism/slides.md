@@ -82,7 +82,7 @@ From a US-American and American
       <li>2026: Right to Repair</li>
    </ul>
    <div class="flex-col space-y-2">
-      <img src="/flags_and_logos/flag_of_ecsc_original.svg" class="h-32" alt="Flag of the EU"/>
+      <img src="/flags_and_logos/flag_of_ecsc_original.svg" class="h-32" alt="Flag of the ECSC"/>
       <img src="/flags_and_logos/flag_of_europe.svg" class="h-32" alt="Flag of the EU"/>
    </div>
 </div>
@@ -150,7 +150,7 @@ And framework rules
          Arrows: <u>Cumulative</u> power direction
       </li>
    </ul>
-   <img src="/power_frameworks/power_framework_1_single_nation.svg" class="h-64" alt="Power Framework 1 - Single Nation"/>
+   <img src="/power_frameworks/power_framework_1_single_nation.svg" class="h-64" alt="Power Framework 1 - A Single Nation"/>
 </div>
 
 <div id="progress" class="w-6/22"/>
