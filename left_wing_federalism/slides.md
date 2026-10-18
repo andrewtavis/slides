@@ -70,6 +70,47 @@ Two schools
 
 # History of the European Union
 
+From a US-American
+
+<div class="flex py-4 space-x-24">
+   <ul>
+      <li>1951 - 52: Paris → ECSC (early EC, EP, CotEU, ECJ)</li>
+      <li>1957: Rome / Euratom → EEC / EAEC</li>
+      <li>1985 - 95: Schengen Agreement → Area</li>
+      <li>1992 - 93 / 97: Maastricht → EU / Amsterdam</li>
+      <li>2018: General Data Protection Regulation</li>
+      <li>2018: ECJ supports Polish Supreme Court judges</li>
+      <li>2025: European Accessibility Act</li>
+      <li>2026: Right to Repair</li>
+   </ul>
+   <div class="flex-col space-y-2">
+      <img src="/flags_and_logos/flag_of_ecsc_original.svg" class="h-32" alt="Flag of the EU"/>
+      <img src="/flags_and_logos/flag_of_europe.svg" class="h-32" alt="Flag of the EU"/>
+   </div>
+</div>
+
+Started with an economic focus. Is exploitive. Engage and co-opt! (June 2029 🇪🇺🗳️)
+
+<div id="progress" class="w-3/22"/>
+
+<!--
+
+---
+
+# America is a Continent
+
+Your grade school teacher will forgive you
+
+<div class="flex justify-center py-2">
+   <img src="/graphics/world_map_with_america.svg" class="h-96" alt="World map with America, the continent, colored red"/>
+</div>
+
+<div id="progress" class="w-3/22"/>
+
+---
+
+# History of the European Union
+
 From a US-American and American
 
 <div class="flex py-4 space-x-24">
@@ -93,6 +134,8 @@ Started with an economic focus. Is exploitive. Engage and co-opt! (June 2029 �
 
 <div id="progress" class="w-3/22"/>
 
+-->
+
 ---
 
 # Our Contemporary World
@@ -101,15 +144,14 @@ Times are tough
 
 - The 1.5°C and 2°C goals to avert worst of the climate crisis will not be met
 
-- AI, the far right and lots of interwoven, speculative funding
-  - Reducing the agency of working people - lift from production (✊📣🪧)
+- AI, the far right and lots of interwoven, speculative funding reduce worker agency (✊)
 
 - Mixed bag of internationalism
-  - World Health Organization: Solid with room for improvement (_de-funded by the US_)
+  - World Health Organization: De-funded by the US
   - IMF, World Bank, WTO, OECD, G7, etc: Imperialism and extractivism
 
 - The United Nations
-  - Winners of WWII get veto powers
+  - Winners of WWII have veto powers
   - Can't be democratized (Articles 108 and 109)
 
 <div id="progress" class="w-4/22"/>
@@ -185,7 +227,7 @@ What the textbooks say
 </div>
 
 - Part of capital can now move across national borders
-- "Competition! Innovation! Lower prices!" 🤦‍♂️
+- "Competition! Innovation! Low prices!" 🤦‍♂️
 - "Nations collaborate in support of people all over the world ✨" 🤨
 
 <div id="progress" class="w-8/22"/>
@@ -201,7 +243,7 @@ Don't listen to neoliberals
 </div>
 
 - Capital (1%) collaborates to undermine political institutions
-- National power is captured in both cases and workers are oppressed
+- National power is captured in both cases and workers (99%) are oppressed
 - Lack of common, binding laws for workers
 
 <div id="progress" class="w-9/22"/>
@@ -217,7 +259,7 @@ Worker power (in abstraction)
 </div>
 
 - Federations: The political and economic unions of nations
-- With <u>parliament</u> and <u>court</u> (ex. EU, maximum centralization)
+- With <u>parliament</u> and <u>court</u> (degree of centralization, ex. EU)
 - Common citizenship (🤝), legal protections (labor, fair trial, against discrimination, democracy)
 
 <div id="progress" class="w-10/22"/>
@@ -264,7 +306,7 @@ What we're trying to avoid
 
 - Influence of capital is too strong, protections decline, political control
 - 🛑 Authoritarianism: Devolution of power to nations and levels below (grassroots)
-- 🛑 Authoritarianism: No police or centralized military
+- 🛑 Authoritarianism: No standing, centralized police or military
 
 <div id="progress" class="w-12/22"/>
 
@@ -473,5 +515,5 @@ class: text-center
 - [Daniel al-Rashid: What do anarchists mean by ‘federalism’?, Red and Black Notes, 2020](https://theanarchistlibrary.org/library/daniel-al-rashid-what-do-anarchists-mean-by-federalism)
 - [James Guillaume: Federalism, Solidarité, 1871](https://theanarchistlibrary.org/library/james-guillaume-federalism)
 - [Mikhail Bakunin: Federalism, Socialism, Anti-Theologism, Geneva, 1867](https://www.marxists.org/reference/archive/bakunin/works/various/reasons-of-state.htm)
-- [Pëtr Kropotkin, Words of a Rebel, Le Révolté, 1885](https://theanarchistlibrary.org/library/petr-kropotkin-words-of-a-rebel-1)
+- [Pëtr Kropotkin: Words of a Rebel, Le Révolté, 1885](https://theanarchistlibrary.org/library/petr-kropotkin-words-of-a-rebel-1)
 - [Pierre-Joseph Proudhon: The Federative Principle, 1863](https://theanarchistlibrary.org/library/pierre-joseph-proudhon-the-federative-principle-2)
