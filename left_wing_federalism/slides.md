@@ -231,7 +231,7 @@ If you can't abolish, dissolve; if already dissolved, abolish
    <ul>
       <li>Borders: Violent, arbitrary and divisive</li>
       <li>
-         Free movement, residence and employment across interior borders
+         Dissolve: Free movement, residence and/or employment across interior borders
          <ul>
             <li>Exs. Schengen, Common Travel Area, Andean Community, ECOWAS, EAC</li>
             <li>People, not just goods and services</li>
