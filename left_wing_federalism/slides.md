@@ -33,7 +33,6 @@ Hopeful takeaways
   - Free association above nations is necessary
   - Has to come from below (grassroots)
 - The value of co-opting institutions (Übernehmen)
-- You don't have to end nations to end nationalism
 
 <div id="progress" class="w-1/22"/>
 
@@ -76,7 +75,6 @@ From a US-American
    <ul>
       <li>1951 - 52: Paris → ECSC (early EC, EP, CotEU, ECJ)</li>
       <li>1957: Rome / Euratom → EEC / EAEC</li>
-      <li>1985 - 95: Schengen Agreement → Area</li>
       <li>1992 - 93 / 97: Maastricht → EU / Amsterdam</li>
       <li>2018: General Data Protection Regulation</li>
       <li>2018: ECJ supports Polish Supreme Court judges</li>
@@ -88,6 +86,8 @@ From a US-American
       <img src="/flags_and_logos/flag_of_europe.svg" class="h-32" alt="Flag of the EU"/>
    </div>
 </div>
+
+<br>
 
 Started with an economic focus. Is exploitive. Engage and co-opt! (June 2029 🇪🇺🗳️)
 
@@ -117,7 +117,6 @@ From a US-American and American
    <ul>
       <li>1951 - 52: Paris → ECSC (early EC, EP, CotEU, ECJ)</li>
       <li>1957: Rome / Euratom → EEC / EAEC</li>
-      <li>1985 - 95: Schengen Agreement → Area</li>
       <li>1992 - 93 / 97: Maastricht → EU / Amsterdam</li>
       <li>2018: General Data Protection Regulation</li>
       <li>2018: ECJ supports Polish Supreme Court judges</li>
@@ -129,6 +128,8 @@ From a US-American and American
       <img src="/flags_and_logos/flag_of_europe.svg" class="h-32" alt="Flag of the EU"/>
    </div>
 </div>
+
+<br>
 
 Started with an economic focus. Is exploitive. Engage and co-opt! (June 2029 🇪🇺🗳️)
 
@@ -244,7 +245,7 @@ Don't listen to neoliberals
 
 - Capital (1%) collaborates to undermine political institutions
 - National power is captured in both cases and workers (99%) are oppressed
-- Lack of common, binding laws for workers
+- Lack of common, binding laws for workers (capital has leverage)
 
 <div id="progress" class="w-9/22"/>
 
@@ -367,7 +368,7 @@ Could be a good thing (in abstraction)
    <img src="/power_frameworks/power_framework_8_federations_abstraction.svg" class="h-72 pr-32" alt="Power Framework 8 - Federations Abstraction"/>
 </div>
 
-- Co-opting existing international institutions
+- Co-opting existing international institutions (in this case, close to impossible)
 - 🛑 Authoritarianism: Parliament, court, etc spread across member nations (not the strongest)
 
 <div id="progress" class="w-16/22"/>
@@ -450,7 +451,7 @@ The end of nationalism
 
 - Devolution of political power determined by democracies (🤝)
 - Dramatically reduced capital power and extraction, leads to equity
-- Federations as the <u>highest</u> political vehicles of humanity (above is single point of failure)
+- Federations as the <u>highest</u> political vehicles of humanity (above is a single point of failure)
 
 <div id="progress" class="w-21/22"/>
 
