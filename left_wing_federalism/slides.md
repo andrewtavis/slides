@@ -69,48 +69,6 @@ Two schools
 
 # History of the European Union
 
-From a US-American
-
-<div class="flex py-4 space-x-24">
-   <ul>
-      <li>1951 - 52: Paris → ECSC (early EC, EP, CotEU, ECJ)</li>
-      <li>1957: Rome / Euratom → EEC / EAEC</li>
-      <li>1992 - 93 / 97: Maastricht → EU / Amsterdam</li>
-      <li>2018: General Data Protection Regulation</li>
-      <li>2018: ECJ supports Polish Supreme Court judges</li>
-      <li>2025: European Accessibility Act</li>
-      <li>2026: Right to Repair</li>
-   </ul>
-   <div class="flex-col space-y-2">
-      <img src="/flags_and_logos/flag_of_ecsc_original.svg" class="h-32" alt="Flag of the EU"/>
-      <img src="/flags_and_logos/flag_of_europe.svg" class="h-32" alt="Flag of the EU"/>
-   </div>
-</div>
-
-<br>
-
-Started with an economic focus. Is exploitive. Engage and co-opt! (June 2029 🇪🇺🗳️)
-
-<div id="progress" class="w-3/22"/>
-
-<!--
-
----
-
-# America is a Continent
-
-Your grade school teacher will forgive you
-
-<div class="flex justify-center py-2">
-   <img src="/graphics/world_map_with_america.svg" class="h-96" alt="World map with America, the continent, colored red"/>
-</div>
-
-<div id="progress" class="w-3/22"/>
-
----
-
-# History of the European Union
-
 From a US-American and American
 
 <div class="flex py-4 space-x-24">
@@ -134,8 +92,6 @@ From a US-American and American
 Started with an economic focus. Is exploitive. Engage and co-opt! (June 2029 🇪🇺🗳️)
 
 <div id="progress" class="w-3/22"/>
-
--->
 
 ---
 
