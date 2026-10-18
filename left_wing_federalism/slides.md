@@ -145,7 +145,7 @@ Times are tough
 
 - The 1.5°C and 2°C goals to avert worst of the climate crisis will not be met
 
-- AI, the far right and lots of interwoven, speculative funding reduce worker agency (✊)
+- AI, the far right and lots of interwoven, speculative funding reduce worker agency (✊🪧)
 
 - Mixed bag of internationalism
   - World Health Organization: De-funded by the US
@@ -245,7 +245,7 @@ Don't listen to neoliberals
 
 - Capital (1%) collaborates to undermine political institutions
 - National power is captured in both cases and workers (99%) are oppressed
-- Lack of common, binding laws for workers (capital has leverage)
+- Lack of common, binding laws for workers (capital uses its leverage)
 
 <div id="progress" class="w-9/22"/>
 
@@ -464,7 +464,7 @@ The end of nationalism
 Not something we should do, with examples I don't like
 
 <div class="flex justify-center pr-16">
-   <img src="/power_frameworks/power_framework_13_united_federations_united_nations_dystopia_or_multi_planetary_society.svg" class="h-72" alt="Power Framework 13 - The United Federations"/>
+   <img src="/power_frameworks/power_framework_13_united_federations_not_needed_united_nations_dystopia_or_multi_planetary_society.svg" class="h-72" alt="Power Framework 13 - The United Federations"/>
 </div>
 
 - United Nations dystopia (security council collaborates against federations)
@@ -511,10 +511,20 @@ class: text-center
 
 # References
 
-- [Camillo Berneri: Kropotkin: His Federalist Ideas, 1922](https://theanarchistlibrary.org/library/camillo-berneri-kropotkin-his-federalist-ideas)
-- [Colin Ward: The Anarchist Sociology of Federalism, Freedom, 1992](https://theanarchistlibrary.org/library/colin-ward-the-anarchist-sociology-of-federalism)
-- [Daniel al-Rashid: What do anarchists mean by ‘federalism’?, Red and Black Notes, 2020](https://theanarchistlibrary.org/library/daniel-al-rashid-what-do-anarchists-mean-by-federalism)
-- [James Guillaume: Federalism, Solidarité, 1871](https://theanarchistlibrary.org/library/james-guillaume-federalism)
-- [Mikhail Bakunin: Federalism, Socialism, Anti-Theologism, Geneva, 1867](https://www.marxists.org/reference/archive/bakunin/works/various/reasons-of-state.htm)
-- [Pëtr Kropotkin: Words of a Rebel, Le Révolté, 1885](https://theanarchistlibrary.org/library/petr-kropotkin-words-of-a-rebel-1)
-- [Pierre-Joseph Proudhon: The Federative Principle, 1863](https://theanarchistlibrary.org/library/pierre-joseph-proudhon-the-federative-principle-2)
+1. [Anarchist Federation: Basic Bakunin, Fourth Edition, 2014](https://theanarchistlibrary.org/library/anarchist-federation-basic-bakunin)
+
+2. [Camillo Berneri: Kropotkin: His Federalist Ideas, 1922](https://theanarchistlibrary.org/library/camillo-berneri-kropotkin-his-federalist-ideas)
+
+3. [Colin Ward: The Anarchist Sociology of Federalism, Freedom, 1992](https://theanarchistlibrary.org/library/colin-ward-the-anarchist-sociology-of-federalism)
+
+4. [Daniel Rashid: What do anarchists mean by ‘federalism’?, Red and Black Notes, 2020](https://theanarchistlibrary.org/library/what-do-anarchists-mean-by-federalism)
+
+5. [David S. D’Amato: Federalism and the Left: Toward Community Power, 2025](https://theanarchistlibrary.org/library/federalism-and-the-left)
+
+6. [James Guillaume: Federalism, Solidarité, 1871](https://theanarchistlibrary.org/library/james-guillaume-federalism)
+
+7. [Mikhail Bakunin: Federalism, Socialism, Anti-Theologism, Geneva Congress, 1867](https://theanarchistlibrary.org/library/michail-bakunin-federalism-socialism-anti-theologism)
+
+8. [Pëtr Kropotkin: Words of a Rebel, articles from Le Révolté (1879 - 1882), 1885](https://theanarchistlibrary.org/library/petr-kropotkin-words-of-a-rebel-1)
+
+9. [Pierre-Joseph Proudhon: The Federative Principle: and the Need to Reconstitute the Party of Revolution, 1863](https://theanarchistlibrary.org/library/pierre-joseph-proudhon-the-federative-principle-2)
