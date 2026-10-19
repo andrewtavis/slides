@@ -69,7 +69,7 @@ Two schools
 
 # History of the European Union
 
-From a US-American and American
+From a US-American
 
 <div class="flex py-4 space-x-24">
    <ul>
