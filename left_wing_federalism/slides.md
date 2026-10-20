@@ -103,7 +103,7 @@ Times are tough
 
 - AI, the far right and lots of interwoven, speculative funding reduce worker agency (✊🪧)
 
-- Mixed bag of internationalism
+- Internationalism litmus test
   - World Health Organization: De-funded by the US
   - IMF, World Bank, WTO, OECD, G7, etc: Imperialism and extractivism
 
@@ -273,13 +273,17 @@ What we're trying to avoid
 
 A Comparison
 
-<div class="flex justify-center py-2">
+<div class="flex-col justify-center pt-2">
    <img src="/power_frameworks/power_frameworks_4_5_and_6_comparison.svg" class="h-56" alt="Power Frameworks 4, 5 and 6 Comparison"/>
+   <div class="grid grid-cols-3 w-full">
+      <p class="text-center pr-8">Globalization: We're fucked</p>
+      <p class="text-center pr-1">Democratic: Doing great</p>
+      <p class="text-center pl-5">Authoritarian: Problems</p>
+   </div>
 </div>
 
-- Globalization alone: We're fucked
-- Democratic federation: We're doing great
-- Authoritarian federation: Serious problems; can collaborate to get to democracy
+- Authoritarian federation: Can still collaborate to get to democracy
+- 🛑 Authoritarianism: Recall delegated power
 - 🛑 Authoritarianism: Free association and dissociation
 
 <div id="progress" class="w-13/22"/>
