@@ -283,7 +283,7 @@ A Comparison
 </div>
 
 - Authoritarian federation: Can still collaborate to get to democracy
-- 🛑 Authoritarianism: Recall delegated power
+- 🛑 Authoritarianism: Recall delegated power (no mandates)
 - 🛑 Authoritarianism: Free association and dissociation
 
 <div id="progress" class="w-13/22"/>
