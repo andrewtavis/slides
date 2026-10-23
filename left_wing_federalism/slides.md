@@ -30,8 +30,8 @@ Hopeful takeaways
 - Levels of government above nations are opportunities
   - Shared identities and political protections (not just agreements)
   - Spectrum between decentralization and centralization
-  - Free association above nations is necessary
   - Has to come from below (grassroots)
+  - Free association above nations is necessary
 - The value of co-opting institutions (Übernehmen)
 
 <div id="progress" class="w-1/23"/>
