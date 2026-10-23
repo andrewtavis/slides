@@ -228,7 +228,7 @@ Worker power (in abstraction)
    <img src="/power_frameworks/power_framework_5_democratic_federation_abstraction.svg" class="h-64 pr-32" alt="Power Framework 5 - Democratic Federation Abstraction"/>
 </div>
 
-- Federations: The political and economic unions of nations (evtl. no set hierarchies in association)
+- Federations: The political and economic unions of nations (no set hierarchies in association)
 - With <u>parliament</u> and <u>court</u> (degree of centralization, ex. EU)
 - Common citizenship (🤝), legal protections (labor, fair trial, against discrimination, democracy)
 
@@ -423,7 +423,7 @@ The end of nationalism
 </div>
 
 - Devolution of political power determined by democracies (🤝)
-- Dramatically reduced capital power and extraction, leads to equity
+- Dissolved borders, dramatically reduced extraction by capital, a more equitable world
 - Federations as the <u>highest</u> political vehicles of humanity (above is a single point of failure)
 
 <div id="progress" class="w-22/23"/>
