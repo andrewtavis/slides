@@ -31,7 +31,7 @@ Hopeful takeaways
   - Shared identities and political protections (not just agreements)
   - Spectrum between decentralization and centralization
   - Has to come from below (grassroots)
-  - Free association above nations is necessary
+  - Delegation of power and free association are necessary
 - The value of co-opting institutions (Übernehmen)
 
 <div id="progress" class="w-1/23"/>
