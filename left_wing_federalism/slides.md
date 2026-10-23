@@ -34,7 +34,20 @@ Hopeful takeaways
   - Has to come from below (grassroots)
 - The value of co-opting institutions (Übernehmen)
 
-<div id="progress" class="w-1/22"/>
+<div id="progress" class="w-1/23"/>
+
+---
+
+# An-archy
+
+No rule doesn't mean chaos
+
+<p>Anarchy is a form of society without rulers. As a type of stateless society, it is commonly contrasted with states, which are polities that claim a monopoly on violence over a permanent territory.</p>
+<p>[...]</p>
+<p>By the late 18th century, some philosophers began to speak in defence of anarchy, seeing it as a preferable alternative to existing forms of tyranny. This lay the foundations for the development of <u>anarchism</u>, which advocates for the creation of anarchy through decentralisation and <u>federalism</u>.</p>
+<p class="absolute right-16">English Wikipedia: Anarchy</p>
+
+<div id="progress" class="w-2/23"/>
 
 ---
 
@@ -63,7 +76,7 @@ Two schools
    </div>
 </div>
 
-<div id="progress" class="w-2/22"/>
+<div id="progress" class="w-3/23"/>
 
 ---
 
@@ -91,7 +104,7 @@ From a US-American
 
 Started with an economic focus. Is exploitive. Engage and co-opt! (June 2029 🇪🇺🗳️)
 
-<div id="progress" class="w-3/22"/>
+<div id="progress" class="w-4/23"/>
 
 ---
 
@@ -111,7 +124,7 @@ Times are tough
   - Winners of WWII have veto powers
   - Can't be democratized (Articles 108 and 109)
 
-<div id="progress" class="w-4/22"/>
+<div id="progress" class="w-5/23"/>
 
 ---
 layout: cover
@@ -124,7 +137,7 @@ class: text-center
 
 Also a bit of a roller coaster 🎢
 
-<div id="progress" class="w-5/22"/>
+<div id="progress" class="w-6/23"/>
 
 ---
 
@@ -153,7 +166,7 @@ And framework rules
    <img src="/power_frameworks/power_framework_1_single_nation.svg" class="h-64" alt="Power Framework 1 - A Single Nation"/>
 </div>
 
-<div id="progress" class="w-6/22"/>
+<div id="progress" class="w-7/23"/>
 
 ---
 
@@ -171,7 +184,7 @@ And rules continued
    <img src="/power_frameworks/power_framework_2_separate_nations.svg" class="h-50" alt="Power Framework 2 - Separate Nations"/>
 </div>
 
-<div id="progress" class="w-7/22"/>
+<div id="progress" class="w-8/23"/>
 
 ---
 
@@ -187,7 +200,7 @@ What the textbooks say
 - "Competition! Innovation! Low prices!" 🤦‍♂️
 - "Nations collaborate in support of people all over the world ✨" 🤨
 
-<div id="progress" class="w-8/22"/>
+<div id="progress" class="w-9/23"/>
 
 ---
 
@@ -203,7 +216,7 @@ Don't listen to neoliberals
 - National power is captured in both cases and workers (99%) are oppressed
 - Lack of common, binding laws for workers (capital uses its leverage)
 
-<div id="progress" class="w-9/22"/>
+<div id="progress" class="w-10/23"/>
 
 ---
 
@@ -219,7 +232,7 @@ Worker power (in abstraction)
 - With <u>parliament</u> and <u>court</u> (degree of centralization, ex. EU)
 - Common citizenship (🤝), legal protections (labor, fair trial, against discrimination, democracy)
 
-<div id="progress" class="w-10/22"/>
+<div id="progress" class="w-11/23"/>
 
 ---
 
@@ -249,7 +262,7 @@ If you can't abolish, dissolve; if already dissolved, abolish
 
 <img src="/graphics/dissolved_borders.svg" class="h-4/5 absolute top-16 right-24" alt="Dissolved Borders Image"/>
 
-<div id="progress" class="w-11/22"/>
+<div id="progress" class="w-12/23"/>
 
 ---
 
@@ -265,7 +278,7 @@ What we're trying to avoid
 - 🛑 Authoritarianism: Devolution of power to nations and levels below (grassroots)
 - 🛑 Authoritarianism: No standing, centralized police or military
 
-<div id="progress" class="w-12/22"/>
+<div id="progress" class="w-13/23"/>
 
 ---
 
@@ -286,7 +299,7 @@ A Comparison
 - 🛑 Authoritarianism: Recall delegated power (no mandates)
 - 🛑 Authoritarianism: Free association and dissociation
 
-<div id="progress" class="w-13/22"/>
+<div id="progress" class="w-14/23"/>
 
 ---
 
@@ -301,7 +314,7 @@ Shifting to concrete examples
 - Germany, Belgium, Costa Rica and the United States
 - Goal: The end of nationalism and with it imperialism (US must be included)
 
-<div id="progress" class="w-14/22"/>
+<div id="progress" class="w-15/23"/>
 
 ---
 
@@ -316,7 +329,7 @@ Capital has the advantage
 - Capital and nations outside the federation undermine its solidarity (not authoritarian, yet 🇪🇺🗳️)
 - Consider: An authoritarian EU along with an AfD government in Germany ...
 
-<div id="progress" class="w-15/22"/>
+<div id="progress" class="w-16/23"/>
 
 ---
 
@@ -331,7 +344,7 @@ Could be a good thing (in abstraction)
 - Co-opting existing international institutions (in this case, close to impossible)
 - 🛑 Authoritarianism: Parliament, court, etc spread across member nations (not the strongest)
 
-<div id="progress" class="w-16/22"/>
+<div id="progress" class="w-17/23"/>
 
 ---
 
@@ -351,7 +364,7 @@ Could be a good thing (in abstraction)
    </div>
 </div>
 
-<div id="progress" class="w-17/22"/>
+<div id="progress" class="w-18/23"/>
 
 ---
 
@@ -366,7 +379,7 @@ National supremacy wins out
 - Nations that can leverage international institutions will control federations
 - Considering goal, reconsider internationalism (specifically financial institutions)
 
-<div id="progress" class="w-18/22"/>
+<div id="progress" class="w-19/23"/>
 
 ---
 
@@ -381,7 +394,7 @@ Ideally regionally, but if all else fails ...
 - 🛑 Authoritarianism: Dissociate and join another (also for better institutions)
 - Let's talk Canadian affiliate EU membership
 
-<div id="progress" class="w-19/22"/>
+<div id="progress" class="w-20/23"/>
 
 ---
 
@@ -397,7 +410,7 @@ Imperial powers disadvantaged
 - Are we consumers, or are we workers?
 - 🛑 Authoritarianism: Financial institutions between federations, not nations (IMF, Wold Bank ❌)
 
-<div id="progress" class="w-20/22"/>
+<div id="progress" class="w-21/23"/>
 
 ---
 
@@ -413,7 +426,7 @@ The end of nationalism
 - Dramatically reduced capital power and extraction, leads to equity
 - Federations as the <u>highest</u> political vehicles of humanity (above is a single point of failure)
 
-<div id="progress" class="w-21/22"/>
+<div id="progress" class="w-22/23"/>
 
 <!--
 
@@ -449,7 +462,7 @@ A few examples
   - workers get rights, equity and can more easily act in solidarity
 - More coordinated action against the climate crisis and solidarity with those affected (🤝❤️)
 
-<div id="progress" class="w-22/22"/>
+<div id="progress" class="w-23/23"/>
 
 ---
 layout: cover
