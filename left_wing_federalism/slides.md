@@ -61,6 +61,7 @@ Two schools
       <ul>
          <li>Weak or no central government (contracts)</li>
          <li class="pt-4">Collective force</li>
+         <li class="pt-4">Power delegated</li>
          <li class="pt-4">Free association, bottom up</li>
          <li class="pt-4">Population: Aggregates of associations</li>
       </ul>
@@ -70,6 +71,7 @@ Two schools
       <ul>
          <li>Strong central government</li>
          <li class="pt-4">Reserved force</li>
+         <li class="pt-4">Power mandated</li>
          <li class="pt-4">Association imposed, top down</li>
          <li class="pt-4">Population: Unitary of individuals</li>
       </ul>
