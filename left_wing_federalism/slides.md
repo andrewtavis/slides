@@ -45,7 +45,7 @@ No rule doesn't mean chaos
 <p>Anarchy is a form of society without rulers. As a type of stateless society, it is commonly contrasted with states, which are polities that claim a monopoly on violence over a permanent territory.</p>
 <p>[...]</p>
 <p>By the late 18th century, some philosophers began to speak in defence of anarchy, seeing it as a preferable alternative to existing forms of tyranny. This lay the foundations for the development of <u>anarchism</u>, which advocates for the creation of anarchy through decentralisation and <u>federalism</u>.</p>
-<p class="absolute right-16">English Wikipedia: Anarchy</p>
+<p>English Wikipedia: Anarchy</p>
 
 <div id="progress" class="w-2/23"/>
 
