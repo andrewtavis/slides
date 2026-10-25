@@ -48,7 +48,7 @@ hide: false
 
 <br/>
 
-> Thanks to all of the amazing people in these communities! ❤️💙
+> Thanks to all of the amazing people in these communities! ❤️🩵
 
 <div id="progress" class="w-1/11"/>
 
