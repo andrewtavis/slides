@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://codeberg.org/andrewtavis/slides"><img src="https://codeberg.org/andrewtavis/slides/raw/branch/main/.forgejo/resources/SlidesGitHubBanner.png" style="width: 100%; max-width: 100%;" alt="Slides logo"></a>
+  <a href="https://codeberg.org/andrewtavis/slides"><img src="https://codeberg.org/andrewtavis/slides/raw/branch/main/.forgejo/resources/SlidesBanner.png" style="width: 100%; max-width: 100%;" alt="Slides logo"></a>
 </div>
 
 [![issues](https://img.shields.io/gitea/issues/open/andrewtavis/slides?gitea_url=https://codeberg.org&label=%20&logo=codeberg&logoColor=ffffff)](https://codeberg.org/andrewtavis/slides/issues)
