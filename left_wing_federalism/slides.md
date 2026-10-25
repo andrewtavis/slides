@@ -43,7 +43,7 @@ Hopeful takeaways
 No rule doesn't mean chaos
 
 <p>Anarchy is a form of society without rulers. As a type of stateless society, it is commonly contrasted with states, which are polities that claim a monopoly on violence over a permanent territory.</p>
-<p>[...]</p>
+<p>[... "state of nature" ...]</p>
 <p>By the late 18th century, some philosophers began to speak in defence of anarchy, seeing it as a preferable alternative to existing forms of tyranny. This lay the foundations for the development of <u>anarchism</u>, which advocates for the creation of anarchy through decentralisation and <u>federalism</u>.</p>
 <p>English Wikipedia: Anarchy</p>
 
@@ -57,16 +57,6 @@ Two schools
 
 <div class="flex space-x-16">
    <div>
-      <p class="text-3xl">Anarchofederalism</p>
-      <ul>
-         <li>Weak or no central government (contracts)</li>
-         <li class="pt-4">Collective force</li>
-         <li class="pt-4">Power delegated</li>
-         <li class="pt-4">Free association, bottom up</li>
-         <li class="pt-4">Population: Aggregates of associations</li>
-      </ul>
-   </div>
-   <div>
       <p class="text-3xl">Republican (👑❌) Federalism</p>
       <ul>
          <li>Strong central government</li>
@@ -74,6 +64,16 @@ Two schools
          <li class="pt-4">Power mandated</li>
          <li class="pt-4">Association imposed, top down</li>
          <li class="pt-4">Population: Unitary of individuals</li>
+      </ul>
+   </div>
+   <div>
+      <p class="text-3xl">Anarchofederalism</p>
+      <ul>
+         <li>Weak or no central government (contracts)</li>
+         <li class="pt-4">Collective force</li>
+         <li class="pt-4">Power delegated</li>
+         <li class="pt-4">Free association, bottom up</li>
+         <li class="pt-4">Population: Aggregates of associations</li>
       </ul>
    </div>
 </div>
@@ -277,8 +277,8 @@ What we're trying to avoid
 </div>
 
 - Influence of capital is too strong, protections decline, political control
-- 🛑 Authoritarianism: Devolution of power to nations and levels below (grassroots)
 - 🛑 Authoritarianism: No standing, centralized police or military
+- 🛑 Authoritarianism: Free association and dissociation
 
 <div id="progress" class="w-13/23"/>
 
@@ -298,8 +298,8 @@ A Comparison
 </div>
 
 - Authoritarian federation: Can still collaborate to get to democracy
+- 🛑 Authoritarianism: Devolution of power to nations and levels below (grassroots)
 - 🛑 Authoritarianism: Recall delegated power (no mandates)
-- 🛑 Authoritarianism: Free association and dissociation
 
 <div id="progress" class="w-14/23"/>
 
