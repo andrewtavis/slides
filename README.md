@@ -1,10 +1,10 @@
 <div align="center">
-  <a href="https://codeberg.org/andrewtavis/slides"><img src="https://codeberg.org/andrewtavis/slides/raw/branch/main/.github/resources/SlidesGitHubBanner.png" style="width: 100%; max-width: 100%;" alt="Slides logo"></a>
+  <a href="https://codeberg.org/andrewtavis/slides"><img src="https://codeberg.org/andrewtavis/slides/raw/branch/main/.forgejo/resources/SlidesGitHubBanner.png" style="width: 100%; max-width: 100%;" alt="Slides logo"></a>
 </div>
 
 [![issues](https://img.shields.io/gitea/issues/open/andrewtavis/slides?gitea_url=https://codeberg.org&label=%20&logo=codeberg&logoColor=ffffff)](https://codeberg.org/andrewtavis/slides/issues)
 [![license](https://img.shields.io/github/license/andrewtavis/slides.svg?label=%20)](LICENSE.txt)
-[![coc](https://img.shields.io/badge/Contributor%20Covenant-ff69b4.svg)](.github/CODE_OF_CONDUCT.md)
+[![coc](https://img.shields.io/badge/Contributor%20Covenant-ff69b4.svg)](.forgejo/CODE_OF_CONDUCT.md)
 
 ### Presentations related to open source and politics
 

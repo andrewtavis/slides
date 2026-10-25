@@ -6,7 +6,7 @@ Thank you for contributing to Slides!
 
 Please take a moment to review this document in order to make the contribution process easy and effective for everyone involved.
 
-Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open-source project. In return, and in accordance with this project's [code of conduct](.github/CODE_OF_CONDUCT.md), other contributors will reciprocate that respect in addressing your issue or assessing patches and features.
+Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open-source project. In return, and in accordance with this project's [code of conduct](.forgejo/CODE_OF_CONDUCT.md), other contributors will reciprocate that respect in addressing your issue or assessing patches and features.
 
 ## Contents
 
