@@ -32,7 +32,7 @@ Hopeful takeaways
   - Spectrum between decentralization and centralization
   - Has to come from below (grassroots)
   - Delegation of power and free association are necessary
-- The value of co-opting institutions (Übernehmen)
+- Politicizing and co-opting institutions (Übernehmen)
 
 <div id="progress" class="w-1/23"/>
 
