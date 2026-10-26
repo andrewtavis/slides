@@ -29,7 +29,6 @@ Hopeful takeaways
   - Consider adding (anarcho)federalism to yours
 - Levels of government above nations are opportunities
   - Shared identities and political protections (not just agreements)
-  - Spectrum between decentralization and centralization
   - Has to come from below (grassroots)
   - Delegation of power and free association are necessary
 - Politicizing and co-opting institutions (Übernehmen)
@@ -42,10 +41,15 @@ Hopeful takeaways
 
 No rule doesn't mean chaos
 
-<p>Anarchy is a form of society without rulers. As a type of stateless society, it is commonly contrasted with states, which are polities that claim a monopoly on violence over a permanent territory.</p>
-<p>[... "state of nature" ...]</p>
-<p>By the late 18th century, some philosophers began to speak in defence of anarchy, seeing it as a preferable alternative to existing forms of tyranny. This lay the foundations for the development of <u>anarchism</u>, which advocates for the creation of anarchy through decentralisation and <u>federalism</u>.</p>
-<p>English Wikipedia: Anarchy</p>
+Anarchy is a form of society without rulers. As a type of stateless society, it is commonly contrasted with states, which are polities that claim a monopoly on violence over a permanent territory.
+
+\[... "state of nature" ...\]
+
+By the late 18th century, some philosophers began to speak in defence of anarchy, seeing it as a preferable alternative to existing forms of tyranny. This lay the foundations for the development of <u>anarchism</u>, which advocates for the creation of anarchy through decentralisation and <u>federalism</u>.
+
+English Wikipedia: Anarchy
+
+**Rather: No rulers means agency.**
 
 <div id="progress" class="w-2/23"/>
 
@@ -135,7 +139,7 @@ class: text-center
 
 # Power Frameworks
 
-#### Twelve diagrams of how our world works and could work
+#### Diagrams of how our world works and could work
 
 Also a bit of a roller coaster 🎢
 
