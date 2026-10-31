@@ -314,7 +314,7 @@ A Comparison
 
 # Four Example Nations
 
-Shifting to concrete examples
+Shifting to concrete representations
 
 <div class="flex justify-center py-2">
    <img src="/power_frameworks/four_example_nations.svg" class="h-72 pr-20" alt="Four Example Nations"/>
